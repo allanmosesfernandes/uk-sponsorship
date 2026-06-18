@@ -2,6 +2,7 @@
 import { parse } from "csv-parse/sync";
 import { readFile } from "node:fs/promises";
 import path from "node:path";
+import Fuse from 'fuse.js';
 
 type CsvRow = {
     'Organisation Name': string;

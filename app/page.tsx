@@ -1,4 +1,5 @@
 import { loadCompanies } from "@/lib/companies";
+import { fusedCompanies } from "@/lib/search";
 
 // TODO: derive this from the CSV filename/data instead of hardcoding (see MISSION "then" list).
 const LAST_UPDATED = "5th June 2026";
@@ -20,9 +21,9 @@ export default async function Home({ searchParams }: {
 }) {
   const params = await searchParams;
   const searchParam = params.search;
-  const companies = await loadCompanies();
+  
   const results = searchParam
-    ? companies.filter(c => c.companyName.toLowerCase().includes(searchParam.toLowerCase()))
+    ? fusedCompanies.search(searchParam).map(result => result.item).slice(0, 50)
     : [];
 
   return (
