@@ -1,65 +1,132 @@
-import Image from "next/image";
+import { loadCompanies } from "@/lib/companies";
 
-export default function Home() {
+// TODO: derive this from the CSV filename/data instead of hardcoding (see MISSION "then" list).
+const LAST_UPDATED = "5th June 2026";
+
+// One label/value row of the brutalist data table.
+function Field({ label, children }: { label: string; children: React.ReactNode }) {
   return (
-    <div className="flex flex-col flex-1 items-center justify-center bg-zinc-50 font-sans dark:bg-black">
-      <main className="flex flex-1 w-full max-w-3xl flex-col items-center justify-between py-32 px-16 bg-white dark:bg-black sm:items-start">
-        <Image
-          className="dark:invert"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={100}
-          height={20}
-          priority
-        />
-        <div className="flex flex-col items-center gap-6 text-center sm:items-start sm:text-left">
-          <h1 className="max-w-xs text-3xl font-semibold leading-10 tracking-tight text-black dark:text-zinc-50">
-            To get started, edit the page.tsx file.
-          </h1>
-          <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
-            Looking for a starting point or more instructions? Head over to{" "}
-            <a
-              href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Templates
-            </a>{" "}
-            or the{" "}
-            <a
-              href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Learning
-            </a>{" "}
-            center.
+    <div className="grid grid-cols-[88px_1fr] sm:grid-cols-[140px_1fr] border-b-2 border-foreground last:border-b-0">
+      <dt className="border-r-2 border-foreground px-3 py-2 text-[10px] sm:text-xs font-bold uppercase tracking-widest">
+        {label}
+      </dt>
+      <dd className="px-3 py-2 text-xs sm:text-sm uppercase wrap-break-word">{children}</dd>
+    </div>
+  );
+}
+
+export default async function Home({ searchParams }: {
+  searchParams: Promise<{ [key: string]: string | undefined }>
+}) {
+  const params = await searchParams;
+  const searchParam = params.search;
+  const companies = await loadCompanies();
+  const results = searchParam
+    ? companies.filter(c => c.companyName.toLowerCase().includes(searchParam.toLowerCase()))
+    : [];
+
+  return (
+    <div className="flex min-h-screen flex-col">
+
+      {/* Wordmark header */}
+      <header className="border-b-2 border-foreground">
+        <div className="mx-auto flex w-full max-w-3xl items-end justify-between px-4 py-4">
+          <div>
+            <h1 className="text-2xl font-bold uppercase leading-none tracking-tight sm:text-4xl">
+              UK Visa Sponsor Checker
+            </h1>
+            <p className="mt-1.5 text-[10px] uppercase tracking-[0.2em] sm:text-xs">
+              Official UKVI Register ◆ Live Data
+            </p>
+            <p className="mt-0.5 text-[10px] uppercase tracking-[0.2em] opacity-60 sm:text-xs">
+              Last Updated: {LAST_UPDATED}
+            </p>
+          </div>
+          <span className="hidden shrink-0 border-2 border-foreground px-2 py-1 text-xs font-bold uppercase sm:block">
+            UKVI
+          </span>
+        </div>
+      </header>
+
+      <main className="mx-auto w-full max-w-3xl flex-1 px-4 py-8 sm:py-12">
+
+        {/* Search */}
+        <form method="get" className="flex border-2 border-foreground">
+          <input
+            type="search"
+            name="search"
+            defaultValue={searchParam ?? ""}
+            placeholder="Enter a company name…"
+            className="min-w-0 flex-1 bg-transparent px-4 py-3 text-sm uppercase outline-none placeholder:text-foreground/50"
+          />
+          <button
+            type="submit"
+            className="shrink-0 border-l-2 border-foreground bg-foreground px-5 py-3 text-sm font-bold uppercase tracking-widest text-background transition-opacity hover:opacity-80"
+          >
+            Search
+          </button>
+        </form>
+
+        {/* Before any search */}
+        {!searchParam && (
+          <p className="mt-12 text-center text-xs uppercase tracking-[0.2em] opacity-60">
+            ◆ Type a company name to check its sponsor status ◆
           </p>
-        </div>
-        <div className="flex flex-col gap-4 text-base font-medium sm:flex-row">
-          <a
-            className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className="dark:invert"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={16}
-              height={16}
-            />
-            Deploy Now
-          </a>
-          <a
-            className="flex h-12 w-full items-center justify-center rounded-full border border-solid border-black/[.08] px-5 transition-colors hover:border-transparent hover:bg-black/[.04] dark:border-white/[.145] dark:hover:bg-[#1a1a1a] md:w-[158px]"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Documentation
-          </a>
-        </div>
+        )}
+
+        {/* No matches */}
+        {searchParam && results.length === 0 && (
+          <div className="mt-8 border-2 border-dashed border-foreground p-8 text-center text-xs uppercase tracking-widest">
+            No sponsors found for “{searchParam}”
+          </div>
+        )}
+
+        {/* Results */}
+        {results.length > 0 && (
+          <>
+            <p className="mb-4 mt-8 text-[10px] font-bold uppercase tracking-[0.2em]">
+              ◆ {results.length} {results.length === 1 ? "Sponsor" : "Sponsors"} Found
+            </p>
+            <ul className="space-y-5">
+              {results.map(company => {
+                const grade = company.type.includes("A rating")
+                  ? "A"
+                  : company.type.includes("B rating")
+                    ? "B"
+                    : "–";
+                return (
+                  <li key={company.companyName} className="border-2 border-foreground">
+                    {/* Company name bar */}
+                    <div className="flex items-stretch justify-between border-b-2 border-foreground">
+                      <h2 className="px-3 py-2 text-sm font-bold uppercase wrap-break-word sm:text-base">
+                        {company.companyName}
+                      </h2>
+                      <span className="flex shrink-0 items-center border-l-2 border-foreground bg-foreground px-4 text-lg font-bold text-background">
+                        {grade}
+                      </span>
+                    </div>
+
+                    {/* Data table */}
+                    <dl>
+                      <Field label="Location">
+                        {[company.city, company.county].filter(Boolean).join(", ")}
+                      </Field>
+                      <Field label="Licence">{company.type}</Field>
+                      <Field label="Routes">
+                        {company.companyRoutes.join(" ◆ ")}
+                      </Field>
+                    </dl>
+                  </li>
+                );
+              })}
+            </ul>
+          </>
+        )}
       </main>
+
+      <footer className="mx-auto w-full max-w-3xl px-4 py-4 text-[10px] uppercase tracking-[0.2em] opacity-60">
+        ◆ Data: gov.uk register of licensed sponsors (workers)
+      </footer>
     </div>
   );
 }
