@@ -39,3 +39,14 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+docs/
+CV-TAILOR-ROADMAP.md
+.vscode/settings.json
+learning-records/
+lessons/
+reference/
+RESOURCES.md
+NOTES.md
+AGENTS.md
+MISSION.md
+AGENTS.md
