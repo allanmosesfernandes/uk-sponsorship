@@ -1,20 +1,11 @@
-# Lesson 0007 — auto-refresh pipeline.
-# This file is a SKELETON. Every <...> placeholder is a blank you fill in.
-# Hints next to each blank tell you the shape of the answer or where to look it up.
-# Delete the placeholder hints (they're comments) when you're done.
-
 name: Refresh sponsorship data
 run-name: Refresh sponsorship data
 on:
   schedule:
-    # Five fields: minute hour day-of-month month day-of-week (all UTC).
-    # We decided daily. GitHub recommends NOT using :00 — pick an offset minute
-    # (e.g. 17, 23) to dodge the on-the-hour scheduler crush.
     - cron: "17 3 * * *"
-  workflow_dispatch: # adds a manual "Run workflow" button in the Actions UI
+  workflow_dispatch:
 
 permissions:
-  # Default is read. The job has to `git push`. Pick the right value.
   contents: write
 
 jobs:
@@ -22,22 +13,17 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Step 1 — clone the repo into the runner.
       - uses: actions/checkout@v4
 
-      # Step 2 — install pnpm BEFORE setup-node so the cache can find it.
       - uses: pnpm/action-setup@v4
         with:
           version: 9
 
-      # Step 3 — install Node and turn on the pnpm cache.
       - uses: actions/setup-node@v4
         with:
           node-version: 24
           cache: "pnpm"
 
-      # Step 4 — install dependencies. There's a specific pnpm command for CI
-      # that respects the lockfile and refuses to mutate it. Look it up.
       - name: Install dependencies
         run: pnpm install --frozen-lockfile
 
@@ -45,17 +31,11 @@ jobs:
       - name: Run refresh script
         run: pnpm refresh
 
-      # Step 6 — commit only if data/ actually changed. This is the idempotency
-      # guard from your reference/git-and-bash-for-ci.md cheat sheet. Use the
-      # `git diff --cached --quiet` pattern. Bot identity convention:
-      #   email: github-actions[bot]@users.noreply.github.com
-      #   name:  github-actions[bot]
-      # The `run: |` block gives you a multi-line bash script.
       - name: Commit and push if data changed
         run: |
           # configure a git identity (the runner has none by default)
-          git config user.email "fernzallan14@gmail.com"
-          git config user.name  "allanmosesfernandes"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
 
           # stage everything in data/
           git add data/
@@ -63,6 +43,6 @@ jobs:
           # gate: only commit + push if there's actually a staged diff
           if ! git diff --cached --quiet; then
             # include the gov.uk publish date in the message — it's in data/latest-updated.txt
-            git commit -m "<your commit message — e.g. data: refresh ($(cat data/latest-updated.txt))>"
+            git commit -m "data: refresh ($(cat data/latest-updated.txt))"
             git push
           fi
