@@ -1,8 +1,28 @@
+import type { Metadata } from "next";
+import Link from "next/link";
 import { loadCompanies } from "@/lib/companies";
 import { fusedCompanies } from "@/lib/search";
 
 // TODO: derive this from the CSV filename/data instead of hardcoding (see MISSION "then" list).
 const LAST_UPDATED = "5th June 2026";
+
+type PageProps = {
+  searchParams: Promise<{ [key: string]: string | undefined }>;
+};
+
+// Give searched pages a descriptive <title>, but keep every query-string
+// variant canonicalised to "/" (inherited from the root layout) so search
+// engines consolidate them into a single indexed page.
+export async function generateMetadata({
+  searchParams,
+}: PageProps): Promise<Metadata> {
+  const search = (await searchParams).search?.trim();
+  if (!search) return {};
+  return {
+    title: `Sponsor licence results for “${search}”`,
+    description: `Companies matching “${search}” in the official gov.uk register of licensed UK visa sponsors, with their sponsor licence rating and visa routes.`,
+  };
+}
 
 // One label/value row of the brutalist data table.
 function Field({ label, children }: { label: string; children: React.ReactNode }) {
@@ -16,9 +36,7 @@ function Field({ label, children }: { label: string; children: React.ReactNode }
   );
 }
 
-export default async function Home({ searchParams }: {
-  searchParams: Promise<{ [key: string]: string | undefined }>
-}) {
+export default async function Home({ searchParams }: PageProps) {
   const params = await searchParams;
   const searchParam = params.search;
   
@@ -43,9 +61,12 @@ export default async function Home({ searchParams }: {
               Last Updated: {LAST_UPDATED}
             </p>
           </div>
-          <span className="hidden shrink-0 border-2 border-foreground px-2 py-1 text-xs font-bold uppercase sm:block">
-            UKVI
-          </span>
+          <Link
+            href="/about"
+            className="shrink-0 border-2 border-foreground px-3 py-1 text-xs font-bold uppercase transition-opacity hover:opacity-80"
+          >
+            About
+          </Link>
         </div>
       </header>
 
@@ -125,8 +146,11 @@ export default async function Home({ searchParams }: {
         )}
       </main>
 
-      <footer className="mx-auto w-full max-w-3xl px-4 py-4 text-[10px] uppercase tracking-[0.2em] opacity-60">
-        ◆ Data: gov.uk register of licensed sponsors (workers)
+      <footer className="mx-auto flex w-full max-w-3xl flex-wrap items-center justify-between gap-2 px-4 py-4 text-[10px] uppercase tracking-[0.2em] opacity-60">
+        <span>◆ Data: gov.uk register of licensed sponsors (workers)</span>
+        <Link href="/about" className="underline underline-offset-2 hover:opacity-100">
+          About &amp; FAQ
+        </Link>
       </footer>
     </div>
   );
