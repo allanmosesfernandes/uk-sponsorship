@@ -5,7 +5,7 @@ export const SITE_URL = (
   process.env.NEXT_PUBLIC_SITE_URL ??
   (process.env.VERCEL_PROJECT_PRODUCTION_URL
     ? `https://${process.env.VERCEL_PROJECT_PRODUCTION_URL}`
-    : "https://uk-sponsorship-zeta.vercel.app")
+    : "https://uk-sponsorship-tracker.vercel.app")
 ).replace(/\/+$/, "");
 
 export const SITE_NAME = "UK Visa Sponsor Checker";

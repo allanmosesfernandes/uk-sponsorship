@@ -24,6 +24,9 @@
 .DS_Store
 *.pem
 
+# pnpm local build-approval artifact (machine-generated; see package.json "pnpm" field)
+/pnpm-workspace.yaml
+
 # debug
 npm-debug.log*
 yarn-debug.log*
