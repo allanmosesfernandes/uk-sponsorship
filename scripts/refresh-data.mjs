@@ -13,12 +13,12 @@ const govData = await response.json();
 const CSV_LINK = govData.details?.attachments[0].url;
 
 // Extract date
-const matchResult = CSV_LINK.match(/\b\d{4}-\d{2}-\d{2}/);
+const matchResult = CSV_LINK.match(/\d{4}-\d{2}-\d{2}/);
 if (!matchResult) throw new Error('could not extract date from CSV URL');
 const lastUpdated = matchResult[0];
 
 // Check link exists and valid
-if (!CSV_LINK || !CSV_LINK.includes('Worker_and_Temporary_Worker.csv')) {
+if (!CSV_LINK || !CSV_LINK.includes('Worker_and_Temporary_Worker') || !CSV_LINK.endsWith('.csv')) {
     throw new Error(`CSV link might have changed`);
 }
 
