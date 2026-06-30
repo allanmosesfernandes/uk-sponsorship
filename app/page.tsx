@@ -2,17 +2,15 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { loadCompanies } from "@/lib/companies";
 import { fusedCompanies } from "@/lib/search";
+import { latestUpdate } from "@/lib/fetch-date";
+import { pagination } from "@/lib/pagination";
 
-// TODO: derive this from the CSV filename/data instead of hardcoding (see MISSION "then" list).
-const LAST_UPDATED = "5th June 2026";
+const PAGE_SIZE = 25;
 
 type PageProps = {
   searchParams: Promise<{ [key: string]: string | undefined }>;
 };
 
-// Give searched pages a descriptive <title>, but keep every query-string
-// variant canonicalised to "/" (inherited from the root layout) so search
-// engines consolidate them into a single indexed page.
 export async function generateMetadata({
   searchParams,
 }: PageProps): Promise<Metadata> {
@@ -36,20 +34,40 @@ function Field({ label, children }: { label: string; children: React.ReactNode }
   );
 }
 
+function pageHref(page: number, search?: string) {
+  const params = new URLSearchParams();
+  if (search) params.set("search", search);   // keep the search term
+  params.set("pageNo", String(page));         // set/replace the page
+  return `?${params.toString()}`;             // -> "?search=acme&pageNo=2"
+}
+
 export default async function Home({ searchParams }: PageProps) {
+
+  // Extract the params
   const params = await searchParams;
   const searchParam = params.search;
-  
-  const results = searchParam
-    ? fusedCompanies.search(searchParam).map(result => result.item).slice(0, 50)
-    : [];
+  const isSearch = Boolean(searchParam);
+  // Only paginate real searches. The unsearched homepage shows a fixed sample (page 1),
+  // so a stray ?pageNo=500 can't walk the whole 142k-row register.
+  const pageNo = isSearch ? Math.max(1, Number(params.pageNo) || 1) : 1;
+
+  const allResults = searchParam
+  ? fusedCompanies.search(searchParam).map(result => result.item)
+  : await loadCompanies();
+
+  // Pagination math
+  const totalResults = allResults.length;
+  const totalPages = Math.max(1, Math.ceil(totalResults / PAGE_SIZE));
+  const start = (pageNo - 1) * PAGE_SIZE;
+  const end = start + PAGE_SIZE;
+  const paginationItems = pagination({ currentPage: pageNo, totalPages });
 
   return (
     <div className="flex min-h-screen flex-col">
 
       {/* Wordmark header */}
       <header className="border-b-2 border-foreground">
-        <div className="mx-auto flex w-full max-w-3xl items-end justify-between px-4 py-4">
+        <div className="mx-auto flex w-full max-w-3xl items-end sm:items-center justify-between px-4 py-4">
           <div>
             <h1 className="text-2xl font-bold uppercase leading-none tracking-tight sm:text-4xl">
               UK Visa Sponsor Checker
@@ -58,7 +76,7 @@ export default async function Home({ searchParams }: PageProps) {
               Official UKVI Register ◆ Live Data
             </p>
             <p className="mt-0.5 text-[10px] uppercase tracking-[0.2em] opacity-60 sm:text-xs">
-              Last Updated: {LAST_UPDATED}
+              Last Updated: {latestUpdate}
             </p>
           </div>
           <Link
@@ -73,7 +91,7 @@ export default async function Home({ searchParams }: PageProps) {
       <main className="mx-auto w-full max-w-3xl flex-1 px-4 py-8 sm:py-12">
 
         {/* Search */}
-        <form method="get" className="flex border-2 border-foreground">
+        <form method="get" className="mb-8 flex border-2 border-foreground">
           <input
             type="search"
             name="search"
@@ -88,29 +106,40 @@ export default async function Home({ searchParams }: PageProps) {
             Search
           </button>
         </form>
-
+        <div className="flex items-center justify-between">
+          {isSearch ? (
+            <p className="text-xs font-bold uppercase tracking-[0.2em]">
+              ◆ {allResults.length.toLocaleString("en-GB")}{" "}
+              {allResults.length === 1 ? "Sponsor" : "Sponsors"} Found
+            </p>
+          ) : (
+            <p className="font-bold uppercase tracking-[0.15em]">
+              <span className="text-md sm:text-3xl tabular-nums">
+                {allResults.length.toLocaleString("en-GB")}
+              </span>{" "}
+              <span className="text-xs sm:text-base">Sponsor companies</span>
+            </p>
+          )}
+        </div>
         {/* Before any search */}
         {!searchParam && (
-          <p className="mt-12 text-center text-xs uppercase tracking-[0.2em] opacity-60">
+          <p className="sm:my-8 my-4 text-center font-bold uppercase tracking-[0.15em] text-xs sm:text-md opacity-80">
             ◆ Type a company name to check its sponsor status ◆
           </p>
         )}
 
         {/* No matches */}
-        {searchParam && results.length === 0 && (
+        {searchParam && allResults.length === 0 && (
           <div className="mt-8 border-2 border-dashed border-foreground p-8 text-center text-xs uppercase tracking-widest">
             No sponsors found for “{searchParam}”
           </div>
         )}
 
         {/* Results */}
-        {results.length > 0 && (
-          <>
-            <p className="mb-4 mt-8 text-[10px] font-bold uppercase tracking-[0.2em]">
-              ◆ {results.length} {results.length === 1 ? "Sponsor" : "Sponsors"} Found
-            </p>
+        {allResults.length > 0 && (
+          <div>
             <ul className="space-y-5">
-              {results.map(company => {
+              {allResults.slice(start, end).map(company => {
                 const grade = company.type.includes("A rating")
                   ? "A"
                   : company.type.includes("B rating")
@@ -142,7 +171,27 @@ export default async function Home({ searchParams }: PageProps) {
                 );
               })}
             </ul>
-          </>
+          </div>
+        )}
+
+        {/* Pager: only for real searches that span more than one page. */}
+        {isSearch && totalPages > 1 && (
+          <nav aria-label="Pagination" className="mt-8 flex justify-center gap-2 font-mono text-sm">
+            {paginationItems.map((item, i) =>
+              item === "..." ? (
+                <span key={`gap-${i}`} className="px-2 py-1 opacity-50">…</span>
+              ) : item === pageNo ? (
+                // current page: not a link
+                <span key={item} aria-current="page" className="border-2 border-foreground bg-foreground px-3 py-1 text-background">
+                  {item}
+                </span>
+              ) : (
+                <Link key={item} href={pageHref(item, searchParam)} className="border-2 border-foreground px-3 py-1 hover:bg-foreground hover:text-background">
+                  {item}
+                </Link>
+              )
+            )}
+          </nav>
         )}
       </main>
 
