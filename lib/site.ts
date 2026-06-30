@@ -1,4 +1,4 @@
-now// Single source of truth for site-wide SEO/identity constants.
+// Single source of truth for site-wide SEO/identity constants.
 // The canonical origin can be overridden per-environment; falls back to the
 // Vercel production URL, then the known deployment.
 export const SITE_URL = (
