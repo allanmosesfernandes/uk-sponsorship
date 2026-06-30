@@ -195,9 +195,19 @@ export default async function Home({ searchParams }: PageProps) {
         )}
       </main>
 
-      <footer className="mx-auto flex w-full max-w-3xl flex-wrap items-center justify-between gap-2 px-4 py-4 text-[10px] uppercase tracking-[0.2em] opacity-60">
-        <span>◆ Data: gov.uk register of licensed sponsors (workers)</span>
-        <Link href="/about" className="underline underline-offset-2 hover:opacity-100">
+      <footer className="mx-auto flex w-full max-w-3xl flex-wrap items-center justify-between gap-2 px-4 py-4 text-sm uppercase tracking-[0.2em]">
+        <span>
+          ◆ Data:{" "}
+          <a
+            href="https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="underline underline-offset-2 hover:opacity-80"
+          >
+            gov.uk register of licensed sponsors (workers)
+          </a>
+        </span>
+        <Link href="/about" className="underline underline-offset-2 hover:opacity-80">
           About &amp; FAQ
         </Link>
       </footer>

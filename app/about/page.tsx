@@ -213,8 +213,16 @@ export default function AboutPage() {
         </div>
       </main>
 
-      <footer className="mx-auto w-full max-w-3xl px-4 py-4 text-[10px] uppercase tracking-[0.2em] opacity-60">
-        ◆ Data: gov.uk register of licensed sponsors (workers)
+      <footer className="mx-auto w-full max-w-3xl px-4 py-4 text-sm uppercase tracking-[0.2em]">
+        ◆ Data:{" "}
+        <a
+          href="https://www.gov.uk/government/publications/register-of-licensed-sponsors-workers"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="underline underline-offset-2 hover:opacity-80"
+        >
+          gov.uk register of licensed sponsors (workers)
+        </a>
       </footer>
     </div>
   );
