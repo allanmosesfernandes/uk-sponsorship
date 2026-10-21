@@ -413,7 +413,7 @@ Organisation Name,Town/City,County,Type & Rating,Route
 2399098 Ontario Inc o/a MAK Consulting Group,High Wycombe,Bucks,Worker (A rating),Skilled Worker
 23MD Medical Services Ltd ,Canterbury ,Kent ,Worker (A rating),Skilled Worker
 24 7 Manpower Limited,Stanwell,,Worker (A rating),Skilled Worker
-24 7 Property Maintenance Ltd,"London, England",,Worker (A rating),Skilled Worker
+24 7 Property Maintenance Ltd,London,,Worker (A rating),Skilled Worker
 24 Acoustics Ltd,Southampton,Hants,Worker (A rating),Skilled Worker
 24 PRODUCTIONS LTD,LONDON,,Worker (A rating),Skilled Worker
 24 RT Limited,Edinburgh,,Worker (A rating),Skilled Worker
@@ -652,7 +652,7 @@ Organisation Name,Town/City,County,Type & Rating,Route
 3D TRADE LTD," Croydon, London",,Worker (A rating),Skilled Worker
 3D'S Healthcare Services Ltd,Grays,Essex,Worker (A rating),Skilled Worker
 3DC Ltd,London,England,Worker (A rating),Skilled Worker
-3DCP ACADEMY LIMITED,London,,Worker (UK Expansion Worker: Provisional ),Global Business Mobility: UK Expansion Worker
+3DCP ACADEMY LIMITED,London,,Worker (A rating),Global Business Mobility: UK Expansion Worker
 3DEO,Belfast,Antrim,Worker (A rating),Skilled Worker
 3DFORUS Limited,Exeter,,Worker (A rating),Skilled Worker
 3dMD Technologies Limited,London,,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
@@ -1362,7 +1362,7 @@ A STAR SUPPORT SERVICES LTD,Holywell,Flintshire,Worker (A rating),Skilled Worker
 A STAR WASTE REMOVALS LIMITED,Birmingham,,Worker (A rating),Skilled Worker
 A STAR WINDOWS & BIFOLDS DOORS LIMITED,"Thornton Heath, ",,Worker (A rating),Skilled Worker
 A STARS TRAVEL LTD,Congleton,England,Worker (A rating),Skilled Worker
-A STEP BEYOND LIMITED,Bromley,,Worker (A rating),Skilled Worker
+A STEP BEYOND LIMITED,Coulsdon,,Worker (A rating),Skilled Worker
 A T & C PROFESSIONAL SYSTEMS LIMITED,London,,Worker (A rating),Skilled Worker
 A T Kearney Limited,London,,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
 A T Kearney Limited,London,,Worker (A rating),Skilled Worker
@@ -2259,6 +2259,7 @@ Abbey Lodge Residential Home,Hythe,Kent,Worker (A rating),Skilled Worker
 Abbey Logistics Group Limited,Warrington,,Worker (A rating),Skilled Worker
 Abbey Meads Dental Practice,Swindon,,Worker (A rating),Skilled Worker
 Abbey Meads Surgery,Swindon,Wiltshire,Worker (A rating),Skilled Worker
+ABBEY MEDICAL CENTRE,PAISLEY,,Worker (A rating),Skilled Worker
 Abbey Medical Centre,Kenilworth,United Kingdom,Worker (A rating),Skilled Worker
 Abbey Medical Practice,Lincoln,,Worker (A rating),Skilled Worker
 ABBEY MEDICAL PRACTICE,Wellingborough,Northamptonshire,Worker (A rating),Skilled Worker
@@ -2374,7 +2375,7 @@ Abdul Guljar t/a Curry Royal,Loughborough ,,Worker (A rating),Skilled Worker
 Abdul Hakeem Mohamed Rasheeth T/A A&S Service,STOURBRIDGE,WEST MIDLANDS,Worker (A rating),Skilled Worker
 Abdul Halal Market Ltd,Edinburgh,,Worker (A rating),Skilled Worker
 Abdul Halal Meat Marsh Farm Ltd,Luton,,Worker (A rating),Skilled Worker
-ABDUL HOME RENOVATE LIMITED,Manchester ,,Worker (A rating),Skilled Worker
+ABDUL HOME RENOVATE LIMITED,Wigan,,Worker (A rating),Skilled Worker
 ABDUL KADIR T/A AUTO MASTER,London,,Worker (A rating),Skilled Worker
 Abdul Khaliq T/A MH Autos,Stoke-On-Trent,,Worker (A rating),Skilled Worker
 Abdul Majid & Son Ltd,Hamilton,,Worker (A rating),Skilled Worker
@@ -2402,7 +2403,7 @@ ABEC LTD,Tewkesbury,Gloucestershire,Worker (A rating),Skilled Worker
 ABEEHA'S FASHION & BEAUTY LTD,BOLTON,,Worker (A rating),Skilled Worker
 Abeer Raja Abdul Raheem Al-Adhami T/A Abi Dental ,London,,Worker (A rating),Skilled Worker
 ABEERA INVESTMENT LIMITED,Preston,,Worker (A rating),Skilled Worker
-ABEERA LIMITED,Croydon,,Worker (A rating),Skilled Worker
+ABEERA LIMITED,Croydon,Surrey,Worker (A rating),Skilled Worker
 Abeerah Ltd,Galashiels,,Worker (A rating),Skilled Worker
 Abeko Dredging and Marine Contractors Ltd.,Conwy,Gwynned,Worker (A rating),Skilled Worker
 Abeko Dredging and Marine Contractors Ltd.,Conwy,Gwynned,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
@@ -2565,7 +2566,7 @@ ABLE BUSINESS SERVICES LTD,Dagenham,Essex,Worker (A rating),Skilled Worker
 Able Care ( Menwinnion) Ltd t/a Menwinnion Country House Care Home,Penzance,Cornwall,Worker (A rating),Skilled Worker
 Able Care Huddersfield Ltd,Huddersfield,West Yorkshire,Worker (A rating),Skilled Worker
 Able Carers Ltd,York,,Worker (A rating),Skilled Worker
-ABLE HANDS HEALTHCARE LTD,Rochester ,,Worker (A rating),Skilled Worker
+ABLE HANDS HEALTHCARE LTD,"Units 64 A, B & C",Chatham,Worker (A rating),Skilled Worker
 ABLE SERVICES SUPPLIES LTD,London,,Worker (A rating),Skilled Worker
 Able Stainless Steel Fabrications Ltd,Swadlincote,Derbyshire,Worker (A rating),Skilled Worker
 Able Systems Limited ,Northwich,Cheshire,Worker (A rating),Skilled Worker
@@ -3557,6 +3558,7 @@ Adalvo UK Ltd,London,,Worker (A rating),Skilled Worker
 Adalvo UK Ltd,London,,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
 Adam & Co Accountancy Ltd,Bradford,,Worker (A rating),Skilled Worker
 Adam & Co Accountants Limited,Bolton,,Worker (A rating),Skilled Worker
+Adam & Co Shrewsbury Ltd ,Birmingham,,Worker (A rating),Skilled Worker
 Adam Accountancy Limited,Slough,,Worker (A rating),Skilled Worker
 ADAM AND EESA LIMITED,"Manchester, England",,Worker (A rating),Skilled Worker
 ADAM Architecture Ltd,Winchester,Hampshire,Worker (A rating),Skilled Worker
@@ -4521,6 +4523,7 @@ Afsana Foods (UK) Ltd,London,,Worker (A rating),Skilled Worker
 Afsana London Limited T/A Al Hikma,London,,Worker (A rating),Skilled Worker
 AFSAR TRAVELS LIMITED,London,,Worker (A rating),Skilled Worker
 Afsar Williams Solicitors,Telford,Shropshire,Worker (A rating),Skilled Worker
+AFT Consulting Ltd,London,,Worker (A rating),Skilled Worker
 AFT Global UK Ltd ,London,London,Worker (A rating),Skilled Worker
 AFT Pharma UK Limited,London,,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
 AFT Pharma UK Limited,London,,Worker (A rating),Skilled Worker
@@ -5227,6 +5230,7 @@ Airhop Bristol Limited,Bristol,,Worker (A rating),Skilled Worker
 AIRHUB SYSTEMS LTD,London,,Worker (A rating),Skilled Worker
 Airline Cafe (Excel) Limited,London,,Worker (A rating),Skilled Worker
 AIRLINE CONNECT TRANSPORT SERVICES LTD,"Solihull, ",,Worker (A rating),Skilled Worker
+Airline Economics Ltd,"Stoke-On-Trent,",Staffordshire,Worker (A rating),Skilled Worker
 Airline Tariff Publishing Company (ATPCO),London,,Worker (A rating),Skilled Worker
 Airline Tariff Publishing Company (ATPCO),London,,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
 Airline Travels Limited,West Bromwich,,Worker (A rating),Skilled Worker
@@ -5676,6 +5680,7 @@ Al Fajar Building Maintenance UK Ltd,Fife,,Worker (A rating),Skilled Worker
 AL FAJR FOUNDATION SCOTLAND UK (SCIO),GLASGOW,,Temporary Worker (A rating),Charity Worker 
 Al Falaah Ltd t/a Indian Rassasy Restaurant,Bristol,,Worker (A rating),Skilled Worker
 AL FALAH BUSINESS LIMITED ,Luton,,Worker (A rating),Skilled Worker
+AL FALAH HM LTD,Ilford,,Worker (A rating),Skilled Worker
 Al Fanar Restaurant and Cafe Limited,London,,Worker (A rating),Skilled Worker
 AL FATAH FOODS LTD,Oldham,Greater Manchester,Worker (A rating),Skilled Worker
 AL FATIHAH MOSQUE AND ISLAMIC CENTRE,Croydon,,Temporary Worker (A rating),Religious Worker
@@ -6973,6 +6978,7 @@ ALMYS SUPERMARKET LTD,Uxbridge,,Worker (A rating),Skilled Worker
 Alness News Ltd ,Rose Shire,,Worker (A rating),Skilled Worker
 Alnmouth and Lesbury Cricket Club,Alnwick,Northumberland,Worker (A rating),International Sportsperson
 Alnojoom Trading Ltd 15228351,Leeds ,,Worker (A rating),Global Business Mobility: UK Expansion Worker
+Alnojoom Trading Ltd 15228351,Leeds ,,Worker (A rating),Skilled Worker
 Alnoor Cultural & Educational Trust,Barking,Essex,Worker (A rating),Tier 2 Ministers of Religion
 Alnoor Cultural & Educational Trust,Barking,Essex,Temporary Worker (A rating),Religious Worker
 ALNOOR FOODS LTD,SOUTHALL,MIDDLESEX,Worker (A rating),Skilled Worker
@@ -7294,6 +7300,7 @@ Altis Partners Limited,London,,Worker (A rating),Skilled Worker
 Altium UK Limited,Cambridge,,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
 Altium UK Limited,Cambridge,,Worker (A rating),Skilled Worker
 ALTIUS CONSULTANTS LTD,Belfast,,Worker (A rating),Skilled Worker
+Altius8 Limited,London,Greater London,Worker (A rating),Skilled Worker
 Altman Solon LLP,London,,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
 Altman Solon LLP,London,,Worker (A rating),Skilled Worker
 Altmore Dental Practice,London,,Worker (A rating),Skilled Worker
@@ -7396,7 +7403,7 @@ Alvotech UK Limited,London,,Worker (A rating),Global Business Mobility: Senior o
 Alvotech UK Limited,London,,Worker (A rating),Skilled Worker
 Always Growing Ltd,Windsor ,Berkshire,Worker (A rating),Skilled Worker
 Always Inclusive Ltd,Orpington,Kent,Worker (A rating),Skilled Worker
-ALWAYSSMILE ONLINE LTD,London,,Worker (A rating),Skilled Worker
+ALWAYSSMILE MEDTECH LTD,London,,Worker (A rating),Skilled Worker
 ALWAYSTRUSTED LIMITED,Leicester,,Worker (A rating),Skilled Worker
 Alwis Solutions Limited,Milton Keynes,,Worker (A rating),Skilled Worker
 Alwoodley Medical Centre,Leeds,,Worker (A rating),Skilled Worker
@@ -8059,8 +8066,6 @@ Amplience (UK) Limited,London,,Worker (A rating),Global Business Mobility: Senio
 AMPLIFI CAPITAL (U.K.) LIMITED,London,,Worker (A rating),Skilled Worker
 Amplifi Group Limited,Royal Leamington Spa,Warwickshire,Worker (A rating),Skilled Worker
 Amplified Global,Hove,,Worker (A rating),Skilled Worker
-Amplifon Limited,Manchester,,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
-Amplifon Limited,Manchester,,Worker (A rating),Skilled Worker
 Amplify Trading Limited,London,Please select...,Worker (A rating),Skilled Worker
 Amplify Trading Limited,London,,Worker (A rating),Skilled Worker
 AmplifyChange,Bath,,Worker (A rating),Skilled Worker
@@ -8929,6 +8934,7 @@ Anthonisz Neville LLP,London,,Worker (A rating),Skilled Worker
 Anthony Best Dynamics Ltd,Bradford on Avon,Wiltshire,Worker (A rating),Skilled Worker
 Anthony Collins Solicitors LLP,Birmingham,West Midlands,Worker (A rating),Skilled Worker
 Anthony Croft Ezekiel Ltd,London,,Worker (A rating),Skilled Worker
+Anthony Day Associates Limited T/A ADA|06,Lutterworth,Leicestershire,Worker (A rating),Skilled Worker
 Anthony Fox Estates Limited,London,,Worker (A rating),Skilled Worker
 ANTHONY GOLD SOLICITORS LLP,London,,Worker (A rating),Skilled Worker
 Anthony Halpin Limited,Ilford,,Worker (A rating),Skilled Worker
@@ -8944,6 +8950,7 @@ AnthroTek Ltd,Newmarket,,Worker (A rating),Skilled Worker
 Anti-Agency (London) Limited,London,,Worker (A rating),Skilled Worker
 Anti-Agency (London) Limited,London,,Temporary Worker (A rating),Creative Worker
 Antibody Analytics Limited,Motherwell,,Worker (A rating),Skilled Worker
+ANTICA PULTENEY BRIDGE LTD,Bath,,Worker (A rating),Skilled Worker
 Anticimex UK Holdings Ltd,Leigh,Lancashire,Worker (A rating),Skilled Worker
 Antico Ltd,London,,Worker (A rating),Skilled Worker
 Antidox Limited,London,,Worker (A rating),Skilled Worker
@@ -9340,8 +9347,6 @@ Apphere Ltd,London,,Worker (A rating),Skilled Worker
 APPI Clinics Ltd,London,,Worker (A rating),Skilled Worker
 Appian Base Metals Management Limited,London,,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
 Appian Base Metals Management Limited,London,,Worker (A rating),Skilled Worker
-Appian Capital Advisory LLP,London,,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
-Appian Capital Advisory LLP,London,,Worker (A rating),Skilled Worker
 Appian Capital U.K. Limited ,London,,Worker (A rating),Skilled Worker
 Appian Europe Limited,London,,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
 Appian Europe Limited,London,,Worker (A rating),Skilled Worker
@@ -10002,6 +10007,7 @@ Arcola Theatre Production Company,London,,Worker (A rating),Skilled Worker
 Arcomedical Infusion Ltd,Stafford,,Worker (A rating),Skilled Worker
 ARCONIC MANUFACTURING (GB) LIMITED,Birmingham,,Worker (A rating),Skilled Worker
 Arcs Retail Ltd T/A Queens Road Stores - Premier,Shropshire,,Worker (A rating),Skilled Worker
+Arctal Limited,London,,Worker (A rating),Skilled Worker
 Arctic Cloud Solutions Ltd,Glasgow,,Worker (A rating),Skilled Worker
 Arctic Glass (UK) Ltd,Blackburn,,Worker (A rating),Skilled Worker
 Arctic Hayes Ltd,Leeds,,Worker (A rating),Skilled Worker
@@ -10026,8 +10032,6 @@ Arcus Foundation,Cambridge,,Worker (A rating),Skilled Worker
 Arcus Global Limited,Cambridge,Cambridgeshire,Worker (A rating),Skilled Worker
 Arcus Infrastructure Services LLP,London,,Worker (A rating),Skilled Worker
 Arcwide UK & I Limited,London,,Worker (A rating),Skilled Worker
-Arcwide UK Limited,London,,Worker (A rating),Skilled Worker
-Arcwide UK Limited,London,,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
 ARD-LIFT ELEVATOR (UK) LTD,MANCHESTER,,Worker (A rating),Skilled Worker
 Ardach Health Centre,Buckie,,Worker (A rating),Skilled Worker
 Ardagh Glass Limited ,Knottingley ,West Yorkshire ,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
@@ -10244,7 +10248,6 @@ Aristeus Services (UK) Ltd,London,,Worker (A rating),Skilled Worker
 Aristocrat Technologies Europe Ltd.,Uxbridge,Middlesex,Worker (A rating),Skilled Worker
 Aristocrat Technologies Europe Ltd.,Uxbridge,Middlesex,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
 Ariston UK Ltd,Brentwood,Essex,Worker (A rating),Skilled Worker
-ARISTON VILLAGE PIZZA LTD,Richmond,,Worker (A rating),Skilled Worker
 Aristone Limited t/a Aristone Solicitors ,Luton,,Worker (A rating),Skilled Worker
 ARITA LIMITED T/a ARITA RECRUITMENT,Luton,Bedforshire,Worker (A rating),Skilled Worker
 Arithma LLP,Harrow,Middlesex,Worker (A rating),Skilled Worker
@@ -10670,6 +10673,7 @@ Artemis Energy Limited,London,,Worker (A rating),Skilled Worker
 Artemis Investment Management LLP,London,,Worker (A rating),Skilled Worker
 Artemis Optical Limited,Plymouth,Devon,Worker (A rating),Skilled Worker
 Artemis Origination Limited,London,,Worker (A rating),Skilled Worker
+ARTEMIS SUPPORT SOLUTIONS LTD,Southsea,,Worker (A rating),Skilled Worker
 Artemis Technologies Ltd,Poole,,Worker (A rating),Skilled Worker
 Artemisia Global Capital Limited,London,,Worker (A rating),Skilled Worker
 ARTEN DESIGN LTD,Coventry,,Worker (A rating),Skilled Worker
@@ -10815,6 +10819,7 @@ ARUSUVAI RESTAURANTS LIMITED T/A Arusuvai Restaurant,Leeds ,,Worker (A rating),S
 ARUTH UK LTD,Coventry,,Worker (A rating),Skilled Worker
 Arutun Ltd,London,Greater London,Worker (A rating),Skilled Worker
 Aruvi Express Limited T/A Aruvi Express,Coventry,,Worker (A rating),Skilled Worker
+Aruvi Forecourts Ltd,Warrington,Cheshire,Worker (A rating),Skilled Worker
 ARUVR Limited,London,,Worker (A rating),Skilled Worker
 Arva AI Ltd,London,,Worker (A rating),Skilled Worker
 Arval UK Group Limited,Swindon,Wiltshire,Worker (A rating),Skilled Worker
@@ -11268,6 +11273,7 @@ Ashovi & Regsiv UK Ltd,Brighton,,Worker (A rating),Skilled Worker
 Ashpole Limited,London,,Worker (A rating),Skilled Worker
 Ashraf & Co Accountants Ltd ,Dartford,Kent,Worker (A rating),Skilled Worker
 Ashraf and Co Chartered Certified Accountants,Sheffield,,Worker (A rating),Skilled Worker
+ASHRAF JEWELLERS LTD,London,,Worker (UK Expansion Worker: Provisional ),Global Business Mobility: UK Expansion Worker
 Ashraf Properties Limited ,Arbroath ,,Worker (A rating),Skilled Worker
 ASHRAFI FOODS UK LTD,Manchester,,Worker (A rating),Skilled Worker
 Ashrafi Gul Limited T/A Fresh N Fast,PRESTON,,Worker (A rating),Skilled Worker
@@ -11446,6 +11452,7 @@ ASK Partners Limited,London,,Worker (A rating),Skilled Worker
 Ask Plastics Birmingham Ltd,Birmingham,,Worker (A rating),Skilled Worker
 ASK Properties Bristol Ltd,Bristol,,Worker (A rating),Skilled Worker
 ASK PROPERTIES GLASGOW LTD,Scotland,,Worker (A rating),Skilled Worker
+Ask Recruitment Education Services Ltd,Erith,,Worker (A rating),Skilled Worker
 Ask Silver Ltd,London,,Worker (A rating),Skilled Worker
 ASK Solutions London Limited,Brentford,,Worker (A rating),Skilled Worker
 ASK4,Sheffield,South Yorkshire,Worker (A rating),Skilled Worker
@@ -12959,8 +12966,8 @@ AVIAGEN LIMITED,NEWBRIDGE,MIDLOTHIAN,Worker (A rating),Skilled Worker
 Avian Labs Limited,London,,Worker (A rating),Skilled Worker
 Avian Labs Limited,London,,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
 Avian Mobile Limited,Wallington,Surrey,Worker (A rating),Skilled Worker
-AVIAREPS UK Ltd,London,LONDon,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
-AVIAREPS UK Ltd,London,LONDon,Worker (A rating),Skilled Worker
+AVIAREPS UK Ltd,London,,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
+AVIAREPS UK Ltd,London,,Worker (A rating),Skilled Worker
 Aviasenze Limited,London,,Worker (A rating),Skilled Worker
 AVIAT NETWORKS UK LIMITED,LONDON,,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
 AVIAT NETWORKS UK LIMITED,LONDON,,Worker (A rating),Skilled Worker
@@ -12968,7 +12975,6 @@ AviatePro Services LTD,London,England,Worker (A rating),Skilled Worker
 Aviation and Defence Spares Ltd,Poole,Dorset,Worker (A rating),Skilled Worker
 Aviation Crew Services Limited,Longford,,Worker (A rating),Skilled Worker
 Aviation Innovations Limited,Fareham,Hampshire,Worker (A rating),Skilled Worker
-AVIATION NEWS LTD,"Stoke-On-Trent,",Staffordshire,Worker (A rating),Skilled Worker
 AVIATION PERSONNEL LTD,Uxbridge,Middlesex,Worker (A rating),Skilled Worker
 Aviation Works Ltd,London,,Worker (A rating),Skilled Worker
 Aviator Hotel,Farnborough,Hampshire,Worker (A rating),Skilled Worker
@@ -14312,6 +14318,7 @@ Baltic Training Services t/a Baltic Apprenticeships,Newton Aycliffe,Durham,Worke
 Baltimore Consulting Limited,Bristol,,Worker (A rating),Skilled Worker
 Baltonsborough Village Store ltd,Glastonbury,Somerset,Worker (A rating),Skilled Worker
 Baltzersens Ltd,Harrogate,,Worker (A rating),Skilled Worker
+Balu Brothers Ltd,Scunthorpe,,Worker (A rating),Skilled Worker
 BALUIEVS OUTSOURCING LTD,FAREHAM,,Worker (A rating),Skilled Worker
 BALVAE & COMPANY UK LIMITED,Milton Keynes,Buckinghamshire,Worker (A rating),Skilled Worker
 Balwinder Singh & Baljit Kaur t/a Metro C21 ,Goole,,Worker (A rating),Skilled Worker
@@ -15611,7 +15618,7 @@ Beautiful Tracking Limited,London,,Worker (A rating),Skilled Worker
 Beautiful Voice Limited,Oxford,,Worker (A rating),Skilled Worker
 BEAUTIFUL WORLD TRAINING ACADEMY LTD,Hounslow,,Worker (A rating),Skilled Worker
 BEAUTIZONE LTD,MITCHAM,SURREY,Worker (A rating),Skilled Worker
-Beautology Laser & IPL Services Ltd,Bedford,Bedfordshire,Worker (A rating),Skilled Worker
+Beautology Laser & IPL Services Ltd,St. Neots,Cambs,Worker (A rating),Skilled Worker
 Beautology UK Ltd,Bristol,,Worker (A rating),Skilled Worker
 Beauty and Focus(UK) Ltd,London,,Worker (A rating),Skilled Worker
 Beauty and Nailbar,Portslade,Bershire,Worker (A rating),Skilled Worker
@@ -16214,7 +16221,6 @@ Bengal Star Ltd t/a Baltizer,Kent,,Worker (A rating),Skilled Worker
 Bengal steaks limited ,London,,Worker (A rating),Skilled Worker
 Bengal Tiger Indian Takeaway,Stockton-on-Tees,,Worker (A rating),Skilled Worker
 BENGAL TIGER LILY,Macclesfield,,Worker (A rating),Skilled Worker
-Bengal Tiger Lily (Alderley Edge) Ltd,Macclesfield,,Worker (A rating),Skilled Worker
 Bengal Tiger Ltd,Haddington,East Lothian,Worker (A rating),Skilled Worker
 BENGAL TRAVELS AND TOURS LIMITED,London,England,Worker (A rating),Skilled Worker
 BENGAL VILLAGE RESTAURANT LIMITED,Barton-upon-Humber,,Worker (A rating),Skilled Worker
@@ -16819,7 +16825,7 @@ Beyond Green Advisors Ltd,Edinburgh,,Worker (A rating),Skilled Worker
 Beyond Group Global Limited,London,,Worker (A rating),Skilled Worker
 Beyond Health Limited,London,,Worker (A rating),Skilled Worker
 Beyond Holdings Limited,Newmarket,,Worker (A rating),Skilled Worker
-Beyond Horizon Group Ltd,Manchester ,,Worker (A rating),Skilled Worker
+Beyond Horizon Group Ltd,Sale,Greater Manchester,Worker (A rating),Skilled Worker
 Beyond Hospitality Group Ltd,Wilmslow,Cheshire,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
 Beyond Limits (Plymouth) Ltd,Plymouth,Devon,Worker (A rating),Skilled Worker
 Beyond Medi Spa Ltd,London,,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
@@ -17362,6 +17368,7 @@ Bio-Techne Ltd,Abingdon,,Worker (A rating),Global Business Mobility: Senior or S
 Bio-Techne Ltd,Abingdon,,Worker (A rating),Skilled Worker
 Bioactive Pharma Ltd ,Chichester,West Sussex,Worker (A rating),Skilled Worker
 Bioascent Discovery Limited,Motherwell,Lanarkshire,Worker (A rating),Skilled Worker
+Biocair International UK Limited,Cambridge,,Worker (A rating),Skilled Worker
 Biocatalysts Limited ,Cardiff,Mid Glamorgan,Worker (A rating),Skilled Worker
 BIOCLAVIS LTD,CLYDEBANK,DUNBARTONSHIRE,Worker (A rating),Skilled Worker
 Biocomposites Limited,Newcastle,Staffs,Worker (A rating),Skilled Worker
@@ -17801,7 +17808,7 @@ BKUK Group Limited ,London,,Worker (A rating),Global Business Mobility: Senior o
 BKW Foodstores Ltd T/A KW foodstores ,Bolton,,Worker (A rating),Skilled Worker
 BKW Instruments Ltd,Manchester,,Worker (A rating),Skilled Worker
 BKWAI LTD,London,,Worker (A rating),Skilled Worker
-BKZH Ltd,Dagenham,,Worker (A rating),Skilled Worker
+BKZH Ltd,Romford,,Worker (A rating),Skilled Worker
 BL Builder,Coventry,,Worker (A rating),Skilled Worker
 BL CHESWICK GREEN LIMITED T/A Bangla Lounge Cheswick Green,Cheswick Green,Solihull,Worker (A rating),Skilled Worker
 BL Lonestar Limited,Barnsley,South Yorkshire,Worker (A rating),Skilled Worker
@@ -17840,7 +17847,7 @@ Black Bull Fitness Limited,Huddersfield,West Yorkshire,Worker (A rating),Skilled
 Black Cat Building Consultancy Limited,Manchester,GB,Worker (A rating),Skilled Worker
 Black Cat Maldon Ltd,London,UNITED KINGDOM,Worker (A rating),Skilled Worker
 Black Cobra Ltd,Staines-Upon-Thames,Berkshire,Worker (A rating),Skilled Worker
-Black Country Healthcare NHS Foundation Trust,Wolverhampton,West Midlands,Worker (A rating),Skilled Worker
+Black Country Healthcare NHS Foundation Trust,West Bromwich,West Midlands,Worker (A rating),Skilled Worker
 Black Cow Technology Limited,Oxford,,Worker (A rating),Skilled Worker
 Black Diamond Agency Ltd,London,,Worker (A rating),Skilled Worker
 Black Diamond Capital Management Limited,London,,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
@@ -17851,6 +17858,7 @@ Black Emerald Ltd,London,,Worker (A rating),Skilled Worker
 Black Eye Bens Ltd,Manchester,,Worker (A rating),Skilled Worker
 BLACK FIRE SOLUTIONS LTD,LONDON,,Worker (A rating),Skilled Worker
 BLACK FLASH PROMOTIONS LTD,MANCHESTER,,Worker (A rating),International Sportsperson
+Black Harbour Ltd,Peterborough,,Worker (A rating),Skilled Worker
 BLACK HIGHLANDS LTD,HUDDERSFIELD,,Worker (A rating),Skilled Worker
 Black Isle Timber Harvesting Limited,"Fortrose, Rosemarkie ",Highlands & Islands,Worker (A rating),Skilled Worker
 Black Kite Studios Ltd,London,,Worker (A rating),Skilled Worker
@@ -18411,6 +18419,7 @@ Blue Marlin Brand Design Limited,Frome,Somerset,Worker (A rating),Global Busines
 Blue Marlin Brand Design Limited,Frome,Somerset,Worker (A rating),Skilled Worker
 Blue Matter Consulting Ltd,London,,Worker (A rating),Skilled Worker
 Blue Matter Consulting Ltd,London,,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
+Blue Mile Care Ltd,Bishop Auckland,,Worker (A rating),Skilled Worker
 Blue Moon (Hammersmith) Limited T/A Holy Cow,London,,Worker (A rating),Skilled Worker
 Blue Moon (Hammersmith) Limited T/A Holy Cow Fine Indian Food,London,,Worker (A rating),Skilled Worker
 Blue Moon Berkshire Ltd T/A Gausia Restaurant & Takeaway,Rainham,,Worker (A rating),Skilled Worker
@@ -18955,7 +18964,6 @@ Bolderwood Capital Partners Limited,London,,Worker (A rating),Skilled Worker
 Boldgreen Limited,London,,Worker (A rating),Skilled Worker
 Boldhaven Management LLP,London,,Worker (A rating),Skilled Worker
 Boldlawn Limited T/A Moorland View Care Home ,Darwen ,Lancashire ,Worker (A rating),Skilled Worker
-Boldmere Court Care Home,Birmingham ,,Worker (A rating),Skilled Worker
 BOLDON CONVENIENCE STORE,EAST BOLDON,,Worker (A rating),Skilled Worker
 Boldon Cricket Club,East Boldon,Tyne and Wear,Worker (A rating),International Sportsperson
 Boldon Picture Framing Limited,Boldon,Tyne and Wear,Worker (A rating),Skilled Worker
@@ -19050,7 +19058,6 @@ Bombay Street Food Limited,London,,Worker (A rating),Skilled Worker
 Bombay to London Limited,Manchester,,Worker (A rating),Skilled Worker
 Bombay to Mumbai Limited T/A Bombay to Mumbai,Stockport,,Worker (A rating),Skilled Worker
 Bombay Wala Ltd ,Slough,,Worker (A rating),Skilled Worker
-BOMBAYBFD LTD ,BEDFORD,,Worker (A rating),Skilled Worker
 Bombaylicious Limited,Coulsdon,Surrey,Worker (A rating),Skilled Worker
 BOMBAYWALLA LTD T/A BOMBAYWALLA INDIAN STREET KITCHEN,GLASGOW,,Worker (A rating),Skilled Worker
 Bombora Wave Power Europe Ltd.,Pembroke Dock,Pembrokeshire,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
@@ -20303,6 +20310,7 @@ Bright Line Childcare LTD,Sittingbourne,,Worker (A rating),Skilled Worker
 Bright Lives Care,Peterborough ,Cambridgeshire,Worker (A rating),Skilled Worker
 BRIGHT MODE LTD,Liverpool,Merseyside,Worker (A rating),Skilled Worker
 Bright New Wholesale Ltd,London,,Worker (A rating),Skilled Worker
+Bright Oak Care Ltd,London,,Worker (A rating),Skilled Worker
 Bright Origin Nursery Limited,London,,Worker (A rating),Skilled Worker
 Bright Partnerships Worldwide Limited,London,,Worker (A rating),Skilled Worker
 Bright Pathway Ltd,London,,Worker (A rating),Skilled Worker
@@ -22740,7 +22748,6 @@ Camberley Subway Limited,Camberley,Surrey,Worker (A rating),Skilled Worker
 Camberley Taxis LTD,Camberley,Surrey,Worker (A rating),Skilled Worker
 Camberley Visionplus Limited t/a Specsavers,Camberley,Surrey,Worker (A rating),Skilled Worker
 Camberwell Plant Hire Limited,London,Greater London,Worker (A rating),Skilled Worker
-CAMBIO DE TERCIO,london,,Worker (A rating),Skilled Worker
 Cambio De Tercio,london,,Worker (A rating),Skilled Worker
 Cambio Healthcare Systems Limited,Sutton,,Worker (A rating),Skilled Worker
 Cambodian Cuisine Ltd,Witney,,Worker (A rating),Skilled Worker
@@ -23912,7 +23919,7 @@ CarGurus UK Limited,Wokingham,Berkshire,Worker (A rating),Skilled Worker
 Carholme Dental Group Limited,Bishops Stortford,Herts,Worker (A rating),Skilled Worker
 CARIA HOLIDAYS LTD,LONDON,,Worker (A rating),Skilled Worker
 Caria Limited ,London,,Worker (A rating),Skilled Worker
-Cariad Care Group Ltd,Cardiff,South Glamorgan,Worker (A rating),Skilled Worker
+Cariad Care Group Ltd,Pembroke Dock,Pembrokeshire,Worker (A rating),Skilled Worker
 Cariad Care Homes Limited,Porthmadog,Gwynedd,Worker (A rating),Skilled Worker
 Caribbean & African Health Network (CAHN) ,Manchester,,Worker (A rating),Skilled Worker
 CARIBBEAN CLASSIC LTD,London,,Worker (A rating),Skilled Worker
@@ -24059,6 +24066,7 @@ Carousel Logistics Ltd,Sittingbourne,Kent,Worker (A rating),Skilled Worker
 Carpenders Care Limited,MIDDLESEX,,Worker (A rating),Skilled Worker
 CARPENTER OAK LTD,Buckfast,Devon,Worker (A rating),Skilled Worker
 Carpentry Division Ltd,Greenford,,Worker (A rating),Skilled Worker
+Carpentry Property Ltd,Greenford,UK,Worker (A rating),Skilled Worker
 CARPET DIRECT TRADERS LTD,LONDON,England,Worker (A rating),Skilled Worker
 CARPET ELITE LIMITED ,Dudley,,Worker (A rating),Skilled Worker
 CARPET HOUSE LTD,MANCHESTER,,Worker (A rating),Skilled Worker
@@ -24740,6 +24748,7 @@ CEA CAPA Education Abroad,London,,Worker (A rating),Skilled Worker
 Ceasefire Industries U.K. Limited,Birmingham,,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
 Ceasefire Industries U.K. Limited,Birmingham,,Worker (A rating),Skilled Worker
 CEC Marketing Services Ltd,Bristol,,Worker (A rating),Skilled Worker
+CeceCare Services LTD,Lancaster,Lancashire,Worker (A rating),Skilled Worker
 Cecil Earth UK Ltd,London,,Worker (A rating),Skilled Worker
 CECILE HEALTHCARE UK LIMITED,Orpington,Kent,Worker (A rating),Skilled Worker
 Cecilhub Ltd,Bristol,,Worker (A rating),Skilled Worker
@@ -24750,7 +24759,6 @@ CECP ADVISORS LLP,LONDON,,Worker (A rating),Global Business Mobility: Senior or 
 CECP ADVISORS LLP,LONDON,,Worker (A rating),Skilled Worker
 Cecure Intelligence Limited,Swindon,Wiltshire,Worker (A rating),Skilled Worker
 CEDAR Audio Ltd,Cambridge,,Worker (A rating),Skilled Worker
-Cedar Bay (Europe) Ltd,Cheltenham,,Worker (A rating),Skilled Worker
 Cedar Bay Evolve Ltd,Cheltenham,Gloucestershire,Worker (A rating),Skilled Worker
 Cedar Capital Partners Ltd,London,,Worker (A rating),Skilled Worker
 Cedar Care Homes Limited,Bristol,Avon,Worker (A rating),Skilled Worker
@@ -25304,6 +25312,7 @@ Ceylon 1 Limited,London,,Worker (A rating),Skilled Worker
 CEYLON BAKE HOUSE LTD,Feltham,,Worker (A rating),Skilled Worker
 Ceylon Dosa Ltd,Aylesbury,Buckinghamshire,Worker (A rating),Skilled Worker
 Ceylon Express Company Limited,London,,Worker (A rating),Skilled Worker
+Ceylon M8 Limited,Cardiff,,Worker (A rating),Skilled Worker
 CEYLON SAMAYAL LTD,HARROW,,Worker (A rating),Skilled Worker
 CEYLON SILKS LTD t/a CEYLON SILKS,Surbiton,Surrey,Worker (A rating),Skilled Worker
 CEYLON TEA SHOP (UK) LTD,SHEFFIELD,,Worker (UK Expansion Worker: Provisional ),Global Business Mobility: UK Expansion Worker
@@ -25646,6 +25655,7 @@ Charing Cross Guest House,Glasgow,,Worker (A rating),Skilled Worker
 CHARING DALE LTD,MAIDSTONE,KENT,Worker (A rating),Skilled Worker
 CHARING GARDENS LTD,GILLINGHAM,KENT,Worker (A rating),Skilled Worker
 CHARING HILL LTD,MAIDSTONE,KENT,Worker (A rating),Skilled Worker
+Charing Lodge Limited,London,,Worker (A rating),Skilled Worker
 Charing Lodge Limited (T/A St. Michael's Nursing Home),Westgate-On-Sea,Kent,Worker (A rating),Skilled Worker
 CHARING OAST LTD,MAIDSTONE,KENT,Worker (A rating),Skilled Worker
 CHARING PARK INVESTMENTS LTD,SITTINGBOURNE,KENT,Worker (A rating),Skilled Worker
@@ -25683,6 +25693,7 @@ Charles & Associates Consulting Engineers Ltd,Aylesford,Kent,Worker (A rating),S
 Charles & Keith (UK) Limited,London,,Worker (A rating),Skilled Worker
 Charles & Keith (UK) Limited,London,,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
 Charles and Dean Limited,Stamford,Uffington,Worker (A rating),Skilled Worker
+Charles Andrews Ltd,Manchester,Greater Manchester,Worker (A rating),Skilled Worker
 Charles Andrews Ltd,Manchester,Greater Manchester,Worker (A rating),Skilled Worker
 Charles Barclay Architects,London,,Worker (A rating),Skilled Worker
 Charles Brand Ltd,Belfast,,Worker (A rating),Skilled Worker
@@ -26679,7 +26690,6 @@ Chop Chop London Ltd,London,,Worker (A rating),Skilled Worker
 CHOP-OOO Limited,Newcastle Upon Tyne,,Worker (A rating),Skilled Worker
 Chopard (GreatBritain)  Ltd.,London,,Worker (A rating),Skilled Worker
 Chopper Cost Thorpe Ltd ,Mablethorpe,,Worker (A rating),Skilled Worker
-CHOPRA & ASSOCIATES,SITTINGBOURNE,,Worker (A rating),Skilled Worker
 Chopra and Son Limited ,Ilford  ,London Borough of Redbridge ,Worker (A rating),Skilled Worker
 CHOPRA AND SONS (BIRMINGHAM) LIMITED,Birmingham ,,Worker (A rating),Skilled Worker
 CHOPRA AND SONS (LONDON) LIMITED,Slough,,Worker (A rating),Skilled Worker
@@ -27379,7 +27389,6 @@ City Building,Glasgow,,Worker (A rating),Skilled Worker
 City Building Concepts,Oldham,England,Worker (A rating),Skilled Worker
 CITY CARE AGENCY LTD,London,,Worker (A rating),Skilled Worker
 City Care Providers Ltd,Doncaster,South Yorkshire,Worker (A rating),Skilled Worker
-CITY CARE SERVICES LIMITED,CAMBRIDGE,,Worker (A rating),Skilled Worker
 City Care Services Limited,Cambridge,,Worker (A rating),Skilled Worker
 City Cargo Services,"Salford, Manchester",Greater Manchester,Worker (A rating),Skilled Worker
 CITY CARPETS & FURNITURE LTD,Slough ,Berkshire ,Worker (A rating),Skilled Worker
@@ -28126,7 +28135,6 @@ Cliftonville Off Licence Ltd,Margate,Kent,Worker (A rating),Skilled Worker
 CLIIKK ACCIDENT REPAIR CENTRE LTD,Derby,,Worker (A rating),Skilled Worker
 Climar Industries Limited,Newport,Gwent,Worker (A rating),Skilled Worker
 Climate 2025 Limited,Sheffield,,Worker (A rating),Skilled Worker
-Climate Aligned Company Ltd,London,,Worker (A rating),Skilled Worker
 Climate Asset Management Limited ,London ,,Worker (A rating),Skilled Worker
 Climate Bonds Initiative,London,,Worker (A rating),Skilled Worker
 Climate Change Media Ltd,London ,,Worker (A rating),Skilled Worker
@@ -29368,6 +29376,7 @@ Companion Group Ltd,CHISLEHURST,KENT,Worker (A rating),Skilled Worker
 Company 3 Studios UK Ltd,London,,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
 Company 3 Studios UK Ltd,London,,Temporary Worker (A rating),Creative Worker
 Company 3 Studios UK Ltd,London,,Worker (A rating),Skilled Worker
+Company 86 Limited,London,,Worker (A rating),Skilled Worker
 Company Chameleon Ltd,Manchester,,Temporary Worker (A rating),Creative Worker
 Company Watch Limited,"Chippenham,",,Worker (A rating),Skilled Worker
 Compare my Care Ltd,Eye,Suffolk,Worker (A rating),Skilled Worker
@@ -29821,7 +29830,7 @@ Conovo Ltd,Slough,,Worker (A rating),Skilled Worker
 Conquer Hospitality Ltd,London,,Worker (A rating),Skilled Worker
 CONQUEST BUSINESS SOLUTIONS LTD,Altrincham,,Worker (A rating),Skilled Worker
 CONQUEST TECH SOLUTIONS LTD,England,,Worker (A rating),Skilled Worker
-Conquip Engineering Group,Alton,Hampshire,Worker (A rating),Skilled Worker
+Conquip Engineering Group Limited,Alton,Hampshire,Worker (A rating),Skilled Worker
 Conrad Darare Ltd t/a Prosdokia,Hayes,,Worker (A rating),Skilled Worker
 Conrad Energy Limited,Abingdon,,Worker (A rating),Skilled Worker
 Conrads Building Contractors Limited,Nottingham,,Worker (A rating),Skilled Worker
@@ -30179,7 +30188,6 @@ Cookpad Limited,Bristol,,Worker (A rating),Skilled Worker
 Cooksditch House Care Ltd,Faversham,Kent,Worker (A rating),Skilled Worker
 Cookson Adventures,London,,Worker (A rating),Skilled Worker
 Cookson Precious Metals Limited,Birmingham,,Worker (A rating),Skilled Worker
-Cool Company Management Ltd,London,,Worker (A rating),Skilled Worker
 Cool Health Ltd,London,,Worker (A rating),Skilled Worker
 Cool Hooves Polo Ltd,Winkfield,Berkshire,Worker (A rating),International Sportsperson
 COOL PLUS LONDON LIMITED,London,,Worker (A rating),Skilled Worker
@@ -30409,6 +30417,7 @@ CORIANDER RESTAURANT LTD T/A CORIANDER,MANCHESTER,,Worker (A rating),Skilled Wor
 CORIANDER TAKEAWAY LIMITED T/A Masala Delight,Colchester,,Worker (A rating),Skilled Worker
 CORIANTE CONSTRUCTION LTD,Ashford,,Worker (A rating),Skilled Worker
 Corick Country House Hotel and Spa,Omagh,County Tyrone,Worker (A rating),Skilled Worker
+Corient Services Limited,London,,Worker (A rating),Skilled Worker
 Corient Services Limited,London,,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
 Corient Services Limited,London,,Worker (A rating),Skilled Worker
 Corilla Plastics (Bridgend Ltd),Bridgend,,Worker (A rating),Skilled Worker
@@ -30505,7 +30514,6 @@ Cornwall Council,TRURO,Cornwall,Worker (A rating),Skilled Worker
 Cornwall Education Learning Trust,St Austell,Cornwall,Worker (A rating),Skilled Worker
 Cornwall Express Pvt Ltd,Walmer,Kent,Worker (A rating),Skilled Worker
 Cornwall Foods Limited,St Austell,Cornwall,Worker (A rating),Skilled Worker
-Cornwall Health Care Services Ltd,Redruth,,Worker (A rating),Skilled Worker
 CORNWALL HEALTH CARE SERVICES LTD,Redruth,,Worker (A rating),Skilled Worker
 Cornwall Hospice Care Limited,St Austell,Cornwall,Worker (A rating),Skilled Worker
 Cornwall Insight Ltd,Norwich,,Worker (A rating),Skilled Worker
@@ -32161,7 +32169,7 @@ CULTURE HAUS LTD,London,,Worker (A rating),Skilled Worker
 CULTURE RESTAURANT AND BAR LTD,Newcastle Upon Tyne,,Worker (A rating),Skilled Worker
 Culture15 Limited ,London ,,Worker (A rating),Skilled Worker
 CULTURETRIPART LIMITED,Swanscombe,KENT,Worker (A rating),Skilled Worker
-Culuru Consulting Limited,London,,Worker (A rating),Skilled Worker
+Culuru Consulting Limited,Borehamwood,,Worker (A rating),Skilled Worker
 Culverhay Surgery,Wotton under Edge,Gloucestershire,Worker (A rating),Skilled Worker
 Culwood House Residential Care Home ,Chesham,Bucks,Worker (A rating),Skilled Worker
 Culworth Grounds Farm Partnership,Thorpe Mandeville,Oxfordshire,Worker (A rating),Skilled Worker
@@ -32196,6 +32204,7 @@ Cummins Civil Engineering Ltd,Knutsford,Cheshire,Worker (A rating),Skilled Worke
 Cummins Ltd,Darlington,,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
 Cummins Ltd,Darlington,,Worker (A rating),Skilled Worker
 Cummins Ltd,Darlington,,Temporary Worker (A rating),Global Business Mobility: Graduate Trainee
+Cumra Ltd,Cardiff,,Worker (A rating),Skilled Worker
 Cumrue Farming Partnership,Lockerbie,GB,Worker (A rating),Skilled Worker
 CUMULOCITY (UK) LTD,Histon,,Worker (A rating),Skilled Worker
 Cumulus Neuroscience,Belfast,Antrim,Worker (A rating),Skilled Worker
@@ -33395,6 +33404,7 @@ Dastaan Limited TA Dastaan,Epsom,Surrey,Worker (A rating),Skilled Worker
 Dastgyr UK Limited,Romford,,Worker (A rating),Skilled Worker
 Dasway Limited T/A Holden Bridge Service Station,Stoke On Trent,,Worker (A rating),Skilled Worker
 DAT 2000 Ltd ( T/A EliteAutocare ),Rainham,Essex,Worker (A rating),Skilled Worker
+Dat Healthcare Ltd,Bristol,Bristol,Worker (A rating),Skilled Worker
 Data 1St Ltd,SWINDON,,Worker (A rating),Skilled Worker
 DATA ANALYTICS & VISUALISATION LIMITED,Rickmansworth,Hertfordshire,Worker (A rating),Skilled Worker
 Data and Marketing Association Ltd,London,,Worker (A rating),Skilled Worker
@@ -36364,6 +36374,7 @@ Dockham Surgery,Cinderford,Gloucestershire,Worker (A rating),Skilled Worker
 DOCKHEAD NEWSAGENTS LTD,AYRSHIRE,,Worker (A rating),Skilled Worker
 DOCKLANDS DAY NURSERY LIMITED,LONDON,,Worker (A rating),Skilled Worker
 DOCKS INN LTD,London,,Worker (A rating),Skilled Worker
+DOCKS INN LTD,London,,Worker (A rating),Skilled Worker
 Docky Tech Limited,Warwick,West Midlands,Worker (A rating),Skilled Worker
 DOCME TECHNOLOGIES LTD,Cambridge,,Worker (A rating),Skilled Worker
 DOCOMO Europe Ltd.,London,,Worker (A rating),Skilled Worker
@@ -36685,7 +36696,6 @@ DORSET ISLAMIC CULTURAL ASSOCIATION T/A Poole Mosque,Poole,,Worker (A rating),Sk
 DORSET ISLAMIC CULTURAL ASSOCIATION T/A Poole Mosque,Poole,,Temporary Worker (A rating),Religious Worker
 Dorset Mind,Bournemouth,,Temporary Worker (A rating),Charity Worker 
 Dorset Mind,Bournemouth,,Worker (A rating),Skilled Worker
-DORSET NOODLE COMPANY LTD,BOURNEMOUTH,,Worker (A rating),Skilled Worker
 Dorset Opera,DORCHESTER,Dorset,Temporary Worker (A rating),Charity Worker 
 DORSET SECURITY SERVICES LTD,Bournemouth,,Worker (A rating),Skilled Worker
 Dorset Wellbeing Limited,Corfe Castle,Dorset,Worker (A rating),Skilled Worker
@@ -37034,6 +37044,7 @@ Dr P Stocks & Partners,Bexhill-on-Sea,East Sussex,Worker (A rating),Skilled Work
 Dr Partington & Partners,Puckeridge,Herts,Worker (A rating),Skilled Worker
 Dr Patel's Ayurveda,Pinner,,Worker (A rating),Skilled Worker
 Dr Pullan & Partners ,Stoke on Trent,Staffordshire ,Worker (A rating),Skilled Worker
+Dr Punit Sitaram Shivhare,Lydney,,Worker (A rating),Skilled Worker
 Dr PV Gudi and Partner,WESTBROMWICH,WESTMIDLAND,Worker (A rating),Skilled Worker
 Dr Q's Grill and Pizza Limited T/A Dr Q's Food Factory ,Sunderland ,,Worker (A rating),Skilled Worker
 Dr R K Arora,West Bromwich,West Midlands,Worker (A rating),Skilled Worker
@@ -37338,6 +37349,7 @@ Drone Evolution Ltd,Caerphilly,,Worker (A rating),Skilled Worker
 DroneDeploy,London,,Worker (A rating),Global Business Mobility: UK Expansion Worker
 DroneDeploy,London,,Worker (A rating),Skilled Worker
 DroneDeploy,London,,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
+DroneDeploy Limited,London,,Worker (A rating),Skilled Worker
 DRONSFIELDS LIMITED,ROYTON,OLDHAM,Worker (A rating),Skilled Worker
 DROOL ART LIMITED,London,,Worker (A rating),Skilled Worker
 Drool Productions Limited,London,,Temporary Worker (A rating),Creative Worker
@@ -37859,7 +37871,6 @@ DUTT LIMITED,Brentford,,Worker (A rating),Skilled Worker
 Dutta A Star Limited T/A The Varandah,Leicester,,Worker (A rating),Skilled Worker
 Dutta and Sons Limited,Derby,,Worker (A rating),Skilled Worker
 Duttkrupa limited,Bristol,,Worker (A rating),Skilled Worker
-Duty Care Limited,Wimborne,,Worker (A rating),Skilled Worker
 DUTY GUARD SECURITY LTD,Manchester,Greater Manchester,Worker (A rating),Skilled Worker
 Duua Ltd,Portsmouth,England,Worker (A rating),Skilled Worker
 Duvo Limited,Cheshire,,Worker (A rating),Skilled Worker
@@ -37977,8 +37988,6 @@ Dynamic New Alliances Ltd,London,,Worker (A rating),Skilled Worker
 Dynamic NW Ltd,Liverpool,,Worker (A rating),Skilled Worker
 Dynamic Office Seating LTD,Northampton,,Worker (A rating),Skilled Worker
 Dynamic People Ltd,Finchley,London,Worker (A rating),Skilled Worker
-Dynamic Pizza 2 Ltd T/A Pizza Hut,Leeds,Yorkshire,Worker (A rating),Skilled Worker
-Dynamic Pizza 3 Ltd T/A Pizza Hut,Leicester,,Worker (A rating),Skilled Worker
 Dynamic Pizza Ltd T/A Pizza Hut,Tamworth,,Worker (A rating),Skilled Worker
 Dynamic Planner Limited,Reading,,Worker (A rating),Skilled Worker
 Dynamic Property and Investments Limited,Epsom,,Worker (A rating),Skilled Worker
@@ -38004,9 +38013,8 @@ Dynamo Analytics Ltd,London,,Worker (A rating),Skilled Worker
 Dynamo Analytics Ltd,London,,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
 DYNAMO CAPITAL LLP,LONDON,,Worker (A rating),Skilled Worker
 Dynamo Cover Ltd,Barry,Vale of Glamorgan,Worker (A rating),Skilled Worker
-Dynamo Foods Ltd ,Doncaster,,Worker (A rating),Skilled Worker
-Dynamo Healthcare Training Ltd,"Trevoarn, Hayle",Cornwall,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
 Dynamo Healthcare Training Ltd,"Trevoarn, Hayle",Cornwall,Worker (A rating),Skilled Worker
+Dynamo Healthcare Training Ltd,"Trevoarn, Hayle",Cornwall,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
 DYNAMO SOFTWARE UK. LIMITED,Harrow,Middlesex,Worker (A rating),Skilled Worker
 Dynamometer Services Group Limited,Worcester,Worcestershire,Worker (A rating),Skilled Worker
 Dynamon Ltd,Southampton,,Worker (A rating),Skilled Worker
@@ -38068,7 +38076,6 @@ E Basnett Ltd,Runcorn,Cheshire,Worker (A rating),Skilled Worker
 E C Electronics Ltd,Basingstoke,Hampshire,Worker (A rating),Skilled Worker
 E C LUTON LIMITED,Hatfield,Hertfordshire,Worker (A rating),Skilled Worker
 E C Mills Ltd,Willesden,London,Worker (A rating),Skilled Worker
-E Care Limited,Colchester,Essex,Worker (A rating),Skilled Worker
 E Clothing Ltd,Manchester,,Worker (A rating),Skilled Worker
 E CONTACT SERVICES ,Lanark,Scotland,Worker (A rating),Skilled Worker
 E Direct Link Ltd,Bournemouth,,Worker (A rating),Skilled Worker
@@ -38702,7 +38709,6 @@ Easytransfer Limited ,London,,Worker (A rating),Global Business Mobility: Senior
 EASYVAN PLUS LTD,Cheadle,Cheshire,Worker (A rating),Skilled Worker
 EASYWAY CONVENIENCE STORES LIMITED,MIDDLESEX,,Worker (A rating),Skilled Worker
 EAT & GO PHOENIX FOOD COMPANY LIMITED,Kirkcaldy,Fife,Worker (A rating),Skilled Worker
-EAT & REPEAT LIMITED,LEICESTER,,Worker (A rating),Skilled Worker
 Eat & Treat Wholesale Ltd,Liverpool,,Worker (A rating),Skilled Worker
 Eat a Pitta ltd ,bristol ,,Worker (A rating),Skilled Worker
 EAT AT CHARTS LIMITED TRADING AS DOOD,TYNE AND WEAR,,Worker (A rating),Skilled Worker
@@ -40240,6 +40246,7 @@ Elite Car Refinishing Ltd,Manchester,Lancashire,Worker (A rating),Skilled Worker
 Elite Care and Comfort Limited ,Barnsley,,Worker (A rating),Skilled Worker
 Elite Care and Support Ltd,Newton Aycliffe,,Worker (A rating),Skilled Worker
 Elite Care at Home Ltd,Lockerbie,,Worker (A rating),Skilled Worker
+ELITE CARE AT HOME LTD,Dumfriesshire,,Worker (A rating),Skilled Worker
 ELITE CARE HOMES LTD,BIRMINGHAM,,Worker (A rating),Skilled Worker
 Elite Care Management Ltd,Slough,,Worker (A rating),Skilled Worker
 Elite Care Professionals Limited,Liverpool,,Worker (A rating),Skilled Worker
@@ -41607,7 +41614,7 @@ Envisage Digital,Bournemouth,Dorset,Worker (A rating),Skilled Worker
 Envisage Group Limited,Coventry,,Worker (A rating),Skilled Worker
 Envisics Ltd,Milton Keynes,,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
 Envisics Ltd,Milton Keynes,,Worker (A rating),Skilled Worker
-Envision Accountancy Ltd,Beaconsfield,,Worker (A rating),Skilled Worker
+Envision Accountancy Ltd,Gerrards Cross,,Worker (A rating),Skilled Worker
 Envision Contracting Limited,Wallington,,Worker (A rating),Skilled Worker
 ENVISION ENERGY INTERNATIONAL UK LIMITED,London,,Worker (A rating),Skilled Worker
 ENVISION ENERGY UK COE LTD,London,,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
@@ -41705,8 +41712,6 @@ EPICARE SOLUTIONS LTD,London,,Worker (A rating),Skilled Worker
 Epicat Ltd,Newcastle Upon Tyne,,Worker (A rating),Skilled Worker
 EPICFIX LTD,Ilford,,Worker (A rating),Skilled Worker
 EPICON CONSTRUCTION LTD,Luton,,Worker (A rating),Skilled Worker
-Epicor Software (UK) Limited,Bracknell,Berkshire,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
-Epicor Software (UK) Limited,Bracknell,Berkshire,Worker (A rating),Skilled Worker
 Epicor Software (UK) Limited,Bracknell,Berkshire,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
 Epicor Software (UK) Limited,Bracknell,Berkshire,Worker (A rating),Skilled Worker
 EPICORA LIMITED,Redditch,England,Worker (A rating),Skilled Worker
@@ -41999,6 +42004,7 @@ ERP Ware Ltd,LONDON,,Worker (A rating),Skilled Worker
 ERPTREE TECHNOLOGIES LIMITED,London,England,Worker (A rating),Skilled Worker
 Errigal Contracts Limited,London,London,Worker (A rating),Skilled Worker
 Errington Langer Pinner,London,,Worker (A rating),Skilled Worker
+Erry Transport ltd,Rochester,Kent,Worker (A rating),Skilled Worker
 ERS Consultancy Ltd,Watford,Hertfordshire,Worker (A rating),Skilled Worker
 ERS Consultants Ltd,oxford,,Worker (A rating),Skilled Worker
 ERSAN & CO SOLICITORS LIMITED,London, England,Worker (A rating),Skilled Worker
@@ -43013,7 +43019,7 @@ Every Nation Ministries Belfast,BELFAST,,Worker (A rating),Tier 2 Ministers of R
 EVERY SENSATION CARE LTD,NOTTINGHAM,,Worker (A rating),Skilled Worker
 Every Space Ltd,Wembley,,Worker (A rating),Skilled Worker
 Every Tuesday Limited,Buckfastleigh,Devon,Worker (A rating),Skilled Worker
-Everybody Agency Limited,London,,Worker (A rating),Skilled Worker
+Everybody Agency Limited,London,London,Worker (A rating),Skilled Worker
 Everybody Eats Ltd,London,,Worker (A rating),Skilled Worker
 Everybody Go Ltd.,Manchester,,Worker (A rating),Skilled Worker
 Everybody Talks Ltd,Tooting,London,Worker (A rating),Skilled Worker
@@ -44609,7 +44615,7 @@ Fat Toni's Franchise Management Limited t/a Fat Toni's,Stroud,,Worker (A rating)
 Fat Twins Birmingham Ltd TA Fat Twins,Birmingham,,Worker (A rating),Skilled Worker
 Fat Twins Reading Ltd,Croydon,,Worker (A rating),Skilled Worker
 FATA Automation Limited,Worcester,Worcestershire,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
-FATCOI LIMITED,Egham,Surrey,Worker (A rating),Skilled Worker
+FATCOI LIMITED,London,,Worker (A rating),Skilled Worker
 Fateh 2020 Ltd t/a Fire Donner,Edinburgh,,Worker (A rating),Skilled Worker
 FATEH AUTO SERVICES LTD,Nottingham,,Worker (A rating),Skilled Worker
 FATEH CHAND ELECTRONICS TRADING UK LTD,Dudley,,Worker (A rating),Skilled Worker
@@ -44697,7 +44703,6 @@ FC Brothers Limited T/A Wingers,Stafford,,Worker (A rating),Skilled Worker
 FC Capital Limited,London,,Worker (A rating),Skilled Worker
 FC Construction Group Ltd,Manchester,,Worker (A rating),Skilled Worker
 FC FLEET LIMITED,Slough,,Worker (A rating),Skilled Worker
-FC Indian Ltd,Mansfield,Nottinghamshire,Worker (A rating),Skilled Worker
 FC Millheath Ltd,Newport,,Worker (A rating),Skilled Worker
 FC People,London,Westminster,Worker (A rating),Skilled Worker
 FC Summerhill NH LTD,Bettws Newport,,Worker (A rating),Skilled Worker
@@ -45046,7 +45051,6 @@ FHA INVESTMENTS LTD,NOTTINGHAM,,Worker (A rating),Skilled Worker
 FHDC Ltd t/a Far Headingley Dental Care,Leeds ,,Worker (A rating),Skilled Worker
 FHI 360 UK Ltd,London,Select One,Worker (A rating),Skilled Worker
 FHI Real Estate Limited,London,Region,Worker (A rating),Skilled Worker
-fho racing ,louth,,Worker (A rating),International Sportsperson
 FHP Engineering Services Solutions Limited,London,,Worker (A rating),Skilled Worker
 FHP Group LLP,London,,Worker (A rating),Skilled Worker
 FHS Dynamics Ltd,Slough,Berkshire,Worker (A rating),Skilled Worker
@@ -45353,7 +45357,6 @@ FINEAT LIMITED,London,,Worker (A rating),Skilled Worker
 Finedine Restaurant Limited ,Keswick,,Worker (A rating),Skilled Worker
 FINEDON DENTAL PRACTICE LTD,Finedon ,Northamptonshire ,Worker (A rating),Skilled Worker
 Finefair Management Limited,Ilford,Essex,Worker (A rating),Skilled Worker
-FINEFOODS (NW) LTD,MANCHESTER,,Worker (A rating),Skilled Worker
 Finefutures Ltd,Coventry,,Worker (A rating),Skilled Worker
 Fineline AV,Coventry,,Worker (A rating),Skilled Worker
 FINELLA INTERNATIONAL LTD,LEICESTER,,Worker (A rating),Skilled Worker
@@ -45653,7 +45656,6 @@ FIRST LANDLORD CERTIFICATES LONDON LTD,London,,Worker (A rating),Skilled Worker
 First Lane Education UK Consultancy Ltd,London,,Worker (A rating),Skilled Worker
 First Law Solicitors Limited,Manchester,,Worker (A rating),Skilled Worker
 First Light Fusion Limited,Kidlington,,Worker (A rating),Skilled Worker
-First Light Games Ltd,Canterbury,,Worker (A rating),Skilled Worker
 First Line Cars Ltd.,Reading,England,Worker (A rating),Skilled Worker
 First Line Physio,Cheltenham,Gloucestershire,Worker (A rating),Skilled Worker
 First London Property Management Limited ,Middlesex,,Worker (A rating),Skilled Worker
@@ -45789,7 +45791,6 @@ Fisher Financial Advisors Ltd,Wallington,,Worker (A rating),Skilled Worker
 Fisher Investments Europe Limited,London,Canary Wharf,Worker (A rating),Skilled Worker
 Fisher Investments Europe Limited,London,Canary Wharf,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
 Fisherbell Ltd,Sheffield,,Worker (A rating),Skilled Worker
-FISHERDAY SOLICITORS,CHESHIRE,,Worker (A rating),Skilled Worker
 Fishergate Primary School,York,North Yorkshire,Worker (A rating),Skilled Worker
 Fisherman Catch Limited,SHEERNESS,,Worker (A rating),Skilled Worker
 Fisherrow Stores Limited,Musselburgh,,Worker (A rating),Skilled Worker
@@ -45804,7 +45805,6 @@ Fishouse (Oban) Ltd,Oban,Argyll,Worker (A rating),Skilled Worker
 Fishpool News Limited,Bury,,Worker (A rating),Skilled Worker
 Fishpools Ltd,Waltham Cross,Hertfordshire,Worker (A rating),Skilled Worker
 Fishveg Ltd,Taplow,Maidenhead,Worker (A rating),Skilled Worker
-Fisk & Osbourne Building Limited,Stanford le Hope,Essex,Worker (A rating),Skilled Worker
 Fisk Fire Protection Ltd,Chelmsford ,Essex,Worker (A rating),Skilled Worker
 Fiskars UK Limited,Stoke on Trent,Staffordshire,Worker (A rating),Skilled Worker
 Fiskars UK Limited,Stoke on Trent,Staffordshire,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
@@ -46003,7 +46003,6 @@ Flamingo Land Ltd,Malton,North Yorkshire,Temporary Worker (A rating),Creative Wo
 Flamingo Pharma (UK) Limited,Kingston Upon Hull,,Worker (A rating),Skilled Worker
 Flanagan Lawrence Limited,London,,Worker (A rating),Skilled Worker
 Flanders Investment & Trade,London,Westminster,Worker (A rating),Skilled Worker
-FLANX LTD,London,,Worker (A rating),Skilled Worker
 Flapjax Limited,Birmingham,,Worker (A rating),Skilled Worker
 Flare Bright Ltd,Aylesbury,Buckinghamshire,Worker (A rating),Skilled Worker
 Flare Products Ltd,Stewartby,Bedford,Worker (A rating),Skilled Worker
@@ -46226,7 +46225,7 @@ Flo Health UK Limited,London,,Worker (A rating),Global Business Mobility: Senior
 Flo Health UK Limited,London,,Worker (A rating),Skilled Worker
 FLO PR Ltd,London,,Worker (A rating),Skilled Worker
 Floating Palace Ltd,Edinburgh,,Worker (A rating),Skilled Worker
-FLOBIS PROPERTIES LTD,LONDON,,Worker (A rating),Skilled Worker
+FLOBIS PROPERTIES LTD,Doncaster,,Worker (A rating),Skilled Worker
 Flock Associates LTD,London,Fitzrovia,Worker (A rating),Skilled Worker
 Flock Limited,London,,Worker (A rating),Skilled Worker
 Flock.io Ltd,London,,Worker (A rating),Skilled Worker
@@ -46444,7 +46443,6 @@ FND Communications Ltd,Ilford,,Worker (A rating),Skilled Worker
 FNH HOTELS LIMITED,HEREFORD,,Worker (A rating),Skilled Worker
 FNH UK Ltd,Erith,,Worker (A rating),Skilled Worker
 FNM COLLECTION LTD,SLOUGH,,Worker (A rating),Skilled Worker
-FNS LEISURE GROUP LTD T/A THE RIVER GARDEN,HAREFIELD,,Worker (A rating),Skilled Worker
 FNS MARKETING LIMITED,London,,Worker (A rating),Skilled Worker
 FNT TEXTILE LTD,Leeds,,Worker (A rating),Skilled Worker
 Fnt.invest Ltd,Shrewsbury,,Worker (A rating),Skilled Worker
@@ -47392,7 +47390,6 @@ Franco Group(UK) LTD,London,,Worker (A rating),Skilled Worker
 Franco Manca 2 UK limited,London,,Worker (A rating),Skilled Worker
 Franco Signs Ltd,Wimbledon,London,Worker (A rating),Skilled Worker
 Franco Tax and Accountancy Services Ltd,Carshalton,Surrey,Worker (A rating),Skilled Worker
-Franco's Bakery 2003 Limited,Bolton,,Worker (A rating),Skilled Worker
 Francob Limited T/A Don Beni ,Winkfield,Bracknell,Worker (A rating),Skilled Worker
 Francois Square Limited,London,,Worker (A rating),Skilled Worker
 Francotyp-Postalia Ltd ,Dartford,Kent,Worker (A rating),Skilled Worker
@@ -47421,7 +47418,6 @@ Frank Smythson Limited,London,,Worker (A rating),Skilled Worker
 FRANK TRUMAN LIMITED,Harrow,Middlesex,Worker (A rating),Skilled Worker
 Frank Wright Limited t/a Trouw Nutrition GB,Ashbourne,Derbyshire,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
 Frank Wright Limited t/a Trouw Nutrition GB,Ashbourne,Derbyshire,Worker (A rating),Skilled Worker
-FRANK&WOLF LIMITED ,York ,West Yorkshire,Worker (A rating),Skilled Worker
 "Frank, Bright & Abel Limited",London,,Worker (A rating),Skilled Worker
 Franke Coffee Systems UK Ltd ,St Albans,Herts,Worker (A rating),Skilled Worker
 Franke UK Limited,Manchester,,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
@@ -47429,6 +47425,7 @@ Franke UK Limited,Manchester,,Worker (A rating),Skilled Worker
 Frankham Consultancy Group Limited,Sidcup,,Worker (A rating),Skilled Worker
 Frankham Consultancy Group Limited,Sidcup,,Worker (A rating),Skilled Worker
 Franki Foundations UK Ltd,Darford,Kent,Worker (A rating),Skilled Worker
+Franklin Electric UK Ltd,Ipswich,Suffolk,Worker (A rating),Skilled Worker
 Franklin Fitch Limited,London,,Worker (A rating),Skilled Worker
 FRANKLIN INTERNATIONAL GROUP LTD,Woolwich,London,Worker (A rating),Skilled Worker
 FRANKLIN PLACEMENT LTD,Barking,,Worker (A rating),Skilled Worker
@@ -47446,7 +47443,7 @@ Fransil Ltd t/a Healthpoint Pharmacy,Bournemouth,Dorset,Worker (A rating),Skille
 FRASCATI LTD,Bournemouth,,Worker (A rating),Skilled Worker
 Fraser Brookes Limited T/A TherapyMatters,"Pulford, Chester",Cheshire,Worker (A rating),Skilled Worker
 Fraser Brown MacKenna Architects (FBM Architects),London,Greater London,Worker (A rating),Skilled Worker
-Fraser Home Care Ltd,Inverness,Inverness-Shire,Worker (A rating),Skilled Worker
+Fraser Home Care Ltd,Peterhead,Inverness-Shire,Worker (A rating),Skilled Worker
 Fraser Masood Solicitors,Southall,London,Worker (A rating),Skilled Worker
 Fraser Residential Ltd,Folkestone,Kent,Worker (A rating),Skilled Worker
 Fraser Russell Limited,Birmingham,West Midlands,Worker (A rating),Skilled Worker
@@ -48725,7 +48722,6 @@ GAIA LONDON GROUP LIMITED,LONDON,,Worker (A rating),Skilled Worker
 Gaiacode Ltd,Reading,,Worker (A rating),Skilled Worker
 Gail's Limited,London,,Worker (A rating),Skilled Worker
 Gaillard Banifatemi Shelbaya (UK) LLP  ,London,London,Worker (A rating),Skilled Worker
-GAIN CARE LIMITED,Leeds,,Worker (A rating),Skilled Worker
 Gain Credit LLC,London,Ms,Worker (A rating),Skilled Worker
 GAIN IT ALL LIMITED,Doncaster,,Worker (A rating),Skilled Worker
 Gain Theory Limited,London,,Worker (A rating),Skilled Worker
@@ -49260,6 +49256,7 @@ GBAF Publications Limited,London,,Worker (A rating),Skilled Worker
 GBAFC LTD,Slough,,Worker (A rating),Skilled Worker
 GBBC Digital Finance Limited,London,,Worker (A rating),Skilled Worker
 GBD Couriers Ltd,Birmingham,West Midlands,Worker (A rating),Skilled Worker
+GBDC Limited,Chapeltown,,Worker (A rating),Skilled Worker
 GBE Services London Limited,Dartford,,Worker (A rating),Skilled Worker
 GBGK Limited ,Brislington ,Bristol ,Worker (A rating),Skilled Worker
 GBK 2021 LTD T/A ASHIQ'S,DUNFERMLINE,FIFE,Worker (A rating),Skilled Worker
@@ -49995,8 +49992,9 @@ GHGSat UK Limited,London,,Worker (A rating),Skilled Worker
 Ghiaci Goodhand Smith Ltd,Brighton,East Sussex,Worker (A rating),Skilled Worker
 Ghir Ltd,Eastham,London,Worker (A rating),Skilled Worker
 GHK Restaurants Ltd t/a GT Road,Hayes,Middx,Worker (A rating),Skilled Worker
-GHO Capital Partners Advisory Ltd,London,,Worker (A rating),Skilled Worker
+GHL Bakery Equipment Ltd,Colchester,Essex,Worker (A rating),Skilled Worker
 GHO Capital Partners Advisory Ltd,London,,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
+GHO Capital Partners Advisory Ltd,London,,Worker (A rating),Skilled Worker
 GHO Capital Partners LLP,London,,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
 GHO Capital Partners LLP,London,,Worker (A rating),Skilled Worker
 GHODIWALA LIMITED,BLACKBURN,,Worker (A rating),Skilled Worker
@@ -50199,6 +50197,7 @@ Gilmond ,Bournemouth,Dorset,Worker (A rating),Skilled Worker
 Gilmore Consultancy Ltd,London,,Worker (A rating),Skilled Worker
 GILMOUR INNS LTD,BELFAST,Antrim,Worker (A rating),Skilled Worker
 Gilpin Lodge Country House Hotel Limited,Windermere,Cumbria,Worker (A rating),Skilled Worker
+GILROYD CONVENIENCE STORE LIMITED,Barnsley,,Worker (A rating),Skilled Worker
 Gilson Gray (England) Limited,Lincoln,,Worker (A rating),Skilled Worker
 Gilson Gray LLP,Edinburgh,,Worker (A rating),Skilled Worker
 Giltbrook Health Care Limited,Nottingham,Nottinghamshire,Worker (A rating),Skilled Worker
@@ -50538,7 +50537,6 @@ Glendale Countryside Ltd,Chorley,,Worker (A rating),Skilled Worker
 Glendale Court (Teignmouth) Limited,Torquay,Devon,Worker (A rating),Skilled Worker
 Glendale Court (Teignmouth) Limited,Teignmouth,,Worker (A rating),Skilled Worker
 Glendale Engineering (Milfield) Limited,Wooler,Northumberland,Worker (A rating),Skilled Worker
-Glendale Engineering (Milfield) Limited ,Wooler,Northumberland ,Worker (A rating),Skilled Worker
 Glendermott Cricket Club,Londonderry,Londonderry,Worker (A rating),International Sportsperson
 GLENDERMOTT MEDICAL,DERRY,CO DERRY,Worker (A rating),Skilled Worker
 Glendola Leisure (Holdings) Limited,Heathrow,Hayes,Worker (A rating),Skilled Worker
@@ -51391,6 +51389,7 @@ GOGO CABS LTD,Cambridge,,Worker (A rating),Skilled Worker
 GOGO MARKETING & ADVERTISING LTD,Derby,,Worker (A rating),Skilled Worker
 GOGO PROJECT LTD,London,,Worker (A rating),Skilled Worker
 Gogo Super Market Ltd,Wolverhampton,,Worker (A rating),Skilled Worker
+Gogodoc Limited,London,,Worker (A rating),Skilled Worker
 Gogomadu Care Limited,Kettering,Midlands,Worker (A rating),Skilled Worker
 GOGOPRINT LTD,Ilford,,Worker (A rating),Skilled Worker
 GoGroopie Limited,London,England,Worker (A rating),Skilled Worker
@@ -51799,7 +51798,7 @@ GOODS EMPORIUM LTD,Reading,,Worker (A rating),Skilled Worker
 Goods Group Limited,WIDNES,,Worker (A rating),Skilled Worker
 GOODSEED CHURCH,WORCESTER PARK,,Worker (A rating),Tier 2 Ministers of Religion
 GOODSTART LTD,LONDON,,Worker (A rating),Skilled Worker
-Goodstone Living Limited ,London,,Worker (A rating),Skilled Worker
+Goodstone Living Limited,London,,Worker (A rating),Skilled Worker
 Goodstuff Holdings Limited,London,,Worker (A rating),Skilled Worker
 GOODWAY CONSTRUCTION SVCS LTD,Bristol,,Worker (A rating),Skilled Worker
 Goodwick Fish and Chips Ltd,Coventry,,Worker (A rating),Skilled Worker
@@ -52006,7 +52005,6 @@ GQ Employment Law LLP,LONDON,,Worker (A rating),Skilled Worker
 GQ FIFE LTD,Dunfermline ,,Worker (A rating),Skilled Worker
 GQ STAFFING LIMITED,LEEDS,WEST YORKSHIRE,Worker (A rating),Skilled Worker
 GQG Partners (UK) Ltd.,London,,Worker (A rating),Skilled Worker
-GQS Holdings LTD,Ipswich,Suffolk,Worker (A rating),Skilled Worker
 GQS-UK Limited,Aberdeen,,Worker (A rating),Skilled Worker
 GR Bastille Limited,Belfast,,Worker (A rating),Skilled Worker
 GR Bucket Biryani Limited,Coventry,,Worker (A rating),Skilled Worker
@@ -52057,8 +52055,8 @@ Grace Community Church (Ireland) Limited,Richhill,Armagh,Worker (A rating),Tier 
 Grace Community Church Porthcawl,Porthcawl,,Worker (A rating),Tier 2 Ministers of Religion
 Grace Community Church Porthcawl,Porthcawl,,Temporary Worker (A rating),Religious Worker
 Grace Convenience Store Limited,Wilmslow,,Worker (A rating),Skilled Worker
-GRACE EVANGELISTIC MINISTRIES EUROPE,Croydon,,Temporary Worker (A rating),Religious Worker
-GRACE EVANGELISTIC MINISTRIES EUROPE,Croydon,,Worker (A rating),Tier 2 Ministers of Religion
+GRACE EVANGELISTIC MINISTRIES EUROPE,Carshalton Beeches,Greater London,Worker (A rating),Tier 2 Ministers of Religion
+GRACE EVANGELISTIC MINISTRIES EUROPE,Carshalton Beeches,Greater London,Temporary Worker (A rating),Religious Worker
 Grace Eyre Foundation,Brighton,East Sussex,Worker (A rating),Skilled Worker
 GRACE FAMILY ASSEMBLIES OF GOD (TAUNTON),TAUNTON,,Temporary Worker (A rating),Charity Worker 
 Grace Fashion Trading Ltd,Godalming,Surrey,Worker (A rating),Skilled Worker
@@ -52419,6 +52417,7 @@ GRAYMATICSUK LTD,London,,Worker (A rating),Skilled Worker
 Graypen Group Limited ,Immingham ,North East Lincolnshire ,Worker (A rating),Skilled Worker
 Grays Dining Club Ltd T/A Desi Indian Dining Club,Grays  ,,Worker (A rating),Skilled Worker
 Grays Inn Road Medical,London,,Worker (A rating),Skilled Worker
+GRAYS MEDICA LTD,Watford,England,Worker (A rating),Skilled Worker
 GRAYS OF CAMBRIDGE (INTERNATIONAL) LIMITED,ROBERTSBRIDGE,EAST SUSSEX,Worker (A rating),Skilled Worker
 Graysar Associates Limited,Cullompton,Devon,Worker (A rating),Skilled Worker
 Grayshott Gigabit Limited,Hindhea,Surrey,Worker (A rating),Skilled Worker
@@ -53416,7 +53415,7 @@ GU Group (Go Uni) Ltd,London,,Worker (A rating),Skilled Worker
 Gu Indulgent Foods Limited,Bishop's Stortford,,Worker (A rating),Skilled Worker
 Gu Indulgent Foods Limited,Bishop's Stortford,Hertfordshire,Worker (A rating),Skilled Worker
 GU RESOURCE LIMITED,London,,Worker (A rating),Skilled Worker
-Guala Closures UK Ltd,Kirkintilloch,East Dumbartonshire,Worker (A rating),Skilled Worker
+Guala Closures UK Ltd,Gartcosh,East Dumbartonshire,Worker (A rating),Skilled Worker
 Guang Hua Media UK Ltd.,London,,Worker (A rating),Skilled Worker
 Guangwei Restaurant Ltd,London,,Worker (A rating),Skilled Worker
 GUANXI (UK) Ltd,Nottingham,Nottinghamshire,Worker (A rating),Skilled Worker
@@ -55254,10 +55253,9 @@ HARPREET SECURE LOGISTIC LTD,Wolverhampton,,Worker (A rating),Skilled Worker
 Harps News & Off License Ltd ,Grimsby,,Worker (A rating),Skilled Worker
 HARPSCREEN (GB) LIMITED,St Helens,,Worker (A rating),Skilled Worker
 Harpscreen Int Ltd,Dungannon,Tyrone,Worker (A rating),Skilled Worker
-HARRAL COSTS ASSESSOR LTD,LONDON,,Temporary Worker (A rating),Creative Worker
 HARRAL COSTS ASSESSOR LTD,LONDON,,Worker (A rating),Skilled Worker
+HARRAL COSTS ASSESSOR LTD,LONDON,,Temporary Worker (A rating),Creative Worker
 Harrall Care Services Ltd T/a Home Instead St Albans,St. Albans,Hertfordshire,Worker (A rating),Skilled Worker
-Harrath Engineering Limited,Essex,,Worker (A rating),Skilled Worker
 Harraton Court Stables Ltd,Newmarket,Suffolk,Worker (A rating),Skilled Worker
 HARREN LIMITED,West Bridgford,Nottingham,Worker (A rating),Skilled Worker
 Harri Technologies (UK) Limited ,Barnet,Hertfordshire,Worker (A rating),Skilled Worker
@@ -56610,6 +56608,7 @@ Henry's Fish & Chips,Boston,,Worker (A rating),Skilled Worker
 Hens Medics Ltd,Barnet,London,Worker (A rating),Skilled Worker
 HENSA LIMITED,London,,Worker (A rating),Skilled Worker
 Hensall Mechanical Services Ltd,Eggborough,,Worker (A rating),Skilled Worker
+Hensel Electric UK Ltd,High Wycombe,Buckinghamshire,Worker (A rating),Skilled Worker
 Hensel Recycling (UK) Ltd,Dunsfold,Surrey,Temporary Worker (A rating),Global Business Mobility: Graduate Trainee
 Hensel Recycling (UK) Ltd,Slinfold,West Sussex,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
 Henshall and Sheehy Support Services Limited,London,,Worker (A rating),Skilled Worker
@@ -56751,6 +56750,7 @@ Herschel Medical Centre ,Slough ,,Worker (A rating),Skilled Worker
 Hersham Superstore,Hersham,Walton-on-Thames,Worker (A rating),Skilled Worker
 Hershey UK Finance Limited,LONDON,,Worker (A rating),Skilled Worker
 Hershey UK Finance Limited,LONDON,,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
+Hertford Eatery Ltd T/As Peach,Hertford,,Worker (A rating),Skilled Worker
 Hertford Heath Ltd,Camberley,Surrey,Worker (A rating),Skilled Worker
 Hertford Regional College,Ware,Hertfordshire,Worker (A rating),Skilled Worker
 Hertfordshire Community NHS Trust,Welwyn Garden City,Hertfordshire,Worker (A rating),Skilled Worker
@@ -58895,6 +58895,7 @@ HP Global Ltd,London,,Worker (A rating),Skilled Worker
 HP GROCERIES & SPIRITS LIMITED,Bolton,,Worker (A rating),Skilled Worker
 HP Inc UK Limited,Reading,Berkshire,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
 HP Inc UK Limited,Reading,Berkshire,Worker (A rating),Skilled Worker
+HP INTERNATIONAL LIMITED ,COVENTRY ,,Worker (A rating),Skilled Worker
 HP Managed Services Limited,London,,Worker (A rating),Skilled Worker
 HP RETURN SERVICES LTD,London,,Worker (A rating),Skilled Worker
 HP ROMANA MAGAZIN LTD,Slough,Berkshire,Worker (A rating),Skilled Worker
@@ -60960,6 +60961,7 @@ Impress Removals & Storage Ltd,Sutton,,Worker (A rating),Skilled Worker
 IMPRESS SOLUTIONS LTD,ESSEX,,Worker (A rating),Skilled Worker
 IMPRESS: The Independent Monitor for the Press,London,,Worker (A rating),Skilled Worker
 IMPRESSION DIGITAL LIMITED,NOTTINGHAM,,Worker (A rating),Skilled Worker
+IMPRESSION HEALTH AND SUPPORT DERBY HOUSE LIMITED,Liverpool,,Worker (A rating),Skilled Worker
 Impression Health and Support UK LTD,Chester,,Worker (A rating),Skilled Worker
 Impression Lookout Ltd,LONDON,,Worker (A rating),Skilled Worker
 IMPRESSION SERVICES LTD,Northampton,,Worker (A rating),Skilled Worker
@@ -61321,7 +61323,6 @@ Indivior UK Limited,Slough,Berkshire,Worker (A rating),Skilled Worker
 Indiya Food Limited T/A Indiya Bar & Restaurant,Orpington,,Worker (A rating),Skilled Worker
 INDKONCISE TEK LIMITED,LONDON,,Worker (A rating),Skilled Worker
 Indo Asian Foods Ltd,Chelmsford,,Worker (A rating),Skilled Worker
-Indo Bites Ltd,Hitchin,,Worker (A rating),Skilled Worker
 Indo European Foods Ltd,Felixstowe,Suffolk,Worker (A rating),Skilled Worker
 Indo Fuji Europe Ltd,Slough,Berkshire,Worker (A rating),Skilled Worker
 INDO LANKA IMPORTERS LIMITED,SOUTHALL,,Worker (A rating),Skilled Worker
@@ -61524,6 +61525,7 @@ Inflata Huddersfield Limited,Huddersfield,,Worker (A rating),Skilled Worker
 Inflexion Private Equity Partners LLP,London,,Worker (A rating),Skilled Worker
 Inflite The Jet Centre Ltd,Stansted,Essex,Worker (A rating),Skilled Worker
 Inflo Group Limited,North Shields,,Worker (A rating),Skilled Worker
+Inflow Private Finance Ltd,Pinner,,Worker (A rating),Skilled Worker
 INFLUENCE AT WORK UK LIMITED,London,,Worker (A rating),Skilled Worker
 Influence Digital Limited,London,,Worker (A rating),Skilled Worker
 InfluenceMap CIC,London,,Worker (A rating),Skilled Worker
@@ -62563,6 +62565,7 @@ International Education Exchange Ltd ,London,,Worker (A rating),Skilled Worker
 International Education Organisation Ltd,London,,Worker (A rating),Skilled Worker
 International Expos Ltd,London,,Worker (A rating),Skilled Worker
 International Federation of Health Plans,London,London,Worker (A rating),Skilled Worker
+International Fellowship of Evangelical Students,Oxford,,Temporary Worker (A rating),Religious Worker
 International Fellowship of Evangelical Students,Oxford,,Worker (A rating),Skilled Worker
 International Fertilizer Association Limited,London,,Worker (A rating),Skilled Worker
 "International Finance Corporation, The World Bank Group",London,,Temporary Worker (A rating),International Agreement
@@ -62783,7 +62786,6 @@ Into the Blue Ltd,Cowes,Isle of Wight,Worker (A rating),Skilled Worker
 Intobeige Ltd,Elgin,,Worker (A rating),Skilled Worker
 Intoku Holdings Ltd,Windsor,,Worker (A rating),Skilled Worker
 INTOLIVE LTD,London,,Worker (A rating),Skilled Worker
-Intolive Ltd,London,,Worker (A rating),Skilled Worker
 INTRA MEDIKAL LTD,London,,Worker (A rating),Global Business Mobility: UK Expansion Worker
 INTRA PRIVATE FINANCE LTD,London,,Worker (A rating),Skilled Worker
 IntraBio Ltd,London,,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
@@ -63204,6 +63206,7 @@ IQD FREQUENCY PRODUCTS LIMITED,Crewkerne,Somerset,Worker (A rating),Skilled Work
 IQE (Europe) Limited,St Mellons,Wales,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
 IQE (Europe) Limited,St Mellons,Wales,Worker (A rating),Skilled Worker
 IQEQ DIGITAL LTD,Birmingham,,Worker (A rating),Skilled Worker
+IQF (Integrated Qualification Framework) Ltd.,"Forest Gate, London",,Worker (A rating),Skilled Worker
 IQGeo UK Limited,Cambridge,Cambridgeshire,Worker (A rating),Skilled Worker
 IQLIK LTD,Manchester,,Worker (A rating),Skilled Worker
 IQM Medical LTD,Birmingham,,Worker (A rating),Skilled Worker
@@ -63730,6 +63733,7 @@ ITS CONVENIENT LIMITED,Hounslow,,Worker (A rating),Skilled Worker
 ITS Cycling Limited,Partridge Green,Horsham,Worker (A rating),Skilled Worker
 ITS Digital Ltd,Hertford,Hertfordshire,Worker (A rating),Skilled Worker
 ITS IVI LTD T/A Itsu,Wembley,,Worker (A rating),Skilled Worker
+Its Oliver Twist Ltd,London,,Worker (A rating),Skilled Worker
 Its Pizza Time Ltd,Wokingham,,Worker (A rating),Skilled Worker
 ITS SOUK LIMITED,Halstead,Essex,Worker (A rating),Skilled Worker
 ITSEC LTD,Leicester,,Worker (A rating),Skilled Worker
@@ -64133,7 +64137,7 @@ J&S McKee Ltd,PORTGLENONE,ANTRIM,Worker (A rating),Skilled Worker
 J&S Mini Market Limited,Chatham,Kent,Worker (A rating),Skilled Worker
 J&S NK Limited,Wallsend,,Worker (A rating),Skilled Worker
 J&S PLUMBING & HEATING LIMITED,Essex,,Worker (A rating),Skilled Worker
-J&S Subsea Ltd,Kintore,Aberdeenshire,Worker (A rating),Skilled Worker
+J&S Subsea Ltd,Dyce,Aberdeen City,Worker (A rating),Skilled Worker
 J&T (UK) RETAIL LIMITED T/A LONDIS ,LUTON,,Worker (A rating),Skilled Worker
 J&T EXPRESS UK LTD,Lutterworth,,Worker (A rating),Skilled Worker
 J&T EXPRESS UK LTD,Lutterworth,,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
@@ -64916,6 +64920,7 @@ Jaxani Veg Food Ltd,Harrow,Middlesex,Worker (A rating),Skilled Worker
 Jay & Sons Limited,Maesteg,South Wales,Worker (A rating),Skilled Worker
 Jay Childcare Matters Limited,Ipswich,suffolk,Worker (A rating),Skilled Worker
 Jay Devi Forest LTD T/A Ormonde House Hotel,Lyndhurst,Hampshire,Worker (A rating),Skilled Worker
+JAY ESS CONSTRUCTION PVT LIMITED,West Drayton,,Worker (A rating),Skilled Worker
 Jay Ess Construction PVT Limited,West Drayton,,Worker (A rating),Skilled Worker
 JAY FOODS LIMITED,Hounslow,,Worker (A rating),Skilled Worker
 JAY GANESH & RIYA LIMITED,EDINBURGH,,Worker (A rating),Skilled Worker
@@ -65667,7 +65672,6 @@ JKR PHARMA LTD,London,,Worker (A rating),Skilled Worker
 JKS ESSEX CONVENIENCE STORES LTD,Grays,,Worker (A rating),Skilled Worker
 JKS Indian Restaurants Limited,London,,Worker (A rating),Skilled Worker
 JKS Pubs Ltd,London,,Worker (A rating),Skilled Worker
-JKS PUBS LTD,LONDON,,Worker (A rating),Skilled Worker
 JKS Restaurants Holdings Ltd,London,,Worker (A rating),Skilled Worker
 JKS STORES LTD,SUNDERLAND,,Worker (A rating),Skilled Worker
 JKS TRANSPORT LTD,Oxford,,Worker (A rating),Skilled Worker
@@ -66328,6 +66332,7 @@ JRT (PVT) Limited,Wallington,Surrey,Worker (A rating),Skilled Worker
 JS Accounting Consultant Limited,FAREHAM,,Worker (A rating),Skilled Worker
 JS Bajwa and Sons Ltd,Ashington,Northumberland,Worker (A rating),Skilled Worker
 JS Care 4 All Ltd,Bournemouth,Dorset,Worker (A rating),Skilled Worker
+JS CARLTON ROAD NEWS LTD,Nottinghamshire,,Worker (A rating),Skilled Worker
 JS CLINIC LIMITED,London,,Worker (A rating),Skilled Worker
 JS Coachworks Ltd,London,,Worker (A rating),Skilled Worker
 JS COMPUTERS NORTH EAST LIMITED,Durham,,Worker (A rating),Skilled Worker
@@ -66590,6 +66595,7 @@ Juni Financial Limited,London ,,Worker (A rating),Skilled Worker
 Juni Limited,London,,Worker (A rating),Skilled Worker
 Junior Adventures Group UK Ltd,Wokingham,Berkshire,Worker (A rating),Skilled Worker
 JUNIOR AI LIMITED,London,,Worker (A rating),Skilled Worker
+JUNIOR AI LIMITED,London,,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
 Junior Interiors (UK) Ltd,London,Middlesex,Worker (A rating),Skilled Worker
 Junior VIPs Nursery Limited,Croydon,Surrey,Worker (A rating),Skilled Worker
 Junior's Day Nursery,Cranbrook,Kent,Worker (A rating),Skilled Worker
@@ -67108,7 +67114,7 @@ Kahani Lounge Ltd,Ilford,,Worker (A rating),Skilled Worker
 Kahani Restaurant,Edinburgh ,,Worker (A rating),Skilled Worker
 Kahlon Construction Limited,Stanwell,Staines Upon Thames,Worker (A rating),Skilled Worker
 Kahn Wholesales Ltd,Uxbridge,,Worker (A rating),Skilled Worker
-KAHOUT BROTHERS LTD,High Wycombe,,Worker (A rating),Skilled Worker
+KAHOUT BROTHERS LTD,surrey Heath,,Worker (A rating),Skilled Worker
 KAI Computer Services Ltd,LONDON,,Worker (A rating),Skilled Worker
 KAI Design Limited t/a KAI Interiors,London,,Worker (A rating),Skilled Worker
 Kai Kitchen Co LLP T/A Kai,Leicester,,Worker (A rating),Skilled Worker
@@ -67465,7 +67471,6 @@ Karamaa Limited,Wolverhampton,West Midlands,Worker (A rating),Skilled Worker
 Karan Retail Ltd,Coventry,,Worker (A rating),Skilled Worker
 KARAN VHTS LIMITED ,Daventry,,Worker (A rating),Skilled Worker
 KARAT GROUP LIMITED T/A PREMIER STORE (Top Shop),"Wrexham, Wales",,Worker (A rating),Skilled Worker
-KARAYI GROUP LIMITED,Leicester,,Worker (A rating),Skilled Worker
 KARBON KINETICS LTD,Chessington,,Worker (A rating),Skilled Worker
 KARBONE LIMITED,LONDON,,Worker (A rating),Skilled Worker
 KARBONE LIMITED,LONDON,,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
@@ -67903,6 +67908,7 @@ KD PROPERTY SOLUTIONS LIMITED,Brighton ,,Worker (A rating),Skilled Worker
 KD Web Ltd,London,,Worker (A rating),Skilled Worker
 KD Wholesale Cash and Carry Ltd,Watford,,Worker (A rating),Skilled Worker
 KD'S KITCHEN LTD,PRESTON,,Worker (A rating),Skilled Worker
+KDB BUILDING DESIGNS LIMITED,Perivale,Greenford,Worker (A rating),Skilled Worker
 KDC Projects Limited,Christchurch,Dorset,Worker (A rating),Skilled Worker
 KDC/One Swallowfield ,Wellington ,Somerset ,Worker (A rating),Skilled Worker
 KDDI Europe Limited,London,,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
@@ -68411,8 +68417,8 @@ Kettering Pharmacy,Kettering,Northamptonshire,Worker (A rating),Skilled Worker
 Kettle Collective Ltd,Edinburgh,Lothian,Worker (A rating),Skilled Worker
 Kettle Produce Ltd,Cupar,Fife,Worker (A rating),Skilled Worker
 Kettonby Care Ltd,Kettering,,Worker (A rating),Skilled Worker
-Ketumati Buddhist Vihara,Grt.MANCHESTER,LANCASHIRE,Worker (A rating),Tier 2 Ministers of Religion
-Ketumati Buddhist Vihara,Grt.MANCHESTER,LANCASHIRE,Temporary Worker (A rating),Religious Worker
+Ketumati Buddhist Vihara Trust,Grt.MANCHESTER,LANCASHIRE,Worker (A rating),Tier 2 Ministers of Religion
+Ketumati Buddhist Vihara Trust,Grt.MANCHESTER,LANCASHIRE,Temporary Worker (A rating),Religious Worker
 Keva UK Limited,Edgware,Middlesex ,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
 Keva UK Limited,Edgware,Middlesex ,Worker (A rating),Skilled Worker
 KEVENTSP LTD,London,,Temporary Worker (A rating),Creative Worker
@@ -68707,7 +68713,6 @@ Khoo and Company Solicitors Limited (t/a T.A.Khoo Solicitors),Birmingham,West Mi
 KHORSANDCAPITAL LTD,London,,Worker (A rating),Skilled Worker
 KHOSLA WINES LTD,HAYES,,Worker (A rating),Skilled Worker
 KHP Medtech Innovations Ltd,London,,Worker (A rating),Skilled Worker
-KHP Ventures Management LLP,London,,Worker (A rating),Skilled Worker
 KHR BUILDERS LTD,Manchester,Greater Manchester,Worker (A rating),Skilled Worker
 KHROUD & COMPANY,BRADFORD,,Worker (A rating),Skilled Worker
 KHS Pizzeria Limited,London,,Worker (A rating),Skilled Worker
@@ -69436,6 +69441,7 @@ Kiyora Spa Ltd,London,,Worker (A rating),Skilled Worker
 KIYU TRADING LIMITED,Belfast,Northern Ireland,Worker (A rating),Skilled Worker
 Kizazi,London,,Worker (A rating),Skilled Worker
 KJ CARGO SHIPPING SERVICES LTD,LONDON,,Worker (A rating),Skilled Worker
+KJ EDINBURGH LTD,Edinburgh,,Worker (A rating),Skilled Worker
 KJ Edinburgh Ltd,Edinburgh,,Worker (A rating),Skilled Worker
 KJ Marketing Management Ltd,Hounslow,,Worker (A rating),Skilled Worker
 KJ Tait Engineers Ltd,Glasgow,Glasgow,Worker (A rating),Skilled Worker
@@ -70821,7 +70827,6 @@ L & Y Enterprise Ltd T/AS L'Amandine FSR ,Richmond,,Worker (A rating),Skilled Wo
 L A HOME REPAIRS LTD,London,,Worker (A rating),Skilled Worker
 L B (CHEADLE) LTD TA Sadagar Balti Restaurant,Gatley,,Worker (A rating),Skilled Worker
 L B DRY CLEANERS LTD,Epsom,,Worker (A rating),Skilled Worker
-L Brand Ltd t/a L'ETO,London,,Worker (A rating),Skilled Worker
 L Brand Ltd t/a L'ETO,London,,Worker (A rating),Skilled Worker
 L Catterton Real Estate Advisors UK Ltd,London,,Worker (A rating),Skilled Worker
 L Catterton UK Advisors Limited,London,,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
@@ -72655,6 +72660,7 @@ Lets B Wise (Glasgow) Ltd,Glasgow,,Worker (A rating),Skilled Worker
 LETS CARE ALL LTD.,London,,Worker (A rating),Skilled Worker
 LETS DEEL (1) LTD,London,England,Worker (A rating),Skilled Worker
 LETS DEEL LTD,London,England,Worker (A rating),Skilled Worker
+Lets Do Business Group ( South East) Group Ltd,Hastings,East Sussex,Worker (A rating),Skilled Worker
 LETS FRY LIMITED,Birmingham,England,Worker (A rating),Skilled Worker
 LETS FURNISH LONDON LIMITED,Hounslow,,Worker (A rating),Skilled Worker
 LETS GO BACK LTD,Glasgow,Lanarkshire,Worker (A rating),Skilled Worker
@@ -72807,6 +72813,7 @@ Leyland Surgery,Preston,Lancashire,Worker (A rating),Skilled Worker
 Leyland Trucks Limited,Leyland,Lancashire,Worker (A rating),Skilled Worker
 Leyland Trucks Limited,Leyland,Lancashire,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
 Leymar Ltd,Mansfield,Nottinghamshire,Worker (A rating),Skilled Worker
+LeyPass Ltd,Newton Abbot,Devon,Worker (A rating),Skilled Worker
 Leyton Dental Surgery,LONDON,london,Worker (A rating),Skilled Worker
 Leyton Dental Surgery,London,,Worker (A rating),Skilled Worker
 Leyton Dining Club Ltd T/A Shish Mahal,"Leyton, London",,Worker (A rating),Skilled Worker
@@ -73238,6 +73245,7 @@ LIMA Networks LTD,Salford ,Greater Manchester,Worker (A rating),Skilled Worker
 Limagrain UK Limited,Market Rasen,Lincolnshire,Worker (A rating),Skilled Worker
 Limagrain UK Limited,Market Rasen,Lincolnshire,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
 Limak International Limited,London,England,Worker (A rating),Skilled Worker
+LIMAR TRADING LTD,BOLTON,,Worker (A rating),Skilled Worker
 Limasole Limited,London,,Worker (A rating),Skilled Worker
 LIMAT LIMITED,Chatteris,,Worker (A rating),Skilled Worker
 Limax Studios Ltd,FARNHAM,SURREY,Worker (A rating),Skilled Worker
@@ -73510,6 +73518,7 @@ Linnaeus Group Bidco Limited,Shirley,Solihull,Temporary Worker (A rating),Global
 Linnaeus Group Bidco Limited,Shirley,Solihull,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
 Linnex UK Ltd,Leicester,,Worker (A rating),Skilled Worker
 Linnk Group Limited,London,,Worker (A rating),Skilled Worker
+LINO LONDON LTD,London,,Worker (A rating),Global Business Mobility: UK Expansion Worker
 Linoshan Ltd,Dalton,Rotherham,Worker (A rating),Skilled Worker
 LINOX METAL LTD,BURNLEY,,Worker (A rating),Skilled Worker
 Linpac Group Holdings Limited,Featherstone,,Worker (A rating),Skilled Worker
@@ -74005,8 +74014,8 @@ LJM Homecare,Lincoln,Lincolnshire,Worker (A rating),Skilled Worker
 LJP MANAGEMENT LTD,WORTHING,,Temporary Worker (A rating),Creative Worker
 LJPC CONSULTING LTD,London,,Worker (A rating),Skilled Worker
 LJS AVIATION,WASHINGTON,PULBOROUGH,Worker (A rating),Skilled Worker
-LJW 2 PRIVATE LTD,Liverpool,,Temporary Worker (A rating),Creative Worker
 LJW 2 PRIVATE LTD,Liverpool,,Worker (A rating),Skilled Worker
+LJW 2 PRIVATE LTD,Liverpool,,Temporary Worker (A rating),Creative Worker
 LJW PRIVATE LTD,Liverpool,,Worker (A rating),Skilled Worker
 LK Food and Wine Ltd,Luton,,Worker (A rating),Skilled Worker
 LK Foods Private Limited,Overtown,,Worker (A rating),Skilled Worker
@@ -74106,7 +74115,6 @@ LMS Sheridans Ltd,Uxbridge,,Worker (A rating),Skilled Worker
 LMTD EMEA Ltd,London,,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
 LMTD EMEA Ltd,London,,Worker (A rating),Skilled Worker
 LN Beauty Ltd (T/A Beautique),Maidstone,,Worker (A rating),Skilled Worker
-LN VISA LTD,LONDON,ENGLAND,Worker (A rating),Skilled Worker
 LNB BUILDING SOLUTIONS LTD,Brentford,,Worker (A rating),Skilled Worker
 LND CONSTRUCTION SERVICES LIMITED,London,,Worker (A rating),Skilled Worker
 LNR FOODS LTD T/A BEST FOODS,"READING,",,Worker (A rating),Skilled Worker
@@ -74141,6 +74149,7 @@ LOBON MOREES LTD,Aylesbury,Buckinghamshire,Worker (A rating),Skilled Worker
 LOC TAX LTD,London,,Worker (A rating),Skilled Worker
 Loca Hbh Ltd,Radlett,,Worker (A rating),Skilled Worker
 LOCAL ACCESS CENTRE (LAC),BIRMINGHAM,WEST MIDLANDS,Temporary Worker (A rating),Charity Worker 
+Local Care Direct Limited ,Huddersfield,,Worker (A rating),Skilled Worker
 LOCAL CARS OXFORD LTD,OXFORD,,Worker (A rating),Skilled Worker
 Local Christian Assembly (Vauxhall),London,,Worker (A rating),Tier 2 Ministers of Religion
 Local DIY Building & Plumbing Supplies Limited ,Bradford,,Worker (A rating),Skilled Worker
@@ -74407,7 +74416,7 @@ London & Quadrant Housing Trust,London,,Worker (A rating),Skilled Worker
 London & Sons Ltd,London,,Worker (A rating),Skilled Worker
 LONDON & SURREY CARE GROUP LIMITED,Shepperton,Middlesex,Worker (A rating),Skilled Worker
 London & West Investments Limited t/a Brooklands Nursing and Residential Home,Norwich,Norfolk,Worker (A rating),Skilled Worker
-London 4 Domiciliary Specsavers Limited,Berkshire ,,Worker (A rating),Skilled Worker
+London 4 Domiciliary Specsavers Limited,London,,Worker (A rating),Skilled Worker
 London Academy,London,,Worker (A rating),Skilled Worker
 LONDON ACADEMY FOR APPLIED TECHNOLOGY LTD,Brentford,,Worker (A rating),Skilled Worker
 London Academy of Excellence Tottenham,London,,Worker (A rating),Skilled Worker
@@ -75704,7 +75713,7 @@ Lunar Animation Ltd,Sheffield,,Worker (A rating),Skilled Worker
 Lunar Bifold Doors Ltd.,"Ilford,",,Worker (A rating),Skilled Worker
 Lunar Energy Limited,London,,Worker (A rating),Skilled Worker
 LUNAR LABS LIMITED,London,,Worker (A rating),Skilled Worker
-LUNARCITE LIMITED,London,,Worker (A rating),Skilled Worker
+LUNARCITE LIMITED,Fareham,,Worker (A rating),Skilled Worker
 Lunasa Ltd.,London,,Worker (A rating),Skilled Worker
 Lunaz Ltd T/A Lunaz Design,Silverstone,Northants,Worker (A rating),Skilled Worker
 "LUNCH BOX CHESSINGTON LTD, T/A LUNCH BOX",SURREY,,Worker (A rating),Skilled Worker
@@ -76104,7 +76113,6 @@ M G Shopfronts Limited,Dudley,,Worker (A rating),Skilled Worker
 M G TRANSPORT SOLUTIONS LTD,WALSALL,,Worker (A rating),Skilled Worker
 M Glynn Builders Ltd ,Beaconsfield,Bucks,Worker (A rating),Skilled Worker
 M GROUP (SERVICES) LIMITED,Hertfordshire,,Worker (A rating),Skilled Worker
-M Group Services,Stevenage,Hertfordshire,Worker (A rating),Skilled Worker
 M Group Transport (Rail and Aviation),Hounslow,,Worker (A rating),Skilled Worker
 M H (NW) LTD T/a Spice Lounge Restaurant,MANCHESTER,,Worker (A rating),Skilled Worker
 M H BUILDERS & SONS LTD,Halifax,West Yorkshire,Worker (A rating),Skilled Worker
@@ -76538,7 +76546,6 @@ Mac and Phone Fix Ltd,Slough,,Worker (A rating),Skilled Worker
 Mac Building Solutions Ltd ,London,,Worker (A rating),Skilled Worker
 MAC BUSINESS SERVICES LTD,London,,Worker (A rating),Skilled Worker
 Mac Dental Centre Limited,Cheshire ,,Worker (A rating),Skilled Worker
-MAC FOODS GLOBAL LTD,Cheadle,,Worker (A rating),Skilled Worker
 Mac Fuels & Retail Ltd,Northolt ,,Worker (A rating),Skilled Worker
 Mac Grocers Ltd,Bathgate,,Worker (A rating),Skilled Worker
 MAC HOME IMPROVEMENTS LONDON LIMITED,Croydon,,Worker (A rating),Skilled Worker
@@ -76783,6 +76790,7 @@ MADINA SUPERMARKET LIMITED,HARROW,,Worker (A rating),Skilled Worker
 Madina Travel Nottingham Ltd,Nottingham,Nottinghamshire,Worker (A rating),Skilled Worker
 MADINAH CONSTRUCTION LTD,Ilford,,Worker (A rating),Skilled Worker
 MADIOX LIMITED,Bolton,,Worker (A rating),Skilled Worker
+MADISON BERKELEY LIMITED,London,,Worker (A rating),Skilled Worker
 Madison Brook International Limited,London,,Worker (A rating),Skilled Worker
 Madison CF UK Limited,Cardiff,,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
 Madison International Realty UK Ltd,London ,,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
@@ -77168,7 +77176,7 @@ Maita Care Services Limited,Haslemere,,Worker (A rating),Skilled Worker
 Maitie Limited,London,,Worker (A rating),Skilled Worker
 MAITLA & CO LTD ,Glasgow,,Worker (A rating),Skilled Worker
 MAITLAND RETAIL LTD,EDINBURGH,,Worker (A rating),Skilled Worker
-Maitri Liverpool Limited,Liverpool,Merseyside,Worker (A rating),Skilled Worker
+Maitri Liverpool Limited,Liverpool,,Worker (A rating),Skilled Worker
 MAITY CONSULTING LTD,Leicester,,Worker (A rating),Skilled Worker
 Maiva Corporation Limited,Edinburgh,Midlothian,Worker (A rating),Skilled Worker
 MAJ BUILDING CONTRACTORS LTD, Leeds,,Worker (A rating),Skilled Worker
@@ -77294,7 +77302,6 @@ MAKOWER ARCHITECTS LIMITED,LONDON,,Worker (A rating),Skilled Worker
 Makower Architects Limited ,London,,Worker (A rating),Skilled Worker
 MAKS BUILDERS LTD,Birmingham,,Worker (A rating),Skilled Worker
 MAKS PHARMACY LTD,GILLINGHAM,MEDWAY,Worker (A rating),Skilled Worker
-MAKS RETAILING LTD,Manchester,,Worker (A rating),Skilled Worker
 Maks Services (UK) Limited ,Bilston,West Midlands,Worker (A rating),Skilled Worker
 Maksanus Care Services Ltd,London,,Worker (A rating),Skilled Worker
 Maksi Limited,London,Harrow Weald ,Worker (A rating),Skilled Worker
@@ -78614,6 +78621,7 @@ MARY ROSE HOTEL LIMITED,"Orpington, Kent",,Temporary Worker (A rating),Creative 
 Mary Rush Care Ltd,Gloucester,Gloucestershire,Worker (A rating),Skilled Worker
 Mary Seacole Day Nursery & Family Support Unit,Town,Berkshire,Temporary Worker (A rating),Charity Worker 
 mary the great ltd,Scunthorpe,linclonshire,Worker (A rating),Skilled Worker
+Mary Ward House Ltd,London,ENG,Worker (A rating),Skilled Worker
 Mary's Cafe Bistro,Edinburgh,,Worker (A rating),Skilled Worker
 Maryam Kitchen Ltd,Carshalton,,Worker (A rating),Skilled Worker
 Maryam Transport Ltd,Forest Gate,,Worker (A rating),Skilled Worker
@@ -79009,6 +79017,7 @@ Mavayah Living Ltd,London,,Worker (A rating),Skilled Worker
 MAVCO SERVICES LTD,Romford,,Worker (A rating),Skilled Worker
 Mavega UK Limited,London,,Worker (A rating),Skilled Worker
 Maveli Restaurant Ltd,Sheffield,South Yorkshire,Worker (A rating),Skilled Worker
+MAVEN ENGINEERING LTD,Blaydon-On-Tyne,,Worker (A rating),Skilled Worker
 MAVEN GLOBAL LLP,LONDON,London,Worker (A rating),Skilled Worker
 MAVEN GROUP GLOBAL LTD,hounslow,middlsex,Worker (A rating),Skilled Worker
 Maven Healthcare (Ashnur) LLP,Manchester,,Worker (A rating),Skilled Worker
@@ -79163,7 +79172,6 @@ MAXX GEAR LTD,Rochdale,,Worker (A rating),Skilled Worker
 Maxx Marketing Europe Ltd.,London,,Worker (A rating),Skilled Worker
 MAXXI CHILDCARE LIMITED,KENT,,Worker (A rating),Skilled Worker
 MAXXICARE LTD,Rainham,,Worker (A rating),Skilled Worker
-MAXXX TRADERS LTD,Salford England,,Temporary Worker (A rating),Creative Worker
 Maxzara (UK) Ltd,Harlow,Essex,Worker (A rating),Skilled Worker
 May & Thomson Limited,WOKING,SURREY,Worker (A rating),Skilled Worker
 May Business Consulting Ltd,Stony Stratford,Buckinghamshire,Worker (A rating),Skilled Worker
@@ -79409,6 +79417,7 @@ MBS Survey Software Ltd,STEYNING,WEST SUSSEX,Worker (A rating),Skilled Worker
 MBT CONSULTANCY UK LTD,Reading,,Worker (A rating),Skilled Worker
 MC (Charlotte Street) Ltd T/A Maltby Capital Advisory,London,,Worker (A rating),Skilled Worker
 MC BARS LIMITED,BRENTFORD,MIDDLESEX,Worker (A rating),Skilled Worker
+MC Care Services,Dartford,Kent,Worker (A rating),Skilled Worker
 MC Care Solutions,Bournemouth,,Worker (A rating),Skilled Worker
 Mc circus productions,Gateshead,Tyne and Wear,Temporary Worker (A rating),Creative Worker
 MC Foods Camlough Ltd,Newry,UNITED KINGDOM,Worker (A rating),Skilled Worker
@@ -80541,6 +80550,7 @@ Meridian Estates ( west midlands ltd ),Birmingham,West Midlands,Worker (A rating
 MERIDIAN FRUIT & VEG LIMITED,London,,Worker (A rating),Skilled Worker
 MERIDIAN GRAND LIMITED,London,,Worker (A rating),Skilled Worker
 Meridian Health & Social Care Limited,Wolverhampton,West Midlands,Worker (A rating),Skilled Worker
+Meridian Health Ventures Management LLP,London,,Worker (A rating),Skilled Worker
 Meridian Hotels Ltd,Sittingbourne,,Worker (A rating),Skilled Worker
 Meridian Impact CIC,Cambridge,,Worker (A rating),Skilled Worker
 Meridian Impact CIC,Cambridge,,Worker (A rating),Skilled Worker
@@ -81841,7 +81851,7 @@ Mindray (UK) Limited,Huntingdon,Cambridgeshire,Worker (A rating),Global Business
 Minds I Media Ltd,London,,Temporary Worker (A rating),Creative Worker
 Minds Matter (Trading Activities) Limited,London,,Worker (A rating),Skilled Worker
 MINDS TECHNOLOGIES LIMITED,Croydon,,Worker (A rating),Skilled Worker
-MINDSEARCH LIMITED,LONDON,,Worker (A rating),Skilled Worker
+MINDSEARCH LIMITED,LONDON,LONDON,Worker (A rating),Skilled Worker
 MINDSET AI LTD,London,,Worker (A rating),Skilled Worker
 Mindset Recruitment Ltd,Nottingham,,Worker (A rating),Skilled Worker
 Mindset Technologies Limited (trading as Mindstep),London,,Worker (A rating),Skilled Worker
@@ -82741,6 +82751,7 @@ MOBILE TECH & VAPE LTD,Bo'Ness,Scotland,Worker (A rating),Skilled Worker
 Mobile Tech Centre Limited,Swindon,,Worker (A rating),Skilled Worker
 MOBILE TECH INTL LIMITED,Derby,,Worker (A rating),Skilled Worker
 MOBILE TECHNOLOGIES LTD,London,United Kingdom,Worker (A rating),Skilled Worker
+MOBILE TYRE EXPERTS LTD,Surrey,,Worker (A rating),Skilled Worker
 Mobile Ware Ltd,Manchester ,,Worker (A rating),Skilled Worker
 Mobile Warehouse.co.uk Limited,Birmingham,,Worker (A rating),Skilled Worker
 Mobile Xone (UK) Ltd,"Worcester,",,Worker (A rating),Skilled Worker
@@ -82920,7 +82931,7 @@ Mohammed Mushtaq T/A Fas Hair & Cosmetics,LONDON,,Worker (A rating),Skilled Work
 Mohammed Naeem Latif T/A Dania Services,Manchester,,Worker (A rating),Skilled Worker
 Mohammed Saleem T/A Party Discount,Dundee,,Worker (A rating),Skilled Worker
 Mohammed Saleh Uddin T/A The Raj Restaurant,Wigan,,Worker (B rating),Skilled Worker
-Mohammed Salim TA Gojra Spices ,Birmingham ,,Worker (A rating),Skilled Worker
+Mohammed Salim TA Gojra Spices,Birmingham,,Worker (A rating),Skilled Worker
 Mohammed Sheraz T/A Whingate Fisheries,Leeds,,Worker (A rating),Skilled Worker
 Mohammed Yaqoob T/A Bright Look ,Rochdale,,Worker (A rating),Skilled Worker
 MOHAMMEDI (UK) LTD TA Mohammedi Stores Halal Meat,Birmingham,,Worker (A rating),Skilled Worker
@@ -83073,7 +83084,7 @@ Monarch Healthcare Ltd,Nottingham,,Worker (A rating),Skilled Worker
 MONARCH KM LTD T/A DOWNSVALE NURSING HOME,DORKING,SURREY,Worker (A rating),Skilled Worker
 Monarch Medical Group Ltd,Chester,Cheshire,Worker (A rating),Skilled Worker
 Monarch Solicitors Ltd,Manchester,,Worker (A rating),Skilled Worker
-Monarch Studios Limited,Peaslake,,Temporary Worker (A rating),Creative Worker
+Monarch Studios Limited,Cranleigh,,Temporary Worker (A rating),Creative Worker
 Monarchy Care Services LTD,Knaresborough,,Worker (A rating),Skilled Worker
 Monark Garments LTD,Manchester,United Kingdom,Worker (A rating),Skilled Worker
 Monark Limited,Harrogate,North Yorkshire,Worker (A rating),Skilled Worker
@@ -84423,8 +84434,6 @@ MRK Transportation Ltd,Bolton,,Worker (A rating),Skilled Worker
 MRM HEALTHCARE LLP,Dunfermline,Fife,Worker (A rating),Skilled Worker
 MRM Retailers Limited,South Croydon ,,Worker (A rating),Skilled Worker
 MRM WHITGIFT LIMITED  ,London,,Worker (A rating),Skilled Worker
-MRM Worldwide UK Ltd,London,,Worker (A rating),Skilled Worker
-MRM Worldwide UK Ltd,London,,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
 MRMP - Manchester Limited ,Manchester,,Worker (A rating),International Sportsperson
 MRN GENERAL TRADING LIMITED,Essex,,Worker (A rating),Skilled Worker
 MRP & SONS1 LTD,London,,Worker (A rating),Skilled Worker
@@ -84765,6 +84774,8 @@ MUBI UK Limited ,London ,,Worker (A rating),Global Business Mobility: Senior or 
 MUBRBIRKEN COFFEE LIMITED,BIRKENHEAD,,Worker (A rating),Skilled Worker
 Mubrchester Coffee Ltd T/A Muffin Break ,Chester ,,Worker (A rating),Skilled Worker
 Muc-Off Ltd,Poole,Dorset,Worker (A rating),Skilled Worker
+Much. Consulting Ltd,Manchester,,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
+Much. Consulting Ltd,Manchester,,Worker (A rating),Skilled Worker
 MuchLoved Limited,Amersham,,Worker (A rating),Skilled Worker
 Muckamore Cricket & Lawn Tennis Club,Antrim,Antrim,Worker (A rating),International Sportsperson
 Muckle Brig Limited,Edinburgh,,Worker (A rating),Skilled Worker
@@ -86003,8 +86014,6 @@ Nasbiz Ltd,Crawley,,Worker (A rating),Skilled Worker
 Nascent Group Ltd,London,,Worker (A rating),Skilled Worker
 Nascent Semiconductor,Durham,,Worker (A rating),Skilled Worker
 Nasco UK Ltd,Southall,,Worker (A rating),Skilled Worker
-NASDAQ International Limited,London,,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
-NASDAQ International Limited,London,,Worker (A rating),Skilled Worker
 Nasdaq Limited,London,,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
 Nasdaq Limited,London,,Worker (A rating),Skilled Worker
 NASEEB LONDON LIMITED,London,,Worker (A rating),Skilled Worker
@@ -88237,8 +88246,6 @@ Nihonbo Limited,Godalming,Surrey,Worker (A rating),Skilled Worker
 Nihude Services Ltd,Newcastle Upon Tyne ,,Worker (A rating),Skilled Worker
 Nii HAi Ltd,London,,Worker (A rating),Skilled Worker
 Niico Ltd,London,,Worker (A rating),Skilled Worker
-Niippon Sanso UK Limited,Immingham,North East Lincolnshire,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
-Niippon Sanso UK Limited,Immingham,North East Lincolnshire,Worker (A rating),Skilled Worker
 NIIT Limited UK,London,,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
 NIIT Limited UK,London,,Worker (A rating),Skilled Worker
 Nijjar Property Limited,Camberley,,Worker (A rating),Skilled Worker
@@ -88392,6 +88399,8 @@ Nippon Life Global Investors Europe Plc,London,,Worker (A rating),Global Busines
 Nippon Life Global Investors Europe Plc,London,,Worker (A rating),Skilled Worker
 NIPPON LP RESOURCES UK LIMITED,London,,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
 Nippon Paint Automotive (UK) Limited,Swindon,Wiltshire,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
+Nippon Sanso UK Limited,Immingham,North East Lincolnshire,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
+Nippon Sanso UK Limited,Immingham,North East Lincolnshire,Worker (A rating),Skilled Worker
 Nippon Steel Trading Austria GmbH London Office,London,,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
 Nippon Steel Trading Austria GmbH London Office,London,,Worker (A rating),Global Business Mobility: UK Expansion Worker
 Nippon Steel Trading Austria GmbH London Office,London,,Worker (A rating),Skilled Worker
@@ -89949,6 +89958,7 @@ Number One Thai Massage Newcastle LTD.,Newcastle upon Tyne,,Worker (A rating),Sk
 NUMBER ONE THAI RESTAURANT LTD,SUTTON,,Worker (A rating),Skilled Worker
 NUMBER PLATE CLINIC LTD,BOLTON,,Worker (A rating),Skilled Worker
 NUMBER SEVEN FOOD TECHNOLOGY LIMITED,London,United Kingdom,Worker (A rating),Skilled Worker
+Number Seven Solutions Limited,London,,Worker (A rating),Skilled Worker
 Number13 Ltd T/A Subway,Westbury on Severn,Gloucestershire,Worker (A rating),Skilled Worker
 Number1daycare ltd,LONDON,,Worker (A rating),Skilled Worker
 Numberdar Properties Ltd,Leeds ,West Yorkshire,Worker (A rating),Skilled Worker
@@ -91337,6 +91347,7 @@ OMSHIVAY LIMITED,Bristol,,Worker (A rating),Skilled Worker
 Omshree Ganesh Ltd,Poole,Dorset,Worker (A rating),Skilled Worker
 OMSR Services Ltd,Cardiff,,Worker (A rating),Skilled Worker
 Omusubi Ltd,London,,Worker (A rating),Global Business Mobility: UK Expansion Worker
+Omusubi Ltd,London,,Worker (A rating),Skilled Worker
 OMV Petrom UK Branch Office,London,,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
 OMV Petrom UK Branch Office,London,,Worker (A rating),Skilled Worker
 OMV Supply & Trading Limited,London,,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
@@ -91553,7 +91564,6 @@ One World Commodities Ltd,Beckenham,Kent,Worker (A rating),Skilled Worker
 One World Information Service Limited,London,,Worker (A rating),Skilled Worker
 One World Realty Ltd,Manchester,,Worker (A rating),Skilled Worker
 One World Travel Services Limited,Slough,,Worker (A rating),Skilled Worker
-One YMCA,Watford,,Worker (A rating),Skilled Worker
 One Young World Limited,London,,Worker (A rating),Skilled Worker
 One.io Services Limited,London,,Worker (A rating),Skilled Worker
 One1000 Ltd,Shepperton,Middx,Worker (A rating),Skilled Worker
@@ -93967,6 +93977,7 @@ Paratha Royale Ltd,Manchester,,Worker (A rating),Skilled Worker
 Paratha Stop LTD,Bolton,Lancashire,Worker (A rating),Skilled Worker
 PARATHASUK LTD,Luton,,Worker (A rating),Skilled Worker
 PARATHAWALA LTD,Birmingham,,Worker (A rating),Skilled Worker
+PARATUS PARTNERS,MILTON KEYNES,BUCKINGHAMSHIRE,Worker (A rating),Skilled Worker
 Paratus Services (UK) Limited,London,,Worker (A rating),Skilled Worker
 PARAV GROUP LTD ,Doncaster,South Yorkshire,Worker (A rating),Skilled Worker
 PARAYANEES ENGINEERS LTD.,LEATHERHEAD,SURREY,Worker (A rating),Skilled Worker
@@ -94975,6 +94986,7 @@ PEER2PEER DPI LTD,Hemel Hempstead,Hertfordshire,Worker (A rating),Skilled Worker
 Peermusic (UK) Limited,Richmond,,Worker (A rating),Skilled Worker
 Peermusic (UK) Limited,Richmond,,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
 Peers Quality Assurance Ltd,"Aldridge, Walsall",,Worker (A rating),Skilled Worker
+PEGASUS CARE HOMES LIMITED,Birmingham,,Worker (A rating),Skilled Worker
 PEGASUS CARS SALE LTD,Stourbridge,West Midlands,Worker (A rating),Skilled Worker
 Pegasus Equine Veterinary Services Limited,Washingborough,Lincolnshire,Worker (A rating),Skilled Worker
 Pegasus Fire Protection Company Ltd,Edinburgh,,Worker (A rating),Skilled Worker
@@ -95248,6 +95260,7 @@ People's Mission,South Shields,Tyne and Wear,Worker (A rating),Tier 2 Ministers 
 People's Palace Projects,London,,Worker (A rating),Skilled Worker
 People's Palace Projects,London,,Temporary Worker (A rating),Creative Worker
 "People, Place and Participation Ltd.",Oxford,Oxfordshire,Worker (A rating),Skilled Worker
+"PEOPLE, SYSTEMS AND PROCESS (PSP) LTD",Spalding,,Worker (A rating),Skilled Worker
 PeopleCert UK Ltd,London,,Worker (A rating),Skilled Worker
 Peoplefluent Ltd,London,Greater London,Worker (A rating),Skilled Worker
 Peoplefluent Ltd,London,Greater London,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
@@ -95319,6 +95332,7 @@ Perella Weinberg UK Limited,London,,Worker (A rating),Global Business Mobility: 
 Perella Weinberg UK Limited,London,,Worker (A rating),Skilled Worker
 Perenco Holdings,London,,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
 Perenco Holdings,London,,Worker (A rating),Skilled Worker
+Perenna Bank PLC,London,,Worker (A rating),Skilled Worker
 Perennial Pharma Ltd,Hatfield,Hertfordshire,Worker (A rating),Skilled Worker
 Perenti UK Ltd,London,,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
 Perenti UK Ltd,London,,Worker (A rating),Skilled Worker
@@ -95569,7 +95583,6 @@ PERUSH Ltd,London,,Worker (A rating),Skilled Worker
 Peruvian Embassy,London,,Temporary Worker (A rating),International Agreement
 Peruvian Embassy,London,,Worker (A rating),Skilled Worker
 Perwyn Advisors UK Limited,London,,Worker (A rating),Skilled Worker
-Pesapeer Payment Limited,Milton,Cambridge,Worker (A rating),Skilled Worker
 PESCA RICH Europe Limited,Twickenham,Middlesex,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
 PESCA RICH Europe Limited,Twickenham,Middlesex,Worker (A rating),Skilled Worker
 Pescon Ltd,London,,Worker (A rating),Skilled Worker
@@ -95593,6 +95606,7 @@ Petainer UK Holdings Limited,London,,Worker (A rating),Skilled Worker
 Petal Postforming Limited,Irvinestown,Tyrone,Worker (A rating),Skilled Worker
 Petar UK Ltd,LONDON,,Worker (A rating),Skilled Worker
 Petards Joyce Loebl,Gateshead,Tyne and Wear,Worker (A rating),Skilled Worker
+PETCARECOLLECTIVE LTD,London,,Worker (A rating),Skilled Worker
 PETCO TRADING (UK) LIMITED,London,,Worker (A rating),Skilled Worker
 PETCO TRADING (UK) LIMITED,London,,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
 PETE'S BANBURY LIMITED,Banbury,Oxfordshire ,Worker (A rating),Skilled Worker
@@ -95669,7 +95683,6 @@ Petrofac Facilities Management Ltd,Aberdeen,,Worker (A rating),Skilled Worker
 Petrofac Facilities Management Ltd,Aberdeen,,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
 PETROFAST METAL & ALLOYS UK LTD (16556856),ENGLAND,UNITED KINGDOM,Worker (UK Expansion Worker: Provisional ),Global Business Mobility: UK Expansion Worker
 PETROFF LTD,Staines-Upon-Thames,,Worker (A rating),Skilled Worker
-Petroflow Integrated Consultants (UK),Aberdeen,,Worker (A rating),Skilled Worker
 Petroflow Integrated Consultants LTD,Aberdeen,,Worker (A rating),Skilled Worker
 Petrogas North Sea Limited,Aberdeen,,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
 Petrogas North Sea Limited,Aberdeen,,Worker (A rating),Skilled Worker
@@ -95801,7 +95814,7 @@ Phaidon Press Limited,London,,Worker (A rating),Skilled Worker
 "PHAIDRA, LTD",Altrincham,Cheshire,Worker (A rating),Skilled Worker
 Phalanx Consultancy Limited,London,,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
 Phalanx Consultancy Limited,London,,Worker (A rating),Skilled Worker
-Phalaris Limited,Cirencester,Gloucestershire,Worker (A rating),Skilled Worker
+Phalaris Limited,Hungerford,Berkshire,Worker (A rating),Skilled Worker
 PHANTOM COATINGS LIMITED,Iver,,Worker (A rating),Skilled Worker
 Phantom Studios Limited,London,,Worker (A rating),Skilled Worker
 PHARE HEALTH LTD,London,,Worker (A rating),Skilled Worker
@@ -97013,6 +97026,7 @@ Platfform For Change,Swansea,,Worker (A rating),Skilled Worker
 Platform 4 Mediterranean Restaurant Limited,Stratford upon Avon,,Worker (A rating),Skilled Worker
 PLATFORM AE LTD,Luton,Bedfordshire,Worker (A rating),Skilled Worker
 Platform Bidco Limited,London,,Worker (A rating),Skilled Worker
+Platform Childcare,Burton on Trent,,Worker (A rating),Skilled Worker
 Platform Communications Group Ltd,London,,Worker (A rating),Skilled Worker
 Platform Manco Ltd,London,,Worker (A rating),Skilled Worker
 PLATFORM PERK LTD,Bracknell,,Worker (A rating),Skilled Worker
@@ -97357,7 +97371,7 @@ PODUR LIMITED,Harrow,,Worker (A rating),Skilled Worker
 POE Pastry LTD,Rugeley,,Worker (A rating),Skilled Worker
 Poeticgem Limited,Watford,Hertfordshire,Worker (A rating),Skilled Worker
 Poeticgem Limited,Watford,Hertfordshire,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
-POFI Limited UK,Callander,Stirling,Worker (A rating),Skilled Worker
+POFI Limited UK,Stirling,Stirlingshire,Worker (A rating),Skilled Worker
 Poilane Limited,London,,Worker (A rating),Skilled Worker
 Poineer Ltd,Brentford,,Worker (A rating),Skilled Worker
 POINT BLANK FRUIT LIMITED,LAMBERHURST,KENT,Worker (A rating),Skilled Worker
@@ -98493,7 +98507,7 @@ Preservation Capital Partners Limited,London,,Worker (A rating),Skilled Worker
 Presho Solutions LTD,Wakefield,,Worker (A rating),Skilled Worker
 Presidency London College Limited,London,,Worker (A rating),Skilled Worker
 Presidents Summit Limited,London,United Kingdom,Worker (A rating),Skilled Worker
-Presidio Solutions UK Limited, London,,Worker (A rating),Skilled Worker
+Presidio Solutions UK Limited,London,,Worker (A rating),Skilled Worker
 Pressbeau Ltd,Gerrards Cross,Buckinghamshire,Worker (A rating),Skilled Worker
 Presscription Juices Ltd,Surrey,,Worker (A rating),Skilled Worker
 Presserv Limited,Aberdeen,,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
@@ -98975,6 +98989,7 @@ Priority Plus Care Ltd,Stevenage,Hertfordshire,Worker (A rating),Skilled Worker
 Priority Plus Limited,Coventry ,,Worker (A rating),Skilled Worker
 Priors Court Foundation ,Thatcham,Berkshire,Worker (A rating),Skilled Worker
 Priory Care Services Ltd,Beckenham,Surrey,Worker (A rating),Skilled Worker
+Priory CC147 Limited t/a Watford House Care Home,New Mills,,Worker (A rating),Skilled Worker
 PRIORY CC150 LIMITED t/a Doonbank House Care Home ,Ayr,Ayrshire,Worker (A rating),Skilled Worker
 Priory CC165 Limited,Slough,,Worker (A rating),Skilled Worker
 Priory CC166 Limited,Slough,,Worker (A rating),Skilled Worker
@@ -99317,6 +99332,7 @@ Profiles Creative Limited,London,,Worker (A rating),Skilled Worker
 Profiles Personnel,Farnham,Surrey,Worker (A rating),Skilled Worker
 ProfileTree,Belfast,,Worker (A rating),Skilled Worker
 Profilm Advanced Materials Ltd,Englefield Green,,Worker (A rating),Skilled Worker
+ProFin Partners Ltd,London,,Worker (A rating),Skilled Worker
 Profinda Limited,London,,Worker (A rating),Skilled Worker
 Profisee Software UK Limited,London ,,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
 Profisee Software UK Limited,London ,,Worker (A rating),Skilled Worker
@@ -100208,6 +100224,7 @@ Purple Martin Limited,London,,Worker (A rating),Skilled Worker
 Purple Matrix Limited,London,London,Worker (A rating),Skilled Worker
 Purple Mavens PVT LTD,Solihull,,Worker (A rating),Skilled Worker
 Purple Media Ltd,Northampton,Northamptonshire,Worker (A rating),Skilled Worker
+PURPLE MIGHTY LTD,DONCASTER,,Worker (A rating),Skilled Worker
 Purple Panda LTD T/a Tamarind,Pontardawe,,Worker (A rating),Skilled Worker
 Purple Patch Building Services Limited,Leicester,,Worker (A rating),Skilled Worker
 Purple Patch London Ltd,London,England,Worker (A rating),Skilled Worker
@@ -100771,8 +100788,8 @@ Qualys Limited,Reading,,Worker (A rating),Skilled Worker
 Quant Golf Limited,City of London,City of London,Worker (A rating),Skilled Worker
 Quant Group Ltd,London,,Worker (A rating),Skilled Worker
 Quant Insight Ltd,London,,Worker (A rating),Skilled Worker
-Quant Network Limited,London ,,Worker (A rating),Skilled Worker
 Quant Network Limited,London ,,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
+Quant Network Limited,London ,,Worker (A rating),Skilled Worker
 Quant8 Ltd ,Nottingham ,Nottinghamshire,Worker (A rating),Skilled Worker
 Quanta Corp Ltd,London ,,Worker (A rating),Global Business Mobility: UK Expansion Worker
 Quanta Dialysis Technologies Ltd,Warwick,,Worker (A rating),Skilled Worker
@@ -102432,7 +102449,6 @@ Ravical LTD,London,,Worker (A rating),Skilled Worker
 Raviga Group Limited T/A Stage Stubs and Class Manager,Exminster,Devon,Worker (A rating),Skilled Worker
 Ravio Technologies Limited,London,,Worker (A rating),Skilled Worker
 Raviservices Ltd,Hounslow,,Worker (A rating),Skilled Worker
-Ravishing Beauty Limited,Ipswich,,Worker (A rating),Skilled Worker
 Raviteck Ltd,Ebbsfleet,Kent,Worker (A rating),Skilled Worker
 RAVIZ UK LTD,GUILDFORD,,Worker (A rating),Skilled Worker
 Ravjeet Singh Gill,Newport,,Worker (A rating),Skilled Worker
@@ -103696,7 +103712,6 @@ Relai Ltd t/a Jely,Croydon,,Worker (A rating),Skilled Worker
 RELAKS PROPERTIES LIMITED,London ,,Worker (A rating),Skilled Worker
 Relaks Radio Limited,London,,Temporary Worker (A rating),Creative Worker
 Relaks Radio Limited,London,,Worker (A rating),Skilled Worker
-Relate Care Solutions Ltd,Leeds,,Worker (A rating),Skilled Worker
 Related Argent Limited ,London,,Worker (A rating),Skilled Worker
 Relation Therapeutics Limited,London,,Worker (A rating),Skilled Worker
 Relation Therapeutics Limited,London,,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
@@ -103990,7 +104005,6 @@ Rentokil Initial UK Limited,Crawley,West Sussex,Worker (A rating),Skilled Worker
 Rentr Limited,Leamington Spa,Warwickshire,Worker (A rating),Skilled Worker
 Renvale Ltd,Brome,Suffolk,Worker (A rating),Skilled Worker
 REO Digital Limited,London,,Worker (A rating),Skilled Worker
-REONCARE LTD,CORBY,NORTHAMPTONSHIRE,Worker (A rating),Skilled Worker
 Repa Engineering Limited,Hounslow,Middlesex,Worker (A rating),Skilled Worker
 Repair & Assure Ltd,Brighton,,Worker (A rating),Skilled Worker
 REPAIR HUB BELFAST LIMITED,Belfast,,Worker (A rating),Skilled Worker
@@ -104041,7 +104055,6 @@ Requisite Needs Limited,Basingstoke,,Worker (A rating),Skilled Worker
 Requsyol Ltd,Park Royal,Middlesex,Worker (A rating),Skilled Worker
 Rerrick Contract Services Ltd,KIRKCUDBRIGHT,Dumfries & Galloway,Worker (A rating),Skilled Worker
 RES Design Services Ltd,London,,Worker (A rating),Skilled Worker
-RES Energy Services Limited,Kings Langley,Hertfordshire,Worker (A rating),Skilled Worker
 RES Energy Services Limited,Kings Langley,Hertfordshire,Worker (A rating),Skilled Worker
 Res Environmental Ltd,Sheffield,South Yorkshire,Worker (A rating),Skilled Worker
 Res Healthcare Ltd,Manchester,,Worker (A rating),Skilled Worker
@@ -105232,7 +105245,6 @@ RIVERSIDE 21 LTD T/A FONE REVIVE CHIPPENHAM,CHIPPENHAM ,,Worker (A rating),Skill
 Riverside Beach Hotel Ltd t/a Little Haven Hotel,Tyne and Wear,,Worker (A rating),Skilled Worker
 RIVERSIDE BIO LTD,MITCHAM,SURREY,Worker (A rating),Skilled Worker
 Riverside Brasserie Limited,London,,Worker (A rating),Skilled Worker
-Riverside Care Home Limited,Burton on Trent,,Worker (A rating),Skilled Worker
 Riverside Chiropractic Group Ltd ,Aberdeen,,Worker (A rating),Skilled Worker
 Riverside Christian Centre ,Exeter ,,Worker (A rating),Tier 2 Ministers of Religion
 Riverside Christian Centre ,Exeter ,,Temporary Worker (A rating),Religious Worker
@@ -105878,7 +105890,7 @@ Rockstead Ltd,High Wycombe,Buckinghamshire,Worker (A rating),Skilled Worker
 Rocksteady Studios Limited,London,,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
 Rocksteady Studios Limited,London,,Worker (A rating),Skilled Worker
 Rocktech IT and Security Solutions Ltd,Hounslow,,Worker (A rating),Skilled Worker
-ROCKTOWER HOMES LTD,Great Warley,Brentwood,Worker (A rating),Skilled Worker
+ROCKTOWER HOMES LTD,Chelmsford,,Worker (A rating),Skilled Worker
 ROCKVALE INTERNATIONAL LIMITED,Worthing,,Worker (A rating),Skilled Worker
 Rockwell Automation UK Ltd,Milton Keynes,,Worker (A rating),Skilled Worker
 Rockwell Automation UK Ltd,Milton Keynes,,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
@@ -108775,7 +108787,6 @@ samis studio limited ,London,uk,Worker (A rating),Skilled Worker
 Samisons UK Limited T/A Potters Local,Herts,Hertfordshire,Worker (A rating),Skilled Worker
 SAMITAA LTD,Kent,,Worker (A rating),Skilled Worker
 Samiul Construction Ltd,Keighley,,Worker (A rating),Skilled Worker
-SAMIYA FOOD LTD,LONDON,,Worker (A rating),Skilled Worker
 Samiz Lounge Hair & Beauty Ltd,Ashford,,Worker (A rating),Skilled Worker
 Samkit Infosystems Ltd,Sunbury on Thames,,Worker (A rating),Skilled Worker
 SAMKO SERVICES LIMITED,Surbiton,,Worker (A rating),Skilled Worker
@@ -108891,9 +108902,7 @@ Samurai San Ltd trading as The Thai Bar and Restuarant,Glasgow,,Worker (A rating
 Samvedya Technologies Limited,Hounslow ,Middlesex ,Worker (A rating),Skilled Worker
 Samy (March) Limited,Birmingham,West Midlands,Worker (A rating),Skilled Worker
 Samy Investments Limited,Birmingham,West Midlands,Worker (A rating),Skilled Worker
-SAMY INVESTMENTS LTD,Middlesbrough,,Worker (A rating),Skilled Worker
 Samy Limited,Birmingham,West Midlands,Worker (A rating),Skilled Worker
-Samy Ltd,Middlesbororugh,North yorkshire,Worker (A rating),Skilled Worker
 SAMY ROAD UK LIMITED,London,,Worker (A rating),Skilled Worker
 SAMY'S CAR SALES LTD,Bedford,,Worker (A rating),Skilled Worker
 Samy's Premier,Brighton,Sussex,Worker (A rating),Skilled Worker
@@ -110429,6 +110438,7 @@ SEAB Power Ltd,London,,Worker (A rating),Global Business Mobility: Senior or Spe
 Seaborn Software Ltd,London,,Worker (A rating),Skilled Worker
 SeaBot Maritime Limited,Portsmouth,HAM,Worker (A rating),Skilled Worker
 Seabound Carbon Ltd,London,,Worker (A rating),Skilled Worker
+Seabridge AI,London,,Worker (A rating),Skilled Worker
 Seabright Productions Limited,London,Greater London,Temporary Worker (A rating),Creative Worker
 Seabrokers Limited,Westhill,Aberdeenshire,Worker (A rating),Skilled Worker
 Seabrook Design Limited,Oakham,Rutland,Worker (A rating),Skilled Worker
@@ -110580,7 +110590,6 @@ Secom Plc,Surrey,,Worker (A rating),Global Business Mobility: Senior or Speciali
 Secomak Ltd ,Elstree,,Worker (A rating),Skilled Worker
 Secon Cyber Security Ltd,London,,Worker (A rating),Skilled Worker
 Second Act Ltd T/A Syani and T/A Jashns,London,,Worker (A rating),Skilled Worker
-Second City Housing,Birmingham,West Midlands,Worker (A rating),Skilled Worker
 SECOND CITY HOUSING PROPERTIES LTD,Birmingham,,Worker (A rating),Skilled Worker
 Second Front Systems Limited,Maidenhead,,Worker (A rating),Global Business Mobility: UK Expansion Worker
 Second Front Systems Limited,Maidenhead,Berkshire,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
@@ -110767,8 +110776,6 @@ Sefardi Ltd t/a Bala Baya,London,,Worker (A rating),Skilled Worker
 Sefas Innovation Ltd,BRISTOL,,Worker (A rating),Skilled Worker
 SEFE Marketing & Trading Limited,London,,Worker (A rating),Skilled Worker
 SEFE Marketing & Trading Limited,London,,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
-SEFE Marketing & Trading Ltd,London,,Worker (A rating),Skilled Worker
-SEFE Marketing & Trading Ltd,London,,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
 SEFF- South East Fermanagh Foundation,Lisnaskea,Co. Fermanagh,Worker (A rating),Skilled Worker
 SEFGROVE LTD,LONDON,,Worker (A rating),Skilled Worker
 SEFI STEEL LTD,Manchester,,Worker (A rating),Skilled Worker
@@ -113335,7 +113342,6 @@ SILKWAYZ LTD,London,,Worker (A rating),Skilled Worker
 SILKY CONSULTANCY LTD,Farnham,Buckinghamshire,Worker (A rating),Skilled Worker
 Silloth Group Medical Practice,Wigton,Cumbria,Worker (A rating),Skilled Worker
 Sillywater Ltd T/A Caremark (Arun),Arundel,,Worker (A rating),Skilled Worker
-Sillywater Ltd T/A Caremark (Arun),Arundel,,Worker (A rating),Skilled Worker
 SILO LIMITED,HARROW,LONDON,Worker (A rating),Skilled Worker
 Silomarg Ltd,Alfreton ,Derbyshire,Worker (A rating),Skilled Worker
 SILPHIUM ASSET MANAGEMENT LIMITED,LONDON,,Worker (A rating),Skilled Worker
@@ -113951,7 +113957,7 @@ SITA Advanced Travel Solutions Ltd,Reading,,Worker (A rating),Skilled Worker
 Sita Devi Ltd,Glasgow,,Worker (A rating),Skilled Worker
 SITA Information Networking Computing UK Ltd,Hayes,Middlesex,Worker (A rating),Skilled Worker
 SITA Information Networking Computing UK Ltd,Hayes,Middlesex,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
-SITAL DISTRIBUTION LTD,"Slough, Berkshire",,Worker (A rating),Skilled Worker
+SITAL DISTRIBUTION LTD,"Staplehill, Bristol",,Worker (A rating),Skilled Worker
 Sital Petroleum Ltd t/a Shell,Bolton,,Worker (A rating),Skilled Worker
 Sitala Bio Ltd,Cambridge,,Worker (A rating),Skilled Worker
 Sitana Studios Ltd,Bristol,,Worker (A rating),Skilled Worker
@@ -114807,6 +114813,7 @@ Smart Point Group UK Limited,Bristol,Somerset,Worker (A rating),Skilled Worker
 SMART PRICES LIMITED T/A TOOLS AND SCREW,NEWCASTLE UPON TYNE,,Worker (A rating),Skilled Worker
 Smart Projex Ltd ,Crmlington ,Northumberland ,Worker (A rating),Skilled Worker
 SMART PROPERTY SERVICE LTD,LONDON,,Worker (A rating),Skilled Worker
+SMART RESPONSE MEDIA LIMITED,LONDON,,Worker (A rating),Skilled Worker
 SMART SALES AND HIRE LTD,Coventry,,Worker (A rating),Skilled Worker
 SMART SAP LOGISTICS LIMITED,Redhill,,Worker (A rating),Skilled Worker
 SMART SAVE UTILITIES LTD,LONDONDERRY,NORTHERN IRELAND,Worker (A rating),Skilled Worker
@@ -115038,7 +115045,7 @@ Smile Hub,London,London,Worker (A rating),Skilled Worker
 "Smile Identity UK, Limited",London,,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
 Smile Implant Centre Ltd,London,,Worker (A rating),Skilled Worker
 SMILE IN TURKEY LTD,TWICKENHAM,,Worker (A rating),Skilled Worker
-Smile IT Solutions Limited,Borehamwood,,Worker (A rating),Skilled Worker
+Smile IT Solutions Limited,London,,Worker (A rating),Skilled Worker
 Smile Link Dental Limited,Ellesmere Port,Cheshire,Worker (A rating),Skilled Worker
 smile manchester ltd,Manchester,Trafford,Worker (A rating),Skilled Worker
 Smile Matters,London,,Worker (A rating),Skilled Worker
@@ -115121,7 +115128,6 @@ SML EUROPE LTD,CORBY,NORTHAMPTONSHIRE,Worker (A rating),Global Business Mobility
 SMM Global UK Ltd,London,,Worker (A rating),Skilled Worker
 Smmmile Bristol Ltd,Bristol,,Worker (A rating),Skilled Worker
 SMO Services Limited,Blackpool,Lancashire,Worker (A rating),Skilled Worker
-SMOKE & FIRE CURTAINS LIMITED,Leicester,Leicestershire,Worker (A rating),Skilled Worker
 SMOKE & HERITAGE LIMITED ,NEWCASTLE UPON TYNE,,Worker (A rating),Skilled Worker
 Smoke & Peppers (Ldn) Ltd,London,,Worker (A rating),Skilled Worker
 Smoke Control Services Ltd T/A Group SCS,Cardiff,,Worker (A rating),Skilled Worker
@@ -116028,9 +116034,9 @@ Sophisa Ltd T/A Wallace White Accountants,Glasgow,Lanarkshire,Worker (A rating),
 Sophoi Limited,Haywards Heath,,Worker (A rating),Skilled Worker
 SOPHOS LIMITED,Abingdon,,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
 SOPHOS LIMITED,Abingdon,,Worker (A rating),Skilled Worker
-Sophrena Limited,London,London,Worker (A rating),Skilled Worker
-Sopra Steria Limited,Newcastle Upon Tyne,,Worker (A rating),Skilled Worker
+Sophrena Limited,{Potters Bar,,Worker (A rating),Skilled Worker
 Sopra Steria Limited,Newcastle Upon Tyne,,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
+Sopra Steria Limited,Newcastle Upon Tyne,,Worker (A rating),Skilled Worker
 SOPRANOS PIZZA NE LTD T/A Sopranos Pizza,MIDDLESBROUGH,,Worker (A rating),Skilled Worker
 Sopro Group Limited,Poole,Dorset,Worker (A rating),Skilled Worker
 SoProduce Limited,Birmingham,,Worker (A rating),Skilled Worker
@@ -116077,9 +116083,8 @@ Soteriou Banerji,London,,Worker (A rating),Skilled Worker
 Sothall Medical Centre,Sheffield,South Yorkshire,Worker (A rating),Skilled Worker
 Sotheby's,London,,Worker (A rating),Skilled Worker
 Sotheby's,London,,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
-Sotheby's International Realty Ltd,London,,Worker (A rating),Skilled Worker
-SOTI Ltd,Solihull ,West Midlands,Worker (A rating),Skilled Worker
 SOTI Ltd,Solihull ,West Midlands,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
+SOTI Ltd,Solihull ,West Midlands,Worker (A rating),Skilled Worker
 Sotto Sotto Ltd,Bath,,Worker (A rating),Skilled Worker
 Soufflet Bairds Malt Ltd,Burton-on-Trent,,Worker (A rating),Skilled Worker
 Souhil Laib Ltd,London,,Worker (A rating),Skilled Worker
@@ -116741,7 +116746,7 @@ Speciality Drinks Limited,London,,Worker (A rating),Skilled Worker
 Speciality Fibres and Materials Ltd,Coventry,West Midlands,Worker (A rating),Skilled Worker
 Specifi.io ltd,Bangor,Co. Down,Worker (A rating),Skilled Worker
 Specific Events Limited,London,,Temporary Worker (A rating),Creative Worker
-SPECKLES LIMITED,Liverpool,,Worker (A rating),Skilled Worker
+SPECKLES LIMITED,Northampton,,Worker (A rating),Skilled Worker
 SpecPower Ltd,Kennington,,Worker (A rating),Skilled Worker
 "Specright, Ltd",London,,Worker (A rating),Global Business Mobility: UK Expansion Worker
 SPECS TECH UK LTD,Purley,,Worker (A rating),Skilled Worker
@@ -116917,7 +116922,6 @@ SPG INFOTECH LTD,LONDON,,Worker (A rating),Skilled Worker
 SPH ENTERPRISE,EVESHAM,WORCESTERSHIRE,Worker (A rating),Skilled Worker
 Sphera Solutions UK Limited,Stonehaven,,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
 Sphera Solutions UK Limited,Stonehaven,,Worker (A rating),Skilled Worker
-Sphere Bio Limited,Cambridge,- None -,Worker (A rating),Skilled Worker
 Sphere Care Solutions,Bolton,Greater Manchester,Worker (A rating),Skilled Worker
 Sphere Digital Recruitment Limited,London,,Worker (A rating),Skilled Worker
 Sphere Global Limited trading as Sphere Global Solutions,Bearwood,West Midlands,Worker (A rating),Skilled Worker
@@ -117765,7 +117769,6 @@ SRS RESTAURANTS LTD,"sale, Cheshire",,Worker (A rating),Skilled Worker
 SRS Wine Limited,Bishop's Stortford,Hertfordshire,Worker (A rating),Skilled Worker
 SRSS Retail Limited T/A M&R Food & Liquor,Harrow,,Worker (A rating),Skilled Worker
 SRT Marine System Solutions Limited,Midsomer Norton,Bath,Worker (A rating),Skilled Worker
-SRT PETROLEUM LTD,Somerset,,Worker (A rating),Skilled Worker
 SRT Products ,Birmingham,,Worker (A rating),Skilled Worker
 SRUSHTI LIMITED T/A REENA FOOD STORE,ROCHESTER,KENT,Worker (A rating),Skilled Worker
 SRV Delson,Harrow,Middlesex,Worker (A rating),Skilled Worker
@@ -118530,7 +118533,6 @@ Stainless Balustrade Solution,Luton,Bedfordshire,Worker (A rating),Skilled Worke
 Stainless Games Ltd,Newport,Isle of Wight,Worker (A rating),Skilled Worker
 STAINLESS GREEN LTD,London,,Worker (A rating),Skilled Worker
 Stainless Metalcraft (Chatteris) Ltd,Chatteris,Cambridgeshire,Worker (A rating),Skilled Worker
-Stainless Steel Vessels Limited,Leeds,West Yorkshire,Worker (A rating),Skilled Worker
 Stainless UK Limited,Sheffield,,Worker (A rating),Skilled Worker
 Stainless Wire Supplies Ltd,Ludlow,Shropshire,Worker (A rating),Skilled Worker
 STAINWAY SUPERMARKET, Middlesex,,Worker (A rating),Skilled Worker
@@ -118589,7 +118591,7 @@ Standish Management (UK) Ltd,London,,Worker (A rating),Skilled Worker
 Standish Management UK Limited,London,,Worker (A rating),Skilled Worker
 Standish Management UK Limited,London,,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
 Standish Medical Practice,Wigan,,Worker (A rating),Skilled Worker
-Standley Design and Build Ltd,Wimbledon,London ,Worker (A rating),Skilled Worker
+Standley Design and Build Ltd,Wimbledon,London ,Worker (B rating),Skilled Worker
 Standley Holdings ,Eastbourne ,,Worker (A rating),Skilled Worker
 STANDON NEWS LTD,Gravesend,,Worker (A rating),Skilled Worker
 STANDON SOLUTIONS LIMITED,Hertford,,Worker (A rating),Skilled Worker
@@ -118604,7 +118606,6 @@ Stanga Ltd,Towcester,,Worker (A rating),Skilled Worker
 STANHILL HOTEL LIMITED,Horley ,,Worker (A rating),Skilled Worker
 Stanhope AI Ltd,London,,Worker (A rating),Skilled Worker
 Stanhope Brasted Ltd,Westerham,Kent,Worker (A rating),Skilled Worker
-Stanhope Capital LLP,London,,Worker (A rating),Skilled Worker
 Stanhope Gate Architecture Ltd,London,,Worker (A rating),Skilled Worker
 STANHOPE SUPERMARKET LTD,BISHOP AUCKLAND,DURHAM,Worker (A rating),Skilled Worker
 Stanhope-Seta Limited,Chertsey,Surrey,Worker (A rating),Skilled Worker
@@ -119175,6 +119176,7 @@ Stepping Stones RU Ltd,Newnham on Severn,Gloucestershire,Worker (A rating),Skill
 Stepping Stones Services Ltd,Rochdale,Greater Manchester,Worker (A rating),Skilled Worker
 Steppingstones Medical Practice,Dudley,West Midlands,Worker (A rating),Skilled Worker
 STEPPN-STONE LIMITED,NORTHAMPTON,Northamptonshire,Worker (A rating),Skilled Worker
+Steps Ahead Care & Support Ltd,Plymouth,Devon,Worker (A rating),Skilled Worker
 Steps Ahead Mobile Footcare,Keith,,Worker (A rating),Skilled Worker
 STEPS EDUCATION LIMITED,London ,,Worker (A rating),Skilled Worker
 STEPS HOMES ,ILFORD,,Worker (A rating),Skilled Worker
@@ -119714,7 +119716,6 @@ Strategic Agenda UK LTD,LONDON,England,Worker (A rating),Skilled Worker
 Strategic Analytics Limited,London,,Worker (A rating),Skilled Worker
 Strategic Blue Services Limited,London,,Worker (A rating),Skilled Worker
 Strategic Industrial Capital Partners Limited,London,London,Worker (A rating),Skilled Worker
-STRATEGIC LEISURE LIMITED,BRIDGNORTH,SHROPSHIRE,Worker (A rating),Skilled Worker
 Strategic Moves ltd,Kingsbury Rd,West Midlands,Worker (A rating),Skilled Worker
 Strategic Software Applications Ltd,London,,Worker (A rating),Skilled Worker
 Strategic Transfer Solutions Limited,London,,Worker (A rating),Skilled Worker
@@ -120212,7 +120213,6 @@ Subsea Energy Solutions Limited,Catterick Garrison,North Yorkshire,Worker (A rat
 Subsea Pressure Controls Ltd,Aberdeen,Aberdeenshire,Worker (A rating),Skilled Worker
 Substance 2005 Limited,Manchester,,Worker (A rating),Skilled Worker
 Substance Over Form Limited,London,,Worker (A rating),Skilled Worker
-Substance Over Form Ltd.,London,,Worker (A rating),Skilled Worker
 Substance001 Ltd,London,,Worker (A rating),Skilled Worker
 Substantial Group,London,,Worker (A rating),Skilled Worker
 Substrakt Ltd,Birmingham,,Worker (A rating),Skilled Worker
@@ -121000,7 +121000,7 @@ Suprav Hotels Ltd t/as Haughton Arms Hotel, Aberdeenshire,,Worker (A rating),Ski
 Suprav LTD,Fochabers,Moray,Worker (A rating),Skilled Worker
 SUPRBIT LIMITED,WOKINGHAM,,Worker (A rating),Skilled Worker
 Suprema Systems UK Ltd,Birmingham,West Midlands,Worker (A rating),Skilled Worker
-Supremacy Care Services Limited,Morden,,Worker (A rating),Skilled Worker
+Supremacy Care Services Limited,Frimley Park,,Worker (A rating),Skilled Worker
 SUPREME ACCOUNTANTS LIMITED,Bradford,West Yorkshire,Worker (A rating),Skilled Worker
 Supreme Auctions Limited,Dronfield,,Worker (A rating),Skilled Worker
 SUPREME BEDS LTD,Brierley Hill,,Worker (A rating),Skilled Worker
@@ -121110,6 +121110,7 @@ Surinder Kumar Rajput and Urmil Rajput T/A The Bell and Bottle,Maidenhead,,Worke
 Surinder Kumar T/As Sunny's Barbers,Cardiff ,,Worker (A rating),Skilled Worker
 SURIYA JEWELS LIMITED,London,,Worker (A rating),Skilled Worker
 Suriya Management Services Limited,London,,Worker (A rating),Skilled Worker
+SURMA CONSTRUCTION LIMITED,LONDON,,Worker (A rating),Skilled Worker
 SURMA CURRY HOUSE LIMITED,Brightlingsea,Colchester,Worker (A rating),Skilled Worker
 Surma Stores Ltd,Luton ,,Worker (A rating),Skilled Worker
 Surmah Co LTD,Rugby,Warwickshire,Worker (A rating),Skilled Worker
@@ -121216,7 +121217,6 @@ Susquehanna International Securities Limited - UK Branch,London,,Worker (A ratin
 Susquehanna UK Limited,London,,Worker (A rating),Skilled Worker
 Sussex Auto Parts Ltd,Hailsham,East Sussex,Worker (A rating),Skilled Worker
 Sussex Baby Scans Limited ,Milton Keynes,,Worker (A rating),Skilled Worker
-Sussex Baby Scans Ltd,Worthing,West Sussex,Worker (A rating),Skilled Worker
 Sussex Community Dermatology Service Ltd,Hove,East Sussex,Worker (A rating),Skilled Worker
 Sussex Community NHS FoundationTrust,Brighton,East Sussex,Worker (A rating),Skilled Worker
 Sussex County Cricket Club,Hove,East Sussex,Worker (A rating),International Sportsperson
@@ -122545,7 +122545,6 @@ TAKREEM LIMITED T/A MAHARANI INDIAN TAKEAWAY,CAMBRIDGE,,Worker (A rating),Skille
 Taks Fish and Chips Ltd,Rowley Regis,,Worker (A rating),Skilled Worker
 Taks Healthcare LTD,Stevenage,Herts,Worker (A rating),Skilled Worker
 Takt Solutions Ltd,London,,Worker (A rating),Skilled Worker
-Takt Solutions Ltd,London,,Worker (A rating),Skilled Worker
 TAKUMI SUSHI& NOODLE BAR LIMITED,Swansea,,Worker (A rating),Skilled Worker
 TAL Marketing Group Limited,Manchester,Lancashire,Worker (A rating),Skilled Worker
 Tal-Y-Bont Surgery,Pontarddulais,Swansea,Worker (A rating),Skilled Worker
@@ -123106,6 +123105,7 @@ Taunton School Educational Charity,Taunton,Somerset,Worker (A rating),Skilled Wo
 Taunton Specsavers Limited,Taunton,,Worker (A rating),Skilled Worker
 Taunton St Andrews Cricket Club,Taunton,Somerset,Worker (A rating),International Sportsperson
 Taunton Vale Healthcare,Taunton,Somerset,Worker (A rating),Skilled Worker
+Taurex Limited,London,,Worker (A rating),Skilled Worker
 Tauro Design Limited ,Kent ,,Worker (A rating),Skilled Worker
 Taurus Fx Limited,London,,Worker (A rating),Skilled Worker
 Taurus Fx Limited,London,,Temporary Worker (A rating),Creative Worker
@@ -123166,7 +123166,6 @@ Tax'd Ltd,Winchester,Hampshire,Worker (A rating),Skilled Worker
 Taxaccolega Ltd,Croydon,Surrey,Worker (A rating),Skilled Worker
 TaxAdvisor Accountants Ltd t/a TaxAssist Accountants,London,,Worker (A rating),Skilled Worker
 TAXAIDERS LIMITED,STOKE ON TRENT,,Worker (A rating),Skilled Worker
-TAXAR ENTERPRISE LTD T/A MOUNT GURKHA,LOUGHBOROUGH,,Worker (A rating),Skilled Worker
 TaxAssist Accountants,London,,Worker (A rating),Skilled Worker
 TaxAssist Accountants Enfield,Enfield,,Worker (A rating),Skilled Worker
 TAXASSIST DIRECT LIMITED,NORWICH,,Worker (A rating),Skilled Worker
@@ -123252,7 +123251,6 @@ TAYYABAH BAKERY LIMITED,Lancs.,,Worker (A rating),Skilled Worker
 TAZ Convenience Store Ltd,Wakefield,,Worker (A rating),Skilled Worker
 Taz Corporation Limited T/A Castleview Cars,Windsor,,Worker (A rating),Skilled Worker
 TAZ RESTAURANT,CHELMSFORD, ESSEX,Worker (A rating),Skilled Worker
-TAZ Trading Ltd,Bury,,Worker (A rating),Skilled Worker
 Taza Food Group Ltd. ,Edinburgh,,Worker (A rating),Skilled Worker
 TAZAKI FOODS LTD,ENFIELD,MIDDLESEX,Worker (A rating),Skilled Worker
 TAZAKI FOODS LTD,ENFIELD,MIDDLESEX,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
@@ -124180,7 +124178,6 @@ TERRA ENABLING DEVELOPERS LIMITED,London,,Worker (A rating),Skilled Worker
 Terra Firma Capital Partners,London,,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
 Terra Firma Capital Partners,London,,Worker (A rating),Skilled Worker
 Terra Instinct Limited,London,Greater London,Worker (A rating),Skilled Worker
-Terra Nova School Trust Ltd,Holmes Chapel,Cheshire,Temporary Worker (A rating),Charity Worker 
 Terra Payment Services (UK) Ltd,London,,Worker (A rating),Skilled Worker
 Terra Rossa,London,,Worker (A rating),Skilled Worker
 Terra Tek Studios Limited,London,,Worker (A rating),Skilled Worker
@@ -125163,7 +125160,7 @@ The Cake Dream Limited,Enfield,,Worker (A rating),Skilled Worker
 THE CAKE RITUAL LTD,Newcastle Upon Tyne,,Worker (A rating),Skilled Worker
 THE CAKEBOX NORTHAMPTON LIMITED,NORTHAMPTON,,Worker (A rating),Skilled Worker
 The Calcutta Club Limited TA Calcutta Club ,Nottingham,,Worker (A rating),Skilled Worker
-The Cam Academy Trust,Comberton,Cambridgeshire,Worker (A rating),Skilled Worker
+The CAM Academy Trust,Cambourne,Cambridgeshire,Worker (A rating),Skilled Worker
 The Cambridge Access Validating Agency,Cambridge,,Worker (A rating),Skilled Worker
 The Cambridge Oven,Cambridge,Cambridgeshire,Worker (A rating),Skilled Worker
 The Cambridge Practice,Aldershot,Hampshire,Worker (A rating),Skilled Worker
@@ -125640,7 +125637,8 @@ The Diamond Learning Partnership Trust,St. Neots,Cambridgeshire,Worker (A rating
 THE DIAMOND OF SHOTTS LIMITED t/a Koh I Noor,Shotts,,Worker (A rating),Skilled Worker
 The Dicconson Group Practice ,Wigan,Greater Manchester ,Worker (A rating),Skilled Worker
 The Diffley Partnership Limited,Edinburgh,,Worker (A rating),Skilled Worker
-The Digital Accessibility Centre limited,Llandarcy,Neath port Talbot,Worker (A rating),Skilled Worker
+The Digital Accessibility Centre limited,Swansea,,Worker (A rating),Skilled Worker
+The Digital Age Ltd ,East Linton,,Worker (A rating),Skilled Worker
 The Digital Bench Ltd,Hove,,Worker (A rating),Skilled Worker
 The Digital Fairy Ltd,London,,Worker (A rating),Skilled Worker
 THE DIGITAL LIGHTHOUSE,NEWCASTLE UPON TYNE,,Worker (A rating),Skilled Worker
@@ -126533,6 +126531,7 @@ THE KANDY KING LTD,"Heston,",,Worker (A rating),Skilled Worker
 The Kandyan Restaurant Limited,Bristol,Avon,Worker (A rating),Skilled Worker
 The Kantar Group Limited,London,,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
 The Kantar Group Limited,London,,Worker (A rating),Skilled Worker
+The Karma CoKitchen ltd,London,,Worker (A rating),Skilled Worker
 The Karuna Trust,London,,Temporary Worker (A rating),Charity Worker 
 THE KATHMANDU LTD,RIPLEY,,Worker (A rating),Skilled Worker
 The Kati Roll Company Limited ,London,,Worker (A rating),Skilled Worker
@@ -130027,6 +130026,7 @@ Too Good To Go Ltd ,London,,Worker (A rating),Global Business Mobility: Senior o
 Too Phat Too Fly,Trafford,Greater Manchester ,Worker (A rating),Skilled Worker
 toob Limited,Portsmouth,Hampshire,Worker (A rating),Skilled Worker
 TOOL SHOP (LONDON) LTD,LONDON,,Worker (A rating),Skilled Worker
+Tooling Alpha Limited,Cheshire,,Worker (A rating),Skilled Worker
 Toolrite,brentwood,Essex,Worker (A rating),Skilled Worker
 Tools 4 Life Ltd T/A The Link,Oldham,,Worker (A rating),Skilled Worker
 Tools 4 Trade Limited,Milton Keynes,Buckinghamshire,Worker (A rating),Skilled Worker
@@ -130462,6 +130462,7 @@ Touroo Ltd,London,,Worker (A rating),Skilled Worker
 Tourplan UK Ltd,London,,Worker (A rating),Skilled Worker
 Tourvest Destination Management UK Limited,Woking,,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
 Tourvest Destination Management UK Limited,Woking,,Worker (A rating),Skilled Worker
+TOVA LEGAL LTD,LONDON,ENGLAND,Worker (A rating),Skilled Worker
 Tovie AI Limited,London,,Worker (A rating),Skilled Worker
 Tovil Superstore Ltd,Maindstone ,Kent ,Worker (A rating),Skilled Worker
 Towards AI Deployment Ltd,London,,Worker (A rating),Skilled Worker
@@ -130476,6 +130477,7 @@ Tower Bridge Legal Ltd T/A Tower Bridge Legal,Birmingham ,,Worker (A rating),Ski
 Tower Equine Ltd ,Bourne,Lincolnshire,Worker (A rating),Skilled Worker
 Tower Estates Properties Ltd,LONDON,,Worker (A rating),Skilled Worker
 Tower Fire Protection Ltd ,Greenhithe ,Kent ,Worker (A rating),Skilled Worker
+Tower Hamlets GP Care Group CIC,London,,Worker (A rating),Skilled Worker
 Tower Hamlets Law Centre,LONDON,,Worker (A rating),Skilled Worker
 Tower Hamlets Mission,London,,Worker (A rating),Skilled Worker
 Tower House Dental Clinic,Ryde,Isle of Wight,Worker (A rating),Skilled Worker
@@ -131752,9 +131754,9 @@ TS FIVE STARS GROUP LTD ,London ,Greater London ,Worker (A rating),Skilled Worke
 TS Food & Wine Limited T/A TS Food & Wine ,London,,Worker (A rating),Skilled Worker
 TS Food and Wine,Leeds,West Yorkshire,Worker (A rating),Skilled Worker
 TS Group (PVT) Ltd TA Esquires Coffee,Guildford,Surrey,Worker (A rating),Skilled Worker
-TS HEALTHCARE LIMITED,WOLVERHAMPTON,West Midlands,Worker (A rating),Skilled Worker
-TS Imagine (UK) Ltd,London,,Worker (A rating),Skilled Worker
+TS HEALTHCARE LIMITED,WOLVERHAMPTON,,Worker (A rating),Skilled Worker
 TS Imagine (UK) Ltd,London,,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
+TS Imagine (UK) Ltd,London,,Worker (A rating),Skilled Worker
 TS International Solutions Limited,Watford,Hertfordshire,Worker (A rating),Skilled Worker
 TS Lally Limited,Derby,,Worker (A rating),Skilled Worker
 TS Markt Ltd,Kent,,Worker (A rating),Skilled Worker
@@ -133584,6 +133586,7 @@ United Kingdom Mennonite Ministries,Craven Arms,Shropshire,Worker (A rating),Tie
 United Kingdom Mennonite Ministries,Craven Arms,Shropshire,Temporary Worker (A rating),Religious Worker
 United Kingdom National Nuclear Laboratory,Warrington,,Temporary Worker (A rating),Government Authorised Exchange 
 United Kingdom National Nuclear Laboratory,Warrington,,Worker (A rating),Skilled Worker
+United Kingdom Sotheby's International Realty Limited,London,,Worker (A rating),Skilled Worker
 UNITED KOCHI LTD,Swindon,Wiltshire,Worker (A rating),Skilled Worker
 United Legal Services Limited,Thame,Oxfordshire,Worker (A rating),Skilled Worker
 UNITED LIFE,NORTHAMPTONSHIRE,,Worker (A rating),Tier 2 Ministers of Religion
@@ -135679,6 +135682,7 @@ Via Transportation UK Ltd.,London,,Worker (A rating),Skilled Worker
 VIAAN ENTERPRISE LIMITED,HARROW,MIDDLESEX,Worker (A rating),Skilled Worker
 Viabizzuno Ltd,London,United Kingdom,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
 Viabizzuno Ltd,London,United Kingdom,Worker (A rating),Skilled Worker
+VIACARGO LTD,LEICESTER,,Worker (A rating),Skilled Worker
 ViaCon (United Kingdom) Limited,St. Helens,Merseyside,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
 Viadex Ltd,Surbiton,Surrey,Worker (A rating),Skilled Worker
 VIADUCT FURNITURE LTD,LONDON,,Worker (A rating),Skilled Worker
@@ -136326,6 +136330,7 @@ Vision Team LTD,London,,Worker (A rating),Skilled Worker
 Vision Tech COnsults Ltd,Leicester,,Worker (A rating),Skilled Worker
 VISION TECH GROUP LTD,Hayes,Middlesex,Worker (A rating),Skilled Worker
 Vision Warehouse Limited,Middlesex,,Worker (A rating),Skilled Worker
+Vision Zero Connect Limited,Farnsfield,Nottinghamshire,Worker (A rating),Skilled Worker
 Vision Zero Consult Limited,Farnsfield,Nottinghamshire,Worker (A rating),Skilled Worker
 vision& Kernal catering ltd,BALLINTOY ,Co  Antrim ,Worker (A rating),Skilled Worker
 Vision33 Ltd,London,,Worker (A rating),Skilled Worker
@@ -137374,6 +137379,7 @@ Walter James Limited,London,,Worker (A rating),Global Business Mobility: Senior 
 Walter James Limited,London,,Worker (A rating),Skilled Worker
 Walter Knoll UK LTD,London,,Worker (A rating),Skilled Worker
 WALTER MANNY LIMITED,Wellington,,Worker (A rating),Skilled Worker
+Walter Rose & Son Ltd,Devizes,Wiltshire,Worker (A rating),Skilled Worker
 Walter Stohr Limited T/A Wangford Veterinary Clinic,Beccles,Suffolk,Worker (A rating),Skilled Worker
 Walter Watson Ltd,Castlewellan,Down,Worker (A rating),Skilled Worker
 Walters and Cohen Limited,London,,Worker (A rating),Skilled Worker
@@ -137390,7 +137396,7 @@ Walthamstow Village Montessori Day Nursery,London,,Worker (A rating),Skilled Wor
 Walther Trowal Limited,Stoke on Trent,Staffordshire,Worker (A rating),Skilled Worker
 WALTLABS.IO EMEA LTD,Letchworth Garden City,,Worker (A rating),Skilled Worker
 Walton Cafe Ltd T/A Walton Cafe ,London,,Worker (A rating),Skilled Worker
-Walton Care Limited,Preston,Lancashire,Worker (A rating),Skilled Worker
+Walton Care Limited,London,,Worker (A rating),Skilled Worker
 Walton Chemist,Peterborough,,Worker (A rating),Skilled Worker
 Walton Glasgow Ltd t/a Dumpukht ,Glasgow ,,Worker (A rating),Skilled Worker
 Walton Heath Manor,Tadworth,Surrey,Worker (A rating),Skilled Worker
@@ -138357,7 +138363,6 @@ Welsh Parliament,Cardiff,,Temporary Worker (A rating),Government Authorised Exch
 Welshpool Medical Practice,WELSHPOOL,Powys,Worker (A rating),Skilled Worker
 Welspun UK Limited,Stockport,United Kingdom,Worker (A rating),Skilled Worker
 Welton Connections Limited,Birmingham,West Midlands,Worker (A rating),Skilled Worker
-Welton Connections Limited,Birmingham,West Midlands,Worker (A rating),Skilled Worker
 Welton Tandoori Ltd t/a Welton Spice,Welton,Lincolnshire,Worker (A rating),Skilled Worker
 Welwin Infotech Ltd,Haverhill,Suffolk,Worker (A rating),Skilled Worker
 Welwing Capital UK Limited,London,,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
@@ -138932,6 +138937,7 @@ Weymouth Visionplus Limited,Weymouth,Dorset,Worker (A rating),Skilled Worker
 Weyspring Limited,Haslemere,Surrey,Worker (A rating),Skilled Worker
 WF Federated GP Network Ltd.,Highams Park,London,Worker (A rating),Skilled Worker
 WF Management Ltd ,London,,Worker (A rating),Skilled Worker
+WFH OP CO LTD T/A WATERFOOT HOTEL,DERRY,NORTHERN IRELAND,Worker (A rating),Skilled Worker
 WFL (UK) Limited ,Brinkworth,Wiltshire,Worker (A rating),Skilled Worker
 WFT London Ltd,Canvey Island,Essex,Worker (A rating),Skilled Worker
 WFW Global LLP,London,,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
@@ -139141,7 +139147,6 @@ White-eagles Educational Services Limited,Nottingham,Nottinghamshire,Worker (A r
 White-Red Limited,London,,Worker (A rating),Skilled Worker
 Whitebottom Farm Estates Ltd,Stockport,,Temporary Worker (A rating),Creative Worker
 "Whitebox Advisors London, LLP",London,,Worker (A rating),Skilled Worker
-WHITECHAPEL TEA HOUSE LIMITED,London,England,Worker (A rating),Skilled Worker
 Whitecliff Management Corporation Limited,London,,Temporary Worker (A rating),Global Business Mobility: Graduate Trainee
 Whitecliff Management Corporation Limited,London,,Worker (A rating),Skilled Worker
 Whitecliff Management Corporation Limited,London,,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
@@ -141185,8 +141190,8 @@ XON FUELS UK LIMITED,Cornwall,,Worker (A rating),Skilled Worker
 Xoople UK Ltd,Manchester ,,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
 Xoople UK Ltd,Manchester ,,Worker (A rating),Skilled Worker
 Xoptix Limited,Malvern,Worcestershire,Worker (A rating),Skilled Worker
-Xoriant UK Limited,North Harrow,Middlesex,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
-Xoriant UK Limited,North Harrow,Middlesex,Worker (A rating),Skilled Worker
+Xoriant UK Limited,London,EC2N 4AG,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
+Xoriant UK Limited,London,EC2N 4AG,Worker (A rating),Skilled Worker
 Xorlogics Ltd.,London,,Worker (A rating),Skilled Worker
 Xorlogics Ltd.,London,,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
 Xown Solutions Limited,Oldbury,,Worker (A rating),Skilled Worker
@@ -141526,6 +141531,7 @@ YAZH IT SOLUTIONS LTD,READING,,Worker (A rating),Skilled Worker
 YB Holding Ltd trading as Bridge of Don Dental & Aesthetic Clinic ,Aberdeen ,,Worker (A rating),Skilled Worker
 YB Music Limited,London,,Worker (A rating),Skilled Worker
 YBM International Ltd,Tunbridge Wells,,Worker (A rating),Skilled Worker
+YBRANT CORE LIMITED,Coventry,West Midlands,Worker (A rating),Skilled Worker
 Ybrant Core Limited,Coventry,West Midlands,Worker (A rating),Skilled Worker
 YBSM Partners Ltd,Stratford,London,Worker (A rating),Skilled Worker
 YBU LTD ,READING ,,Worker (A rating),Skilled Worker
@@ -141683,6 +141689,7 @@ YM ACCOUNTANTS LTD,London,,Worker (A rating),Skilled Worker
 YM ROOF LIMITED,CHISWICK,,Worker (A rating),Skilled Worker
 YM&U Business Management Limited,London,,Worker (A rating),Skilled Worker
 YMC Limited,London,,Worker (A rating),Skilled Worker
+YMCA Chiltern Group,Watford,,Worker (A rating),Skilled Worker
 YMCA Derbyshire,Derby,East Midlands,Worker (A rating),Skilled Worker
 YMCA Fairthorne Group,Southampton,Hampshire,Temporary Worker (A rating),Charity Worker 
 YMCA Fairthorne Group,Southampton,Hampshire,Worker (A rating),Skilled Worker
@@ -141915,7 +141922,6 @@ YOUR ACCOMMODATION LTD T/A NUMBER 11 BY THE WARREN COLLECTION,BELFAST,NORTHERN I
 Your Baby Scan Ltd,Widnes,,Worker (A rating),Skilled Worker
 Your Business Partner London Ltd,London,,Worker (A rating),Skilled Worker
 Your Care (UK) Limited,Bolton,Lancashire,Worker (A rating),Skilled Worker
-YOUR CARE NURSING LTD,Enfield,,Worker (A rating),Skilled Worker
 YOUR CARE PROVIDER LTD,BARNSLEY,,Worker (A rating),Skilled Worker
 Your Care Services Brain Injury,BIRMINGHAM,,Worker (A rating),Skilled Worker
 your care team ltd,Dewsbury,West Yorkshire,Worker (A rating),Skilled Worker
@@ -142237,7 +142243,6 @@ Z&Z FOOD SERVICES LTD- T/A PEPE'S PIRI PIRI,Harrow,,Worker (A rating),Skilled Wo
 Z&Z Restaurant Ltd,London,,Worker (A rating),Skilled Worker
 Z-FIT CONSULTANCY LTD,London,,Worker (A rating),Skilled Worker
 Z-H - BANGLA BAZAAR LTD ,Manchester,,Worker (A rating),Skilled Worker
-Z-Tech Control Systems Limited,Swavesey,Cambridge,Worker (A rating),Skilled Worker
 Z.A. AKRAM LIMITED,Huddersfield,,Worker (A rating),Skilled Worker
 Z.A.K. Studio Ltd.,London,,Worker (A rating),Skilled Worker
 Z.BUILDINGS LTD,Manchester ,,Worker (A rating),Skilled Worker
@@ -142403,6 +142408,7 @@ ZAMZAM PAK LIMITED T/A Muskaan Brow Bar,London,,Worker (A rating),Skilled Worker
 ZAMZAM UK TRADING LTD,London,,Worker (A rating),Skilled Worker
 ZAMZAM WOK & GRILL LTD,London,,Worker (A rating),Skilled Worker
 ZAN ENTERPRISES LIMITED,Croydon,,Worker (A rating),Skilled Worker
+ZAN TRADERS LTD,Motherwell,North Lanarkshire ,Worker (A rating),Skilled Worker
 ZANACHICKEN LIMITED,BRADFORD,,Worker (A rating),Skilled Worker
 Zanders (UK) Ltd,London,,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
 Zanders (UK) Ltd,London,,Worker (A rating),Skilled Worker
@@ -142438,7 +142444,7 @@ ZARA MAIA INVESTMENTS LIMITED,Southall,,Worker (A rating),Skilled Worker
 Zaracare 786 Ltd,Sheffield,,Worker (A rating),Skilled Worker
 Zarafa Group Limited,Pickering,North Yorkshire,Worker (A rating),Skilled Worker
 Zareef Associates Ltd,London,,Worker (A rating),Skilled Worker
-ZAREEN TECHNOLOGIES LIMITED,Slough,,Worker (A rating),Skilled Worker
+ZAREEN TECHNOLOGIES LIMITED,Potters Bar,,Worker (A rating),Skilled Worker
 Zari Bar & Restaurant,Crawley,West Sussex,Worker (A rating),Skilled Worker
 Zari Deeside Food Limited TA Zari Indian Restaurant,Deeside,Flintshire,Worker (A rating),Skilled Worker
 Zaria Group UK Limited,London,,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
@@ -142628,7 +142634,6 @@ Zeneesha Ltd,Sunningdale,Ascot,Worker (A rating),Skilled Worker
 Zenen Textile Ltd,London,,Worker (A rating),Global Business Mobility: UK Expansion Worker
 Zenen Textile Ltd,London,,Worker (A rating),Skilled Worker
 Zenex Plus Limited,London,,Worker (A rating),Skilled Worker
-Zenfinex Limited,London,,Worker (A rating),Skilled Worker
 Zengh Indian Cuisine Limited,Telford,,Worker (A rating),Skilled Worker
 Zenif Agency Ltd,Bedford,,Worker (A rating),Skilled Worker
 ZeniMax Europe Limited,London,,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
@@ -142729,7 +142734,6 @@ Zero Point Motion Ltd,Bristol,,Worker (A rating),Skilled Worker
 Zero Proof International Limited,Rickmansworth,Hertfordshire,Worker (A rating),Global Business Mobility: Senior or Specialist Worker
 Zero Proof International Limited,Rickmansworth,Hertfordshire,Worker (A rating),Skilled Worker
 Zero Three Care Homes LLP,Feering,,Worker (A rating),Skilled Worker
-Zero Three Care Homes LLP,East Molesey,Surrey,Worker (A rating),Skilled Worker
 Zero Trace Procurement,London,,Worker (A rating),Skilled Worker
 Zero Trust Security Solutions,London,,Worker (A rating),Skilled Worker
 Zero Waste Scotland,Stirling,Stirlingshire,Worker (A rating),Skilled Worker
